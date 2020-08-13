@@ -15,3 +15,5 @@ The flextable package provides a framework for easily create tables for reportin
 
 #### [Bioinformatics Tutotial 2019](https://angus.readthedocs.io/en/2019/toc.html)
 
+### [Computational genomics tutorial 2019](https://genomics.sschmeier.com/)
+
