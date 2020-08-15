@@ -17,5 +17,5 @@ The flextable package provides a framework for easily create tables for reportin
 
 #### [Computational genomics tutorial 2019](https://genomics.sschmeier.com/)
 
-#### [Understanding, Curating, and Analyzing your Diploid Genome Assembl](https://pb-falcon.readthedocs.io/en/latest/_downloads/Kingan_DiploidGenome_ECUGM2017_BFX.pdf)
+#### [Understanding, Curating, and Analyzing your Diploid Genome Assembly](https://pb-falcon.readthedocs.io/en/latest/_downloads/Kingan_DiploidGenome_ECUGM2017_BFX.pdf)
 
