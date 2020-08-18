@@ -19,3 +19,13 @@ The flextable package provides a framework for easily create tables for reportin
 
 #### [Understanding, Curating, and Analyzing your Diploid Genome Assembly](https://pb-falcon.readthedocs.io/en/latest/_downloads/Kingan_DiploidGenome_ECUGM2017_BFX.pdf)
 
+#### [Exercise: Long Read Assembly](https://scilifelab.github.io/courses/assembly/2017-11-15/exercises/Exercise_Long_Read_Assembly.html)
+
+#### [Long-reads assembly lecture](https://scilifelab.github.io/courses/assembly/2017-11-15/lectures/Long_read_Assembly.pdf)
+
+
+#### [Reproducible research in Genomics](https://nbis-reproducible-research.readthedocs.io/en/course_1803/)
+
+#### [RNASeq lab](https://scilifelab.github.io/courses/ngsintro/1911/labs/rnaseq/lab.html)
+
+#### [Genomics and transcriptomics tutorials](https://scilifelab.github.io/courses/)
