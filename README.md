@@ -29,3 +29,5 @@ The flextable package provides a framework for easily create tables for reportin
 #### [RNASeq lab](https://scilifelab.github.io/courses/ngsintro/1911/labs/rnaseq/lab.html)
 
 #### [Genomics and transcriptomics tutorials](https://scilifelab.github.io/courses/)
+
+#### [Annotation explained](https://www.biostars.org/p/181286/)
