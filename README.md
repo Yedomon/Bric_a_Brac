@@ -31,3 +31,8 @@ The flextable package provides a framework for easily create tables for reportin
 #### [Genomics and transcriptomics tutorials](https://scilifelab.github.io/courses/)
 
 #### [Annotation explained](https://www.biostars.org/p/181286/)
+
+#### [Fungal annotation script](https://github.com/Yedomon/Fungal_genome_annotation)
+
+#### [Annotation and comparative genomics script](https://github.com/Yedomon/AMPRIL-genomes)
+
