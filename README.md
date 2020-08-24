@@ -37,4 +37,5 @@ The flextable package provides a framework for easily create tables for reportin
 #### [Annotation and comparative genomics script](https://github.com/Yedomon/AMPRIL-genomes)
 
 #### [RNA seq analysis](https://decodebiology.github.io/bioinfotutorials/rnaseq_tutorial.html)
+#### [RNA seq tuto](https://gif.biotech.iastate.edu/rnaseq-analysis-walk-through)
 
