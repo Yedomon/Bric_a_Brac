@@ -39,3 +39,5 @@ The flextable package provides a framework for easily create tables for reportin
 #### [RNA seq analysis](https://decodebiology.github.io/bioinfotutorials/rnaseq_tutorial.html)
 #### [RNA seq tuto](https://gif.biotech.iastate.edu/rnaseq-analysis-walk-through)
 
+#### [MA PLOT](https://www.biostars.org/p/457769/)
+
