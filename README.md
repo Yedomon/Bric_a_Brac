@@ -56,3 +56,17 @@ The flextable package provides a framework for easily create tables for reportin
 #### [The complete chloroplast genome of Stryphnodendron adstringens (Leguminosae - Caesalpinioideae): comparative analysis with related Mimosoid species](https://www.nature.com/articles/s41598-019-50620-3)
 
 #### [The Complete Chloroplast Genome Sequences of the Medicinal Plant Forsythia suspensa (Oleaceae)](https://www.mdpi.com/1422-0067/18/11/2288)
+
+#### [Comparative Analysis of the Complete Chloroplast Genomes of Five Quercus Species](https://www.frontiersin.org/articles/10.3389/fpls.2016.00959/full)
+
+#### [IR CONTRACTION](https://www.nature.com/articles/s41438-019-0171-1#:~:text=Compared%20with%20the%20nuclear%20genome,for%20diversity%20and%20evolution%20studies.)
+
+#### [PSEUDOGENE](https://peerj.com/articles/2699/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
+
+#### [Inspiration](https://www.researchsquare.com/article/rs-20050/v1)
+
+#### [Dr swati 1](https://peerj.com/articles/9448/)
+
+#### [Dr swati 2](https://www.mdpi.com/2223-7747/9/5/568/htm)
+
+
