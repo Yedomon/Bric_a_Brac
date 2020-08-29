@@ -11,6 +11,8 @@ The flextable package provides a framework for easily create tables for reportin
 * PDF documents with package pagedown
 * Tables can also be rendered as R plots or graphic files (png, pdf and jpeg).
 
+#### [R Recipe: Shiny Tables from Excel Templates](https://ljupcho.com/blog/shiny-excel-table-templates)
+
 #### [7 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats](https://itsfoss.com/linux-system-monitoring-tools/)
 
 #### [Bioinformatics Tutotial 2019](https://angus.readthedocs.io/en/2019/toc.html)
