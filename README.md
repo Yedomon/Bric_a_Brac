@@ -41,3 +41,5 @@ The flextable package provides a framework for easily create tables for reportin
 
 #### [MA PLOT](https://www.biostars.org/p/457769/)
 
+#### [Complex heat map](https://github.com/kevinblighe/E-MTAB-6141)
+
