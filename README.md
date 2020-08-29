@@ -47,3 +47,5 @@ The flextable package provides a framework for easily create tables for reportin
 
 #### [Complex heat map](https://github.com/kevinblighe/E-MTAB-6141)
 
+#### [A guide to elegant tiled heatmaps in R](https://www.royfrancis.com/a-guide-to-elegant-tiled-heatmaps-in-r-2019/)
+
