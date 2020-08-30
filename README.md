@@ -17,6 +17,10 @@ The flextable package provides a framework for easily create tables for reportin
 
 #### [7 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats](https://itsfoss.com/linux-system-monitoring-tools/)
 
+
+# Genomics
+
+
 #### [Bioinformatics Tutotial 2019](https://angus.readthedocs.io/en/2019/toc.html)
 
 #### [Computational genomics tutorial 2019](https://genomics.sschmeier.com/)
@@ -29,6 +33,10 @@ The flextable package provides a framework for easily create tables for reportin
 
 
 #### [Reproducible research in Genomics](https://nbis-reproducible-research.readthedocs.io/en/course_1803/)
+
+
+# Transcriptomics
+
 
 #### [RNASeq lab](https://scilifelab.github.io/courses/ngsintro/1911/labs/rnaseq/lab.html)
 
@@ -48,6 +56,12 @@ The flextable package provides a framework for easily create tables for reportin
 #### [Complex heat map](https://github.com/kevinblighe/E-MTAB-6141)
 
 #### [A guide to elegant tiled heatmaps in R](https://www.royfrancis.com/a-guide-to-elegant-tiled-heatmaps-in-r-2019/)
+
+
+
+
+# Chloroplast
+
 
 #### [Insights Into Chloroplast Genome Evolution Across Opuntioideae (Cactaceae) Reveals Robust Yet Sometimes Conflicting Phylogenetic Topologies](https://www.frontiersin.org/articles/10.3389/fpls.2020.00729/full#B91)
 
