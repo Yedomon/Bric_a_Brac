@@ -1,25 +1,23 @@
-# Bric_a_Brac
+# R shiny
 
 #### [Shiny Apps: Development and Deployment](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/shiny-apps/)
 #### [Shiny Apps: Development and Deployment Video](https://www.youtube.com/watch?v=QT3WUQu99pM)
+#### [R Recipe: Shiny Tables from Excel Templates](https://ljupcho.com/blog/shiny-excel-table-templates)
+
+
+
+# R
 
 #### [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 #### [flextable R package](https://davidgohel.github.io/flextable/)
 
-The flextable package provides a framework for easily create tables for reporting and publications. Tables can be embedded within:
 
-* R Markdown documents with support for HTML, Word and PowerPoint documents.
-* Microsoft Word or PowerPoint documents with package officer.
-* PDF documents with package pagedown
-* Tables can also be rendered as R plots or graphic files (png, pdf and jpeg).
-
-#### [R Recipe: Shiny Tables from Excel Templates](https://ljupcho.com/blog/shiny-excel-table-templates)
+# Linux 
 
 #### [7 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats](https://itsfoss.com/linux-system-monitoring-tools/)
 
 
 # Genomics
-
 
 #### [Bioinformatics Tutotial 2019](https://angus.readthedocs.io/en/2019/toc.html)
 
@@ -56,8 +54,6 @@ The flextable package provides a framework for easily create tables for reportin
 #### [Complex heat map](https://github.com/kevinblighe/E-MTAB-6141)
 
 #### [A guide to elegant tiled heatmaps in R](https://www.royfrancis.com/a-guide-to-elegant-tiled-heatmaps-in-r-2019/)
-
-
 
 
 # Chloroplast
