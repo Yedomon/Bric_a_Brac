@@ -70,3 +70,16 @@ The flextable package provides a framework for easily create tables for reportin
 #### [Dr swati 2](https://www.mdpi.com/2223-7747/9/5/568/htm)
 
 
+
+# R spatial
+#### [r map tuto 1](https://datavizm20.classes.andrewheiss.com/example/12-example/) [content](https://datavizm20.classes.andrewheiss.com/content/)
+#### [r map tuto 2 create a shp file from data frame ](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)
+#### [r map tuto 3 raster manip](https://datacarpentry.org/r-raster-vector-geospatial/)
+#### [r map tuto 4](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/make-maps-with-ggplot-in-R/)
+#### [r map tuto 5](http://zevross.com/blog/2018/10/02/creating-beautiful-demographic-maps-in-r-with-the-tidycensus-and-tmap-packages/)
+#### [r map tuto 6 sf test](https://gist.github.com/andrewheiss/8e514355d75aac1a7d6b91a67b896f20) [fig](https://twitter.com/andrewheiss/status/1291431466556100608) [data](https://github.com/jvangeld/ME-GIS)
+#### [reading and writing spatial data in r in r](https://mgimond.github.io/Spatial/reading-and-writing-spatial-data-in-r.html)
+#### [Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 2: Layers](https://www.r-spatial.org//r/2018/10/25/ggplot2-sf-2.html)
+#### [Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny](https://www.paulamoraga.com/book-geospatial/)
+
+
