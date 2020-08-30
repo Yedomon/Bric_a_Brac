@@ -72,7 +72,8 @@ The flextable package provides a framework for easily create tables for reportin
 
 
 # R spatial
-#### [r map tuto 1](https://datavizm20.classes.andrewheiss.com/example/12-example/) [content](https://datavizm20.classes.andrewheiss.com/content/)
+
+#### [r map tuto 1](https://datavizm20.classes.andrewheiss.com/example/12-example/) [content](https://datavizm20.classes.andrewheiss.com/content/) [video](https://www.youtube.com/watch?v=Opzwtegvuv4&t=743s)
 #### [r map tuto 2 create a shp file from data frame ](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)
 #### [r map tuto 3 raster manip](https://datacarpentry.org/r-raster-vector-geospatial/)
 #### [r map tuto 4](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/make-maps-with-ggplot-in-R/)
