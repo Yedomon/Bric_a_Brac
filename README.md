@@ -12,6 +12,7 @@
 #### [flextable R package](https://davidgohel.github.io/flextable/)
 #### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION1](https://nakedstatistics.wordpress.com/2017/05/11/plotting-significance/)
 #### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION2](http://131.111.177.41/statistics/R/graphs2.html)
+#### [T TEST](http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r)
 
 # R Markdown
 
