@@ -10,10 +10,13 @@
 
 #### [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 #### [flextable R package](https://davidgohel.github.io/flextable/)
+#### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION1](https://nakedstatistics.wordpress.com/2017/05/11/plotting-significance/)
+#### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION2](http://131.111.177.41/statistics/R/graphs2.html)
 
 # R Markdown
 
-[Remedy provides addins to facilitate writing in markdown with RStudio](https://github.com/ThinkR-open/remedy)
+[Remedy provides addins to facilitate writing in markdown with RStudio](https://github.com/ThinkR-open/remedy) 
+
 
 
 # Linux 
