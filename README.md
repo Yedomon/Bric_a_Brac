@@ -11,6 +11,10 @@
 #### [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 #### [flextable R package](https://davidgohel.github.io/flextable/)
 
+# R Markdown
+
+[Remedy provides addins to facilitate writing in markdown with RStudio](https://github.com/ThinkR-open/remedy)
+
 
 # Linux 
 
