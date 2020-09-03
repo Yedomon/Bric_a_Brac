@@ -46,6 +46,8 @@
 
 # Transcriptomics
 
+#### [RNAseq workflow](https://github.com/Yedomon/RNAseq-workflow)
+
 
 #### [RNASeq lab](https://scilifelab.github.io/courses/ngsintro/1911/labs/rnaseq/lab.html)
 
