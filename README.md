@@ -1,13 +1,13 @@
 # Excellente resources papers for genomics
 
-#### 1 august 2020 | Article | [Chromosome-scale genome assembly of sweet cherry (Prunus avium L.) cv. Tieton obtained using long-read and Hi-C sequencing](https://www.nature.com/articles/s41438-020-00343-8)
+- #### 1st August 2020 | Article | [Chromosome-scale genome assembly of sweet cherry (Prunus avium L.) cv. Tieton obtained using long-read and Hi-C sequencing](https://www.nature.com/articles/s41438-020-00343-8)
 
-#### [Chromosome-level assembly of the horseshoe crab genome provides insights into its genome evolution](https://www.nature.com/articles/s41467-020-16180-1)
-#### [Gradual polyploid genome evolution revealed by pan-genomic analysis of Brachypodium hybridum and its diploid progenitors](https://www.nature.com/articles/s41467-020-17302-5)
-#### [A high-quality sponge gourd (Luffa cylindrica) genome](https://www.nature.com/articles/s41438-020-00350-9)
-#### [A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome](https://www.nature.com/articles/s41477-020-0735-y#Sec4)
-#### [High quality 3C de novo assembly and annotation of a multidrug resistant ST-111 Pseudomonas aeruginosa genome: Benchmark of hybrid and non-hybrid assemblers](https://www.nature.com/articles/s41598-020-58319-6)
-#### Review Pan-genome [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
+- #### 8th May 2020 | Article | [Chromosome-level assembly of the horseshoe crab genome provides insights into its genome evolution](https://www.nature.com/articles/s41467-020-16180-1)
+- #### 29th July 2020 | Article | [Gradual polyploid genome evolution revealed by pan-genomic analysis of Brachypodium hybridum and its diploid progenitors](https://www.nature.com/articles/s41467-020-17302-5)
+- #### 1st August 2020 | Article | [A high-quality sponge gourd (Luffa cylindrica) genome](https://www.nature.com/articles/s41438-020-00350-9)
+- #### 10th August 2020 | Article | [A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome](https://www.nature.com/articles/s41477-020-0735-y#Sec4)
+- #### 29th January 2020 | Article | [High quality 3C de novo assembly and annotation of a multidrug resistant ST-111 Pseudomonas aeruginosa genome: Benchmark of hybrid and non-hybrid assemblers](https://www.nature.com/articles/s41598-020-58319-6)
+- #### 20 July 2020 | Review | [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
 
 
 # R shiny
