@@ -15,6 +15,12 @@
 #### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION2](http://131.111.177.41/statistics/R/graphs2.html)
 #### [T TEST](http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r)
 
+
+# R Map
+
+#### [Interactive map with R](https://thinkr.fr/cartographie-interactive-avec-r-la-suite/)
+#### [Interactive map with R and Leaflet](https://thinkr.fr/cartographie-interactive-comment-visualiser-mes-donnees-spatiales-de-maniere-dynamique-avec-leaflet/)
+
 # R Markdown
 
 [Remedy provides addins to facilitate writing in markdown with RStudio](https://github.com/ThinkR-open/remedy) 
