@@ -14,12 +14,16 @@
 #### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION1](https://nakedstatistics.wordpress.com/2017/05/11/plotting-significance/)
 #### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION2](http://131.111.177.41/statistics/R/graphs2.html)
 #### [T TEST](http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r)
+#### [R studio data sheet](https://rstudio.cloud/learn/cheat-sheets)
+#### [R Cookbook](http://www.cookbook-r.com/)
 
 
 # R Map
 
 #### [Interactive map with R](https://thinkr.fr/cartographie-interactive-avec-r-la-suite/)
 #### [Interactive map with R and Leaflet](https://thinkr.fr/cartographie-interactive-comment-visualiser-mes-donnees-spatiales-de-maniere-dynamique-avec-leaflet/)
+#### [Geocomputation with R](https://geocompr.robinlovelace.net/)
+
 
 # R Markdown
 
