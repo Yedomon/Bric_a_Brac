@@ -61,6 +61,8 @@
 #### [How to perform KEGG pathway analysis in R?](https://www.biostars.org/p/274514/) [Resources1](http://yulab-smu.top/clusterProfiler-book/chapter12.html) [Resources2](https://www.biostars.org/p/327039/)
 
 
+#### [Exact Tests and Plots with edgeR – Basic Differential Expression Analysis](https://morphoscape.wordpress.com/2020/09/01/exact-tests-and-plots-with-edger-basic-differential-expression-analysis/)
+
 #### [RNASeq lab](https://scilifelab.github.io/courses/ngsintro/1911/labs/rnaseq/lab.html)
 
 #### [Genomics and transcriptomics tutorials](https://scilifelab.github.io/courses/)
