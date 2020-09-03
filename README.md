@@ -8,6 +8,7 @@
 
 # R
 
+#### [Rboot Camp: A free online R course](https://r-bootcamp.netlify.app/)
 #### [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 #### [flextable R package](https://davidgohel.github.io/flextable/)
 #### [PLOTTING SIGNIFICANCE ON THE TOP A BAR CHART OPTION1](https://nakedstatistics.wordpress.com/2017/05/11/plotting-significance/)
