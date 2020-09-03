@@ -48,7 +48,7 @@
 
 #### [RNAseq workflow](https://github.com/Yedomon/RNAseq-workflow)
 
-#### [How to perform KEGG pathway analysis in R?](https://www.biostars.org/p/274514/) [Resources1](http://yulab-smu.top/clusterProfiler-book/chapter12.html) [Resources2](http://bioconductor.org/packages/release/bioc/vignettes/clusterProfiler/inst/doc/clusterProfiler.html)
+#### [How to perform KEGG pathway analysis in R?](https://www.biostars.org/p/274514/) [Resources1](http://yulab-smu.top/clusterProfiler-book/chapter12.html) [Resources2](https://www.biostars.org/p/327039/)
 
 
 #### [RNASeq lab](https://scilifelab.github.io/courses/ngsintro/1911/labs/rnaseq/lab.html)
