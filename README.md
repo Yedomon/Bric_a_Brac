@@ -40,6 +40,8 @@
 
 #### [Reproducible research in Genomics](https://nbis-reproducible-research.readthedocs.io/en/course_1803/)
 
+#### [Conda ORF finder](https://gist.github.com/mkweskin/30e3bd57534868cccd700f4181f07103)
+
 
 # Transcriptomics
 
