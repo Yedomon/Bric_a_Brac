@@ -57,6 +57,8 @@
 
 # Genomics
 
+- ### [SIB_LongReadsAsmWorkshop_Lausanne18](https://github.com/aechchiki/SIB_LongReadsAsmWorkshop_Lausanne18/wiki)
+
 - #### [Bioinformatics Tutotial 2019](https://angus.readthedocs.io/en/2019/toc.html)
 
 - #### [Computational genomics tutorial 2019](https://genomics.sschmeier.com/)
