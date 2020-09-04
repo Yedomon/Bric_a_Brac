@@ -140,4 +140,10 @@
 - #### March 2012 | [Germination and growth requirements of Rogeria longiflora – Medicinal plant of the Namib Desert](https://www.sciencedirect.com/science/article/pii/S0254629911001797)
 - #### [RARE AND INTERESTING PLANTS OF THE NAMIB DESERT](https://journals.co.za/docserver/fulltext/veld/80/4/2395.pdf?expires=1599199452&id=id&accname=guest&checksum=A132124BA5604D1262C81C2E69E6C821)
 - #### [Phylogeny of Pedaliaceae and Martyniaceae and the Placement of Trapella in Plantaginaceae s. l.](https://www.ingentaconnect.com/content/aspt/sb/2015/00000040/00000001/art00030)
+- #### [Pedaliaceae](https://link.springer.com/chapter/10.1007/978-3-642-18617-2_17)
+- #### [Wood Anatomy of Martniaceae and Pedaliaceae](https://scholarship.claremont.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1506&context=aliso)
+- #### [Dispersal Biology of Desert Plants : Restriction of Dispersal in Time](https://link.springer.com/chapter/10.1007/978-3-662-03561-0_8)
+- #### [Dewinteria](http://opus.sanbi.org/bitstream/20.500.12143/4207/2/van%20Jaarsveld_2007_PEDALIACEAE%2C%20Dewinteria%2C%20a%20new%20semisucculent%2C%20cliff-dwelling%20genus%20endemic%20to%20the%20Kaokoveld%2C%20Namibia.pdf)
+- #### [Ecogeography and taxonomy of Rogeria J. Gay ex Delile (Pedaliaceae)](https://www.tandfonline.com/doi/abs/10.1080/00837792.2013.867609)
+- #### [Rogeria species](http://www.ville-ge.ch/musinfo/bd/cjb/africa/resultat.php?efNom=rogeria&efFamille=&projet%5B%5D=FSA&projet%5B%5D=FTA&projet%5B%5D=FNA&projet%5B%5D=BDM&langue=an&pbRecherche=Search)
 
