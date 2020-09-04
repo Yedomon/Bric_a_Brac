@@ -152,6 +152,13 @@
 - #### [Ecogeography and taxonomy of Rogeria J. Gay ex Delile (Pedaliaceae)](https://www.tandfonline.com/doi/abs/10.1080/00837792.2013.867609)
 - #### [Rogeria species](http://www.ville-ge.ch/musinfo/bd/cjb/africa/resultat.php?efNom=rogeria&efFamille=&projet%5B%5D=FSA&projet%5B%5D=FTA&projet%5B%5D=FNA&projet%5B%5D=BDM&langue=an&pbRecherche=Search)
 
+
+# Ceratotheca triloba
+
+- #### [basic description](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8748.2011.01747.x?casa_token=GyWXoq2XXfMAAAAA:IPI77qhB7znxhHSl3EASdnGYbxNrctsA7U-YE84wYtiYgLhOBCqyT_mXABhp056dOyQLZTymddbgUunT)
+
+
+
 # Fungal Genomics 
 
 - #### [Inspiration paper 1 for Graph color respect with R  ](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06871-w)
