@@ -22,6 +22,8 @@
 
 # R
 
+- #### [Top 50 Rggplot2 visualization items](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+
 - #### [Rboot Camp: A free online R course](https://r-bootcamp.netlify.app/)
 - #### [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 - #### [flextable R package](https://davidgohel.github.io/flextable/)
