@@ -22,6 +22,8 @@
 
 # R
 
+- ### [How to zoom in on a plot in R](https://datavizpyr.com/how-to-zoom-in-on-a-plot-in-r/)
+
 - #### [Top 50 Rggplot2 visualization items](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 - #### [Rboot Camp: A free online R course](https://r-bootcamp.netlify.app/)
