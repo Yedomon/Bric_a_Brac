@@ -135,3 +135,9 @@
 - #### [Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny](https://www.paulamoraga.com/book-geospatial/)
 
 
+# Rogeria longiflora
+ 
+- #### March 2012 | [Germination and growth requirements of Rogeria longiflora – Medicinal plant of the Namib Desert](https://www.sciencedirect.com/science/article/pii/S0254629911001797)
+- #### [RARE AND INTERESTING PLANTS OF THE NAMIB DESERT](https://journals.co.za/docserver/fulltext/veld/80/4/2395.pdf?expires=1599199452&id=id&accname=guest&checksum=A132124BA5604D1262C81C2E69E6C821)
+- #### [Phylogeny of Pedaliaceae and Martyniaceae and the Placement of Trapella in Plantaginaceae s. l.](https://www.ingentaconnect.com/content/aspt/sb/2015/00000040/00000001/art00030)
+
