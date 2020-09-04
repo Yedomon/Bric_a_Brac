@@ -152,3 +152,8 @@
 - #### [Ecogeography and taxonomy of Rogeria J. Gay ex Delile (Pedaliaceae)](https://www.tandfonline.com/doi/abs/10.1080/00837792.2013.867609)
 - #### [Rogeria species](http://www.ville-ge.ch/musinfo/bd/cjb/africa/resultat.php?efNom=rogeria&efFamille=&projet%5B%5D=FSA&projet%5B%5D=FTA&projet%5B%5D=FNA&projet%5B%5D=BDM&langue=an&pbRecherche=Search)
 
+# Fungal Genomics 
+
+- #### [Inspiration paper 1 for Graph color respect with R  ](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06871-w)
+- #### [Code and script Fungal annotation assemblies and so on](https://gitlab.gwdg.de/alice.feurtey/genome_architecture_zymoseptoria)
+
