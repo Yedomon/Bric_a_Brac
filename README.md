@@ -12,6 +12,13 @@
 - #### 20 July 2020 | Review | [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
 
 
+# Genomics Tools
+
+- #### [TBtools](https://github.com/CJ-Chen/TBtools)
+
+
+
+
 # R shiny
 
 - #### [Shiny Apps: Development and Deployment](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/shiny-apps/)
