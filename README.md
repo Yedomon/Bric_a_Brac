@@ -14,7 +14,7 @@
 
 # Genomics Tools
 
-- #### [TBtools](https://github.com/CJ-Chen/TBtools)
+- #### [TBtools](https://github.com/CJ-Chen/TBtools) | [Paper](https://www.sciencedirect.com/science/article/pii/S1674205220301878)
 
 
 
