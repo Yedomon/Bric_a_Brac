@@ -84,7 +84,7 @@
 
 # Transcriptomics
 
-- #### [HISAT2 HTseq DeSeq2 Rna tuto](http://www.cbs.dtu.dk/courses/27626/Exercises/rnaseq.php)
+- #### HISAT2 HTseq DeSeq2 Rna tuto [1](http://www.cbs.dtu.dk/courses/27626/Exercises/rnaseq.php) | [2](https://pzweuj.github.io/2018/07/12/rna-seq-3.html) | [3 Hisat2 and featcount](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/RNAseq-using-a-genome.html#gsc.tab=0) and [Deseq2](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/Differential-Expression-Analysis.html#gsc.tab=0)
 
 - #### [RNAseq workflow](https://github.com/Yedomon/RNAseq-workflow)
 
