@@ -84,6 +84,8 @@
 
 # Transcriptomics
 
+- #### [HISAT2 HTseq DeSeq2 Rna tuto](http://www.cbs.dtu.dk/courses/27626/Exercises/rnaseq.php)
+
 - #### [RNAseq workflow](https://github.com/Yedomon/RNAseq-workflow)
 
 - #### [How to perform KEGG pathway analysis in R?](https://www.biostars.org/p/274514/) [Resources1](http://yulab-smu.top/clusterProfiler-book/chapter12.html) [Resources2](https://www.biostars.org/p/327039/)
