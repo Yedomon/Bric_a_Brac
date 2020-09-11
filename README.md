@@ -259,3 +259,7 @@ A4
 - #### [Inspiration paper 1 for Graph color respect with R  ](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06871-w)
 - #### [Code and script Fungal annotation assemblies and so on](https://gitlab.gwdg.de/alice.feurtey/genome_architecture_zymoseptoria)
 
+
+# NNS-LRR genes 
+
+- #### [Inspirational paper 1](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02576-0#Sec16)
