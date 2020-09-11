@@ -1,6 +1,6 @@
 # Excellente resources papers for genomics
 
-- #### 07 September 2020 | Data | [Generation of a chromosome-scale genome assembly of the insect-repellent terpenoid-producing Lamiaceae species, Callicarpa americana](https://academic.oup.com/gigascience/article/9/9/giaa093/5902285)
+- #### 07 September 2020 | Article | [Generation of a chromosome-scale genome assembly of the insect-repellent terpenoid-producing Lamiaceae species, Callicarpa americana](https://academic.oup.com/gigascience/article/9/9/giaa093/5902285)
 
 - #### 28 August 2020 | Article | [The genome of the cauliflower coral Pocillopora verrucosa](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa184/5898631)
 
