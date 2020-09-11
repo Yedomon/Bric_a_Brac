@@ -20,6 +20,8 @@
 - #### [Ka ks calculation with TBtools](https://www.youtube.com/watch?v=-KjSdr-hmk4)
 - #### [Exon-intron identification](https://www.youtube.com/watch?v=60V0WscNEQE)
 - #### [Syntheny analysis in TBtools](https://www.youtube.com/watch?v=v-t0z0UrHqQ)
+- #### [ka ks online](http://services.cbu.uib.no/tools/kaks)
+- #### [Best Practices/Softwares To Calculate Ka/Ks Ratio](https://www.biostars.org/p/5817/)
 
 
 
