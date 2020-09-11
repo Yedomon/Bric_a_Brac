@@ -64,6 +64,8 @@
 
 # Genomics
 
+- #### [Great article on why consider more than one reference genome](https://www.pacb.com/blog/sequencing101pangenome/)
+
 - ### [SIB_LongReadsAsmWorkshop_Lausanne18](https://github.com/aechchiki/SIB_LongReadsAsmWorkshop_Lausanne18/wiki)
 
 - #### [Bioinformatics Tutotial 2019](https://angus.readthedocs.io/en/2019/toc.html)
