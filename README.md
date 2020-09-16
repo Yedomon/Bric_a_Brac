@@ -274,3 +274,10 @@ A4
 - #### [Inspirational paper 1](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02576-0#Sec16)
 - #### [Dioscorea](https://www.frontiersin.org/articles/10.3389/fgene.2020.00484/full)
 - #### [Cassava](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422547/pdf/12864_2015_Article_1554.pdf)
+
+
+
+
+# Doudou Sylla
+
+#### [graph 1](https://www.google.com/search?q=GGPLOT2+FACET&rlz=1C1EJFC_enKR900KR900&sxsrf=ALeKk03R6Jk9D47FDaWh9PPny2tn9Nu_MQ:1600266205845&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj99PqV8O3rAhWRMd4KHVIqAkQQ_AUoAXoECA4QAw&biw=1920&bih=920#imgrc=5k-afjZeAPxLkM&imgdii=kWtsYbSNy82DSM)
