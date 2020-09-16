@@ -202,6 +202,7 @@ A4
 
 
 # Chloroplast
+- #### [IRscope creator plastome paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196069)
 
 - #### [inverted repeat structural evolution in Rhus L](https://peerj.com/articles/9315/)
 
