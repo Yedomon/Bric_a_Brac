@@ -280,4 +280,4 @@ A4
 
 # Doudou Sylla
 
-#### [graph 1](https://www.google.com/search?q=GGPLOT2+FACET&rlz=1C1EJFC_enKR900KR900&sxsrf=ALeKk03R6Jk9D47FDaWh9PPny2tn9Nu_MQ:1600266205845&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj99PqV8O3rAhWRMd4KHVIqAkQQ_AUoAXoECA4QAw&biw=1920&bih=920#imgrc=5k-afjZeAPxLkM&imgdii=kWtsYbSNy82DSM)
+#### [graph 1](https://www.google.com/search?q=GGPLOT2+FACET&rlz=1C1EJFC_enKR900KR900&sxsrf=ALeKk03R6Jk9D47FDaWh9PPny2tn9Nu_MQ:1600266205845&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj99PqV8O3rAhWRMd4KHVIqAkQQ_AUoAXoECA4QAw&biw=1920&bih=920#imgrc=5k-afjZeAPxLkM&imgdii=kWtsYbSNy82DSM) | [barplot](http://www.sthda.com/french/wiki/ggplot2-barplots-guide-de-demarrage-rapide-logiciel-r-et-visualisation-de-donnees) | [cord_flip](http://www.sthda.com/french/wiki/ggplot2-barplots-guide-de-demarrage-rapide-logiciel-r-et-visualisation-de-donnees) | [faceting](https://www.r-graph-gallery.com/223-faceting-with-ggplot2.html)
