@@ -148,6 +148,8 @@ A4
 
 # Genomics
 
+- #### [Code genome kiwifruit](https://www.protocols.io/view/chromosome-scale-genome-assembly-of-kiwifruit-acti-vgse3we)
+
 - #### [Great article on why consider more than one reference genome](https://www.pacb.com/blog/sequencing101pangenome/)
 
 - ### [SIB_LongReadsAsmWorkshop_Lausanne18](https://github.com/aechchiki/SIB_LongReadsAsmWorkshop_Lausanne18/wiki)
@@ -166,6 +168,8 @@ A4
 - #### [Reproducible research in Genomics](https://nbis-reproducible-research.readthedocs.io/en/course_1803/)
 
 - #### [Conda ORF finder](https://gist.github.com/mkweskin/30e3bd57534868cccd700f4181f07103)
+
+
 
 
 # Transcriptomics
