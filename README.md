@@ -276,6 +276,11 @@ A4
 - #### [Cassava](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422547/pdf/12864_2015_Article_1554.pdf)
 
 
+# Genetic diversity
+
+- #### [Diversity analysis of 80,000 wheat accessions reveals consequences and opportunities of selection footprints](https://www.nature.com/articles/s41467-020-18404-w) | [Code github](https://github.com/jfranco1951/Genetic-Diversity)
+
+
 
 
 # Doudou Sylla
