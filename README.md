@@ -276,6 +276,11 @@ A4
 - #### [Cassava](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422547/pdf/12864_2015_Article_1554.pdf)
 
 
+
+# Linkage mapping
+
+- #### [High-density linkage map reveals QTL for Type-I seed coat cracking in RIL population of soybean [Glycine max (L.) Merr.]](https://link.springer.com/article/10.1007/s10681-020-02684-w)
+
 # Genetic diversity
 
 - #### [Diversity analysis of 80,000 wheat accessions reveals consequences and opportunities of selection footprints](https://www.nature.com/articles/s41467-020-18404-w) | [Code github](https://github.com/jfranco1951/Genetic-Diversity)
