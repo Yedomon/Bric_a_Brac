@@ -23,6 +23,8 @@
 - #### [Syntheny analysis in TBtools](https://www.youtube.com/watch?v=v-t0z0UrHqQ)
 - #### [ka ks online](http://services.cbu.uib.no/tools/kaks)
 - #### [Best Practices/Softwares To Calculate Ka/Ks Ratio](https://www.biostars.org/p/5817/)
+- #### [Bayesian Molecular Clock Dating Using Genome-Scale Datasets](https://link.springer.com/protocol/10.1007/978-1-4939-9074-0_10)
+- #### [MCMCtreeR: functions to prepare MCMCtree analyses and visualize posterior ages on trees](https://academic.oup.com/bioinformatics/article-abstract/35/24/5321/5530964?redirectedFrom=fulltext)  |  [MCMtreeR](https://cran.r-project.org/web/packages/MCMCtreeR/vignettes/MCMCtree_plot.html)  | [MCMtreeR vignette](https://cran.r-project.org/web/packages/MCMCtreeR/vignettes/MCMCtree.html)
 
 
 
