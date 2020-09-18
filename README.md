@@ -1,5 +1,13 @@
 # Excellente resources papers for genomics
 
+- #### [Development and evaluation of high‐density Axiom®CicerSNP Array for high‐resolution genetic mapping and breeding applications in chickpea](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12836)
+
+- #### [Toward the sequence-based breeding in legumes in the post-genome sequencing era
+](https://link.springer.com/article/10.1007/s00122-018-3252-x)
+
+- #### [Integrating genomics for chickpea improvement: achievements and opportunities](https://link.springer.com/article/10.1007/s00122-020-03584-2)
+
+
 - #### 07 September 2020 | Article | [Generation of a chromosome-scale genome assembly of the insect-repellent terpenoid-producing Lamiaceae species, Callicarpa americana](https://academic.oup.com/gigascience/article/9/9/giaa093/5902285)
 
 - #### 28 August 2020 | Article | [The genome of the cauliflower coral Pocillopora verrucosa](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa184/5898631)
