@@ -2,8 +2,7 @@
 
 - #### [Development and evaluation of high‐density Axiom®CicerSNP Array for high‐resolution genetic mapping and breeding applications in chickpea](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12836)
 
-- #### [Toward the sequence-based breeding in legumes in the post-genome sequencing era
-](https://link.springer.com/article/10.1007/s00122-018-3252-x)
+- #### [Toward the sequence-based breeding in legumes in the post-genome sequencing era](https://link.springer.com/article/10.1007/s00122-018-3252-x)
 
 - #### [Integrating genomics for chickpea improvement: achievements and opportunities](https://link.springer.com/article/10.1007/s00122-020-03584-2)
 
