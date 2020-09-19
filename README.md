@@ -440,7 +440,7 @@ A guy I know use a four step logic
 
 - step3: Convert into codon WITH [pal2nal](http://www.bork.embl.de/pal2nal/) | [pal2nal](https://figshare.com/articles/An_example_of_PAL2NAL_input_and_output_files/9192)
 
-- step4: calculate ka ks with CODEML of PAML
+- step4: calculate ka ks with CODEML of [PAML](https://www.protocols.io/view/introduction-to-calculating-dn-ds-ratios-with-code-qhwdt7e)
 
 - step5: plot the density graph in R WITH GGPLOT2
 
@@ -459,12 +459,6 @@ a good tuto for RELTIME time divergence estimation with [MEGAx](https://www.mega
 
 for the calibration he retieve from timetrre.org database 
 
-
-S. lycopersicum and O. europaea, between 75 MYA-88 MYA, O. europaea and 60 MYA-77 MYA, between U. Gibba,
-The minimum and maximum values of the estimated quarterly time of 52 MYA to 67 MYA were applied (9) between 48 MYA to 88 MYA, A. Majus and S. Indicum between U. gibba and A. majus.
-
-The literature estimates that the Oleaceae is 12 MYA (7), Plantaginaceae is 62 MYA (8), and the quarterly time is from 11 species to the quarterly time.
-It is fed as being consistent with the results of estimating the liver (Figure 3).
 
 
 [a nice and complete tutorial video](https://www.youtube.com/watch?v=x5TqC5okZWo)
