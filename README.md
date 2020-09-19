@@ -321,10 +321,10 @@ A4
 
 
 
-## Tuto colinearity MCScanX
+#### Tuto colinearity MCScanX
 
 
-## Step 1:  Create a m8 format BLASTP file
+##### Step 1:  Create a m8 format BLASTP file
 
 I assume I have Arabidopsis and xyz plant genome for colinearity work
 
@@ -348,7 +348,7 @@ $blastall  -i  myxyz_query_file_protein.fasta  -d Ara.protein_database -p blastp
 ```
 
 
-For MSCsanc yu should have a n output like this
+For MSCsanc yu should have an output lin m8 [format](https://edwards.sdsu.edu/research/blast-output-8/) 
 
 
 ```
