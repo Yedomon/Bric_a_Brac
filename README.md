@@ -422,3 +422,17 @@ $ ./MCScanx  dir/xyz
 ```
 
 [here](https://youtu.be/KMlj8CGnB2c?t=497) a video on how to run it.
+
+
+
+Now I want to visualize the syntheny. 
+
+[Synvisio is awesome](https://github.com/kiranbandi/synvisio)
+
+I just need two files:
+
+- The simplified gff file that was used as an input for a McScanX query.
+- The collinearity file generated as an output by McScanX for the same input query.
+
+
+Possible to do that [online](https://synvisio.github.io/#/)
