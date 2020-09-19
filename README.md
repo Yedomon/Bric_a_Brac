@@ -421,7 +421,7 @@ $ ./MCScanx  dir/xyz
 
 ```
 
-[here](https://youtu.be/KMlj8CGnB2c?t=497) a video on how to run it.
+[here](https://youtu.be/KMlj8CGnB2c?t=477) a video on how to run it.
 
 
 
