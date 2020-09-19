@@ -28,9 +28,9 @@
 
 - #### [Genome colinearity analysis tool: MCScan](https://github.com/tanghaibao/mcscan)
 - #### [Genome colinearity analysis tool: MCScanX](https://github.com/wyp1125/MCScanX)
-- #### [Genome colinearity visualization tool](SynVisio(https://github.com/kiranbandi/synvisio)
+- #### [Genome colinearity visualization tool Synvisio](https://github.com/kiranbandi/synvisio)
 
-- ### [Shark: fishing relevant reads in an RNA-Seq sample](https://doi.org/10.1093/bioinformatics/btaa779)
+- #### [Shark: fishing relevant reads in an RNA-Seq sample](https://doi.org/10.1093/bioinformatics/btaa779)
 - #### [TBtools](https://github.com/CJ-Chen/TBtools) | [Paper](https://www.sciencedirect.com/science/article/pii/S1674205220301878)
 - #### [Ka ks calculation with TBtools](https://www.youtube.com/watch?v=-KjSdr-hmk4)
 - #### [Exon-intron identification](https://www.youtube.com/watch?v=60V0WscNEQE)
