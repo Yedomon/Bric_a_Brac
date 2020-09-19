@@ -224,6 +224,8 @@ A4
 
 
 # Chloroplast
+
+- #### [Species-tree inference with BEAST 2 and SNAPP](http://evomics.org/learning/population-and-speciation-genomics/2020-population-and-speciation-genomics/species-tree-inference/)
 - #### [IRscope creator plastome paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196069)
 
 - #### [inverted repeat structural evolution in Rhus L](https://peerj.com/articles/9315/)
