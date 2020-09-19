@@ -28,7 +28,7 @@
 
 - #### [Genome colinearity analysis tool: MCScan](https://github.com/tanghaibao/mcscan)
 - #### [Genome colinearity analysis tool: MCScanX](https://github.com/wyp1125/MCScanX)
-- #### [Genome colinearity visualization tool]: SynVisio(https://github.com/kiranbandi/synvisio)
+- #### [Genome colinearity visualization tool](SynVisio(https://github.com/kiranbandi/synvisio)
 
 - ### [Shark: fishing relevant reads in an RNA-Seq sample](https://doi.org/10.1093/bioinformatics/btaa779)
 - #### [TBtools](https://github.com/CJ-Chen/TBtools) | [Paper](https://www.sciencedirect.com/science/article/pii/S1674205220301878)
