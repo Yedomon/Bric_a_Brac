@@ -1,7 +1,7 @@
 # Excellente resources papers for genomics
 
 
-- #### [The Chromosome-Level Genome Sequence of the Autotetraploid Alfalfa and Resequencing of Core Germplasms Provide Genomic Resources for Alfalfa Research](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30216-1) | colinearity | MCscan | Ka Ks
+- #### [The Chromosome-Level Genome Sequence of the Autotetraploid Alfalfa and Resequencing of Core Germplasms Provide Genomic Resources for Alfalfa Research](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30216-1) | colinearity | MCscan | Ka Ks | Reseq | SNP | GATK
 
 - #### [Development and evaluation of high‐density Axiom®CicerSNP Array for high‐resolution genetic mapping and breeding applications in chickpea](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12836)
 
@@ -430,6 +430,17 @@ $ ./MCScanx  dir/xyz
 possible to calculate ka ks with bioperl with the .syntheny output of MCscan. follo this [tuto](possible to calculate ka ks with bioperl with the .syntheny output of MCscan 
 )
 
+#### Note
+
+A guy I know use a four step logic
+
+- Step1: get coliniarity gene wih MCScanX(https://github.com/wyp1125/MCScanX)
+
+- step2: Multiple sequence alignement of those colinear genes with ClustalW2
+
+-step3: Convert into codon WITH [pal2nal](http://www.bork.embl.de/pal2nal/) | [pal2nal](https://figshare.com/articles/An_example_of_PAL2NAL_input_and_output_files/9192)
+
+-step4: calculate ka ks with CODEML of PAML
 
 
 
