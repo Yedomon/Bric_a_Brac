@@ -455,6 +455,12 @@ My guy use Reltime estination methode with MEGA  after Single copy alignment wit
 
 He  download some calibration files on timetree.org and run I think
 
+a good tuto for RELTIME time divergence estimation with [MEGAx](https://www.megasoftware.net/pdfs/mello_2018.pdf)
+
+
+
+
+#### Visualize syntheny
 
 
 Now I want to visualize the syntheny. 
