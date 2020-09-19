@@ -457,6 +457,15 @@ He  download some calibration files on timetree.org and run I think
 
 a good tuto for RELTIME time divergence estimation with [MEGAx](https://www.megasoftware.net/pdfs/mello_2018.pdf)
 
+for the calibration he retieve from timetrre.org database 
+
+
+S. lycopersicum and O. europaea, between 75 MYA-88 MYA, O. europaea and 60 MYA-77 MYA, between U. Gibba,
+The minimum and maximum values of the estimated quarterly time of 52 MYA to 67 MYA were applied (9) between 48 MYA to 88 MYA, A. Majus and S. Indicum between U. gibba and A. majus.
+
+The literature estimates that the Oleaceae is 12 MYA (7), Plantaginaceae is 62 MYA (8), and the quarterly time is from 11 species to the quarterly time.
+It is fed as being consistent with the results of estimating the liver (Figure 3).
+
 
 
 
