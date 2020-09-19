@@ -440,7 +440,7 @@ A guy I know use a four step logic
 
 - step3: Convert into codon WITH [pal2nal](http://www.bork.embl.de/pal2nal/) | [pal2nal](https://figshare.com/articles/An_example_of_PAL2NAL_input_and_output_files/9192)
 
-- step4: calculate ka ks with CODEML of [PAML](https://www.protocols.io/view/introduction-to-calculating-dn-ds-ratios-with-code-qhwdt7e)
+- step4: calculate ka ks with CODEML of [PAML](https://www.protocols.io/view/introduction-to-calculating-dn-ds-ratios-with-code-qhwdt7e) | [EasyCodeML: A visual tool for analysis of selection using CodeML](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5015)  | [github](https://github.com/BioEasy/EasyCodeML)  | [download](https://github.com/BioEasy/EasyCodeML/releases/tag/1.0)
 
 - step5: plot the density graph in R WITH GGPLOT2
 
@@ -453,7 +453,7 @@ Here a [resource](http://www.timetree.org/resources).
 
 My guy use Reltime estination methode with MEGA  after Single copy alignment with MAFFT
 
-He  download some calibration files on timetree.org and run I think
+He download some calibration files on timetree.org and run I think
 
 a good tuto for RELTIME time divergence estimation with [MEGAx](https://www.megasoftware.net/pdfs/mello_2018.pdf)
 
