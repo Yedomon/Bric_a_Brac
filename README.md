@@ -436,3 +436,12 @@ I just need two files:
 
 
 Possible to do that [online](https://synvisio.github.io/#/)
+
+
+
+in case of troubles for making bed file please Yedomon go to this [page](https://github.com/tanghaibao/jcvi/wiki/MCscan-%28Python-version%29#workflow)
+
+Instal jcvi [conda package manager](https://anaconda.org/bioconda/jcvi) 
+
+and follow [this plan](https://github.com/tanghaibao/jcvi/wiki/MCscan-%28Python-version%29#workflow)
+
