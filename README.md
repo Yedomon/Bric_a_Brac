@@ -420,3 +420,5 @@ It is advised that to make MCscanX generate more reasonable results, the number 
 $ ./MCScanx  dir/xyz
 
 ```
+
+[here](https://youtu.be/KMlj8CGnB2c?t=497) a video on how to run it.
