@@ -438,9 +438,11 @@ A guy I know use a four step logic
 
 - step2: Multiple sequence alignement of those colinear genes with ClustalW2
 
--step3: Convert into codon WITH [pal2nal](http://www.bork.embl.de/pal2nal/) | [pal2nal](https://figshare.com/articles/An_example_of_PAL2NAL_input_and_output_files/9192)
+- step3: Convert into codon WITH [pal2nal](http://www.bork.embl.de/pal2nal/) | [pal2nal](https://figshare.com/articles/An_example_of_PAL2NAL_input_and_output_files/9192)
 
--step4: calculate ka ks with CODEML of PAML
+- step4: calculate ka ks with CODEML of PAML
+
+- step5: plot the density graph in R WITH GGPLOT2
 
 
 
