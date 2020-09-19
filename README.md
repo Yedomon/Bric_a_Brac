@@ -1,7 +1,7 @@
 # Excellente resources papers for genomics
 
 
-- #### [The Chromosome-Level Genome Sequence of the Autotetraploid Alfalfa and Resequencing of Core Germplasms Provide Genomic Resources for Alfalfa Research](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30216-1)
+- #### [The Chromosome-Level Genome Sequence of the Autotetraploid Alfalfa and Resequencing of Core Germplasms Provide Genomic Resources for Alfalfa Research](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30216-1) | colinearity | MCscan | Ka Ks
 
 - #### [Development and evaluation of high‐density Axiom®CicerSNP Array for high‐resolution genetic mapping and breeding applications in chickpea](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12836)
 
