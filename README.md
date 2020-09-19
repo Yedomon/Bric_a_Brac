@@ -348,7 +348,7 @@ $blastall  -i  myxyz_query_file_protein.fasta  -d Ara.protein_database -p blastp
 ```
 
 
-For MSCsanc yu should have an output lin m8 [format](https://edwards.sdsu.edu/research/blast-output-8/) 
+For MSCsanX  you should have an output lin m8 [format](https://edwards.sdsu.edu/research/blast-output-8/). An example [here](https://raw.githubusercontent.com/wyp1125/MCScanX/master/data/at.blast)
 
 
 ```
@@ -403,7 +403,7 @@ sortBed -i myfile.gff | gff2bed > my_sorted_file.bed
 
 ```
 
-The xyz.bed file holds gene positions, following a tab-delimited format:
+The xyz.bed file holds gene positions, following a tab-delimited format like [this](https://github.com/wyp1125/MCScanX/blob/master/data/at.gff):
 
 
 ```
