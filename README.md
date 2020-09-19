@@ -323,7 +323,7 @@ A4
 
 
 
-#### Tuto colinearity MCScanX
+#### Tuto colinearity [MCScanX](https://github.com/wyp1125/MCScanX)
 
 
 ##### Step 1:  Create a m8 format BLASTP file
@@ -427,6 +427,12 @@ $ ./MCScanx  dir/xyz
 
 
 
+possible to calculate ka ks with bioperl with the .syntheny output of MCscan. follo this [tuto](possible to calculate ka ks with bioperl with the .syntheny output of MCscan 
+)
+
+
+
+
 Now I want to visualize the syntheny. 
 
 [Synvisio is awesome](https://github.com/kiranbandi/synvisio)
@@ -448,6 +454,7 @@ Instal jcvi [conda package manager](https://anaconda.org/bioconda/jcvi)
 and follow [this plan](https://github.com/tanghaibao/jcvi/wiki/MCscan-%28Python-version%29#workflow)
 
 jvci is a python version of MCScan ..so you can use it also. And jvci can help you to render nice visualization  
+
 
 
 
