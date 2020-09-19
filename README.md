@@ -444,6 +444,17 @@ A guy I know use a four step logic
 
 - step5: plot the density graph in R WITH GGPLOT2
 
+#### TIME DIVERGENCE
+
+
+
+Here a [resource](http://www.timetree.org/resources).
+
+
+My guy use Reltime estination methode with MEGA  after Single copy alignment with MAFFT
+
+He  download some calibration files on timetree.org and run I think
+
 
 
 Now I want to visualize the syntheny. 
