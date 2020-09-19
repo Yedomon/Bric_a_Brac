@@ -471,6 +471,9 @@ It is fed as being consistent with the results of estimating the liver (Figure 3
 
 [Inferring selection with MEGA](https://www.youtube.com/watch?v=wNLZoKkdJ38)
 
+
+un nice tuto sur cette affaire de time tree et autre [ici](https://kor.kyhistotechs.com/complex-jujube-genome-provides-insights-into-fruit-tree-biology-31050929)
+
 #### Visualize syntheny
 
 
