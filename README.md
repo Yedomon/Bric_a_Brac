@@ -469,8 +469,7 @@ It is fed as being consistent with the results of estimating the liver (Figure 3
 
 [a nice and complete tutorial video](https://www.youtube.com/watch?v=x5TqC5okZWo)
 
-
-
+[Inferring selection with MEGA](https://www.youtube.com/watch?v=wNLZoKkdJ38)
 
 #### Visualize syntheny
 
