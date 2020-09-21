@@ -1,5 +1,7 @@
 # Excellente resources papers for genomics
 
+- #### [High-Resolution Genome-wide Association Study Identifies Genomic Regions and Candidate Genes for Important Agronomic Traits in Wheat](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30221-5)  | GWAS | Population genomics
+
 - #### [The Genomes of the Allohexaploid Echinochloa crus-galli and Its Progenitors Provide Insights into Polyploidization-Driven Adaptation](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30214-8) | Tracking polyploidy 
 
 - #### [The Chromosome-level Reference genome Assembly for Panax notoginseng and Insights into Ginsenoside Biosynthesis](https://www.cell.com/plant-communications/fulltext/S2590-3462(20)30144-9)
