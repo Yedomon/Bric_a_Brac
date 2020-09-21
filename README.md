@@ -1,5 +1,7 @@
 # Excellente resources papers for genomics
 
+- #### [Deciphering the high‐quality genome sequence of coriander that causes controversial feelings](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13310) | [Coriander Genomics Database: a genomic, transcriptomic, and metabolic database for coriander](https://www.nature.com/articles/s41438-020-0261-0)| MCMCTREE | DATABASE
+
 
 - #### [The Chromosome-Level Genome Sequence of the Autotetraploid Alfalfa and Resequencing of Core Germplasms Provide Genomic Resources for Alfalfa Research](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30216-1) | colinearity | MCscan | Ka Ks | Reseq | SNP | GATK
 
