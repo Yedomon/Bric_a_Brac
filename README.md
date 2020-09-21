@@ -1,5 +1,9 @@
 # Excellente resources papers for genomics
 
+- #### [The Chromosome-level Reference genome Assembly for Panax notoginseng and Insights into Ginsenoside Biosynthesis](https://www.cell.com/plant-communications/fulltext/S2590-3462(20)30144-9)
+
+- #### [A Chromosome-Level Genome Assembly of Garlic (Allium sativum) Provides Insights into Genome Evolution and Allicin Biosynthesis](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30232-X)
+
 - #### [Deciphering the high‐quality genome sequence of coriander that causes controversial feelings](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13310) | [Coriander Genomics Database: a genomic, transcriptomic, and metabolic database for coriander](https://www.nature.com/articles/s41438-020-0261-0)| MCMCTREE | DATABASE
 
 
