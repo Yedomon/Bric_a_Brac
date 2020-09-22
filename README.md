@@ -36,6 +36,12 @@
 - #### 20 July 2020 | Review | [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
 
 
+
+# GWAS AND GENETIC DIVERSITY
+
+- #### 17 September 2020 | [A comprehensive phenotypic and genomic characterization of Ethiopian sorghum germplasm defines core collection and reveals rich genetic potential in adaptive traits](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20055)
+
+
 # Genomics Tools
 
 - #### [Genome colinearity analysis tool: MCScan](https://github.com/tanghaibao/mcscan)
@@ -236,6 +242,8 @@ A4
 
 
 # Chloroplast
+
+- #### [The Complete Chloroplast Genome Sequence of the Speirantha gardenii: Comparative and Adaptive Evolutionary Analysis](https://www.mdpi.com/2073-4395/10/9/1405)
 
 - #### [Species-tree inference with BEAST 2 and SNAPP](http://evomics.org/learning/population-and-speciation-genomics/2020-population-and-speciation-genomics/species-tree-inference/)
 - #### [IRscope creator plastome paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196069)
