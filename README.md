@@ -35,6 +35,9 @@
 - #### 29th January 2020 | Article | [High quality 3C de novo assembly and annotation of a multidrug resistant ST-111 Pseudomonas aeruginosa genome: Benchmark of hybrid and non-hybrid assemblers](https://www.nature.com/articles/s41598-020-58319-6)
 - #### 20 July 2020 | Review | [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
 
+# Pangenome
+
+- #### [Beyond a Single Reference Genome – The Advantages of Sequencing Multiple Individuals](https://youtu.be/mfldTjg1EqI)
 
 
 # GWAS AND GENETIC DIVERSITY
