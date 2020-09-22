@@ -518,3 +518,10 @@ jvci is a python version of MCScan ..so you can use it also. And jvci can help y
 
 I just discover a very nice and helpfull website for some [sofwares](https://sites.google.com/view/dr-wasim/softwares) , [protocol](https://sites.google.com/view/dr-wasim/protocols/nucleic-acid-extraction) , [tutorials](https://sites.google.com/view/dr-wasim/bioinformatic-tools/tbtools)
 
+
+
+
+
+
+[How to parse orthofinder results?](https://www.biostars.org/p/366002/)
+
