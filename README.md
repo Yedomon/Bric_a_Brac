@@ -1,5 +1,7 @@
 # Excellente resources papers for genomics
 
+- #### [How to read a phylogenetic tree](https://youtu.be/LgZ3UbPzC6c)
+
 - #### [Molecular Plant | Collection: Plant Genomics](https://www.cell.com/molecular-plant/collections/plant-genomics)
 
 - #### [High-Resolution Genome-wide Association Study Identifies Genomic Regions and Candidate Genes for Important Agronomic Traits in Wheat](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30221-5)  | GWAS | Population genomics
