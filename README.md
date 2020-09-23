@@ -47,6 +47,8 @@
 
 # Genomics Tools
 
+- #### [Submitting a haploid assembly: submitting WGS contigs only](https://www.ncbi.nlm.nih.gov/assembly/docs/submission/#ex1)
+
 - #### [Genome colinearity analysis tool: MCScan](https://github.com/tanghaibao/mcscan)
 - #### [Genome colinearity analysis tool: MCScanX](https://github.com/wyp1125/MCScanX)
 - #### [Genome colinearity visualization tool Synvisio](https://github.com/kiranbandi/synvisio)
