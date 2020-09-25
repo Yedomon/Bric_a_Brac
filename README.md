@@ -108,6 +108,8 @@
 
 # Linux 
 
+- #### [oneliners](https://github.com/stephenturner/oneliners)
+
 - #### [Linux Command Line Full course: Beginners to Advance. Bash Command Line Tutorials](https://youtu.be/2PGnYjbYuUo)
 
 - #### [7 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats](https://itsfoss.com/linux-system-monitoring-tools/)
