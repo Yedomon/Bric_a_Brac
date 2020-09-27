@@ -1,6 +1,6 @@
 # Excellente resources papers for genomics
 
-- #### [How to read a phylogenetic tree](https://youtu.be/LgZ3UbPzC6c)
+- #### Gigascience Data Note Genome sequence | [Aquilaria sinensis](https://academic.oup.com/gigascience/article/9/3/giaa013/5771296) | [Arachis monticola](https://academic.oup.com/gigascience/article/7/6/giy066/5040258) | [Eriobotrya japonica](https://academic.oup.com/gigascience/article/9/3/giaa015/5788433) |[Portunus trituberculatus](https://academic.oup.com/gigascience/article/9/1/giz161/5697200) | [catfish](https://academic.oup.com/gigascience/article/7/11/giy120/5106933) | [Juglans regia](https://academic.oup.com/gigascience/article/9/5/giaa050/5841058) |  [Juglans sigillata](https://academic.oup.com/gigascience/article/9/2/giaa006/5758190) | [mustache toad](https://academic.oup.com/gigascience/article/8/9/giz114/5572531)
 
 - #### [Molecular Plant | Collection: Plant Genomics](https://www.cell.com/molecular-plant/collections/plant-genomics)
 
@@ -48,6 +48,8 @@
 
 
 # Genomics Tools
+
+- #### [How to read a phylogenetic tree](https://youtu.be/LgZ3UbPzC6c)
 
 - #### [Submitting a haploid assembly: submitting WGS contigs only](https://www.ncbi.nlm.nih.gov/assembly/docs/submission/#ex1)
 
