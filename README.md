@@ -79,6 +79,8 @@
 
 
 # R
+
+- #### [Exporting editable ggplot graphics to PowerPoint with officer and purrr](https://www.pipinghotdata.com/posts/2020-09-22-exporting-editable-ggplot-graphics-to-powerpoint-with-officer-and-purrr/)
 - #### [Learning Statistics with R](https://learningstatisticswithr.com/)
 - #### [Becoming An rvest Magician](https://zachbogart.com/post/rvest-wizardry/)
 - #### [How to zoom in on a plot in R](https://datavizpyr.com/how-to-zoom-in-on-a-plot-in-r/)
