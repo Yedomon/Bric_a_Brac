@@ -111,6 +111,7 @@
 
 
 # Linux 
+- ####  ps usage [1](https://superuser.com/questions/102005/how-can-i-display-the-memory-usage-of-each-process-if-i-do-a-ps-ef) | [2](https://alvinalexander.com/linux/unix-linux-process-memory-sort-ps-command-cpu/) | [3](https://alvinalexander.com/unix/man/linux-ps-man-page-ps-help/) | [4](https://www.networkworld.com/article/3516319/showing-memory-usage-in-linux-by-process-and-user.html) | [5](https://www.endpoint.com/blog/2017/08/08/how-to-check-process-duration-in-linux)
 
 - #### [oneliners](https://github.com/stephenturner/oneliners)
 
