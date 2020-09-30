@@ -113,7 +113,7 @@
 # Linux 
 - ####  ps usage [1](https://superuser.com/questions/102005/how-can-i-display-the-memory-usage-of-each-process-if-i-do-a-ps-ef) | [2](https://alvinalexander.com/linux/unix-linux-process-memory-sort-ps-command-cpu/) | [3](https://alvinalexander.com/unix/man/linux-ps-man-page-ps-help/) | [4](https://www.networkworld.com/article/3516319/showing-memory-usage-in-linux-by-process-and-user.html) | [5](https://www.endpoint.com/blog/2017/08/08/how-to-check-process-duration-in-linux)
 
-- #### [oneliners](https://github.com/stephenturner/oneliners)  | The reads that passed the base caller quality filter were then filtered with seqtk v1.3 (seqtk, RRID:SCR_018927) [19] to remove reads <10 kb (seq -A -L 10 000), yielding a final set of 1,050,302 reads with a total size of 38.2 Gb and ∼45× coverage (Supplementary Table S2). 
+- #### [oneliners](https://github.com/stephenturner/oneliners)  | The reads that passed the base caller quality filter were then filtered with seqtk v1.3 (seqtk, RRID:SCR_018927) [19] to remove reads <10 kb (seq -A -L 10 000), yielding a final set of 1,050,302 reads with a total size of 38.2 Gb and ∼45× coverage (Supplementary Table S2). | [blog point 9](https://nbisweden.github.io/workshop-archive/workshop-genome_assembly/2017-11-15/solutions/Solutions_Data_Quality_Assessment.html)
 
 - #### [Linux Command Line Full course: Beginners to Advance. Bash Command Line Tutorials](https://youtu.be/2PGnYjbYuUo)
 
