@@ -321,11 +321,17 @@ A4
 
 - #### [basic description](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8748.2011.01747.x?casa_token=GyWXoq2XXfMAAAAA:IPI77qhB7znxhHSl3EASdnGYbxNrctsA7U-YE84wYtiYgLhOBCqyT_mXABhp056dOyQLZTymddbgUunT)
 
+# Sesamum alatum
+
+- #### [Inspirationnal paper 1](https://www.sciencedirect.com/science/article/pii/S0888754318306591)
+
 
 
 # Fungal Genomics 
 
 - #### [Inspiration paper 1 for Graph color respect with R  ](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06871-w)
+- #### [Inspirational paper 2](https://imafungus.biomedcentral.com/articles/10.1186/s43008-019-0011-9)
+- #### [Inspirationnal paper 3](https://www.nature.com/articles/s41598-018-30335-7)
 - #### [Code and script Fungal annotation assemblies and so on](https://gitlab.gwdg.de/alice.feurtey/genome_architecture_zymoseptoria)
 
 
