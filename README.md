@@ -43,6 +43,10 @@
 
 - #### [Beyond a Single Reference Genome – The Advantages of Sequencing Multiple Individuals](https://youtu.be/mfldTjg1EqI)
 
+# Root sesame
+
+- #### Comparative Analysis of Root Transcriptome Profiles of Sesame (Sesamum indicum L.) in Response to Osmotic Stress](https://link.springer.com/article/10.1007/s00344-020-10230-0)
+
 
 # GWAS AND GENETIC DIVERSITY
 
