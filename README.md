@@ -47,7 +47,16 @@
 - #### 17 September 2020 | [A comprehensive phenotypic and genomic characterization of Ethiopian sorghum germplasm defines core collection and reveals rich genetic potential in adaptive traits](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20055)
 
 
+
+# Books
+
+- #### [Computationnal genomics with R](https://compgenomr.github.io/book/)
+
+
+
 # Genomics Tools
+
+
 
 - #### [How to read a phylogenetic tree](https://youtu.be/LgZ3UbPzC6c)
 
