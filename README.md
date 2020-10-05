@@ -39,6 +39,11 @@
 
 - #### 01 October 2020 |Article | [From landrace to modern hybrid broccoli: the genomic and morphological domestication syndrome within a diverse B. oleracea collection](https://www.nature.com/articles/s41438-020-00375-0) | [Code available](https://github.com/zacharystansell/B_oleracea_diversity_panel)
 
+
+# Selection pressure analysis
+
+- #### [Selection signatures of Fuzhong Buffalo based on whole-genome sequences](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07095-8)
+
 # Pangenome
 
 - #### [Beyond a Single Reference Genome – The Advantages of Sequencing Multiple Individuals](https://youtu.be/mfldTjg1EqI)
