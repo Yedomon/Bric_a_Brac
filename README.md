@@ -68,8 +68,7 @@
 
 # Genomics Tools
 
-
-
+- #### [Long reads assembly tutorial with a focus on nanopore data](https://timkahlke.github.io/LongRead_tutorials/ASS.html)
 - #### [How to read a phylogenetic tree](https://youtu.be/LgZ3UbPzC6c)
 
 - #### [Submitting a haploid assembly: submitting WGS contigs only](https://www.ncbi.nlm.nih.gov/assembly/docs/submission/#ex1)
