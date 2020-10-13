@@ -407,6 +407,7 @@ A4
 - #### [Inspirational paper 1](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02576-0#Sec16)
 - #### [Dioscorea](https://www.frontiersin.org/articles/10.3389/fgene.2020.00484/full)
 - #### [Cassava](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422547/pdf/12864_2015_Article_1554.pdf)
+- #### [Inspirational paper 2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239275)
 
 
 
