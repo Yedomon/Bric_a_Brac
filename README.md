@@ -396,6 +396,8 @@ A4
 
 # Fungal Genomics 
 
+- #### [ONT assembly with Canu with mitogenome resolution](https://academic.oup.com/gigascience/article/9/9/giaa099/5908739)
+
 - #### [Inspiration paper 1 for Graph color respect with R  ](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06871-w)
 - #### [Inspirational paper 2](https://imafungus.biomedcentral.com/articles/10.1186/s43008-019-0011-9)
 - #### [Inspirationnal paper 3](https://www.nature.com/articles/s41598-018-30335-7)
