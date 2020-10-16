@@ -619,6 +619,18 @@ I just discover a very nice and helpfull website for some [sofwares](https://sit
 
 
 
+#### How to download genome data from ncbi
+
+I wanted to download bacteria genome assembly from ncbi, but I did not know how to do.
+
+By googling I fortunately found this [link](https://www.ncbi.nlm.nih.gov/datasets/docs/command-line-assembly/)
+
+They recommand to install the ncbi program named datasets. How to install it ? The response is [here](https://www.ncbi.nlm.nih.gov/datasets/docs/rehydrate/).
+
+It is possible to downmload a hude dataset from a taxon with NCBI taxon ID. 
+
+After installation type ./datasets download genome taxon --help to see the details arguments
+
 
 
 
