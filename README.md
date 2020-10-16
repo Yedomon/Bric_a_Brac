@@ -335,6 +335,8 @@ A4
 
 - #### [Simple tuto](https://www.nature.com/articles/s41598-020-59204-y.pdf)
 
+- #### [Interessant title](https://www.nature.com/articles/s41598-020-68563-5#Sec11)
+
 
 - #### [Insights Into Chloroplast Genome Evolution Across Opuntioideae (Cactaceae) Reveals Robust Yet Sometimes Conflicting Phylogenetic Topologies](https://www.frontiersin.org/articles/10.3389/fpls.2020.00729/full#B91)
 
@@ -633,6 +635,28 @@ After installation type ./datasets download genome taxon --help to see the detai
 
 an other way to do is to [here](https://astrobiomike.github.io/unix/ncbi_eutils) and [here](https://dmnfarrell.github.io/bioinformatics/assemblies-genbank-python)
 
+
+
+#### SP work
+
+- #### [Inspiration 1](https://peerj.com/articles/9448/)
+
+- #### [Inspiration 2](https://link.springer.com/article/10.1007/s13205-020-02372-5)
+
+#### Population genomics work 
+
+##### Sesame
+
+- #### [Cui et al 2017](https://www.frontiersin.org/articles/10.3389/fpls.2017.01189/full)
+- #### [Mei et al 2017](https://www.frontiersin.org/articles/10.3389/fpls.2017.00636/full)
+
+##### Others
+
+- #### [Jujube example](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13480)
+- #### [Wheat](https://link.springer.com/article/10.1186/s12864-020-06835-0#Sec14)
+- #### [Joukhadar et al 2017](https://www.frontiersin.org/articles/10.3389/fpls.2017.02115/full#h3)
+- #### [Wang et al 2018](https://www.cell.com/molecular-plant/fulltext/S1674-2052(18)30187-4#secsectitle0020) | Domestication area
+- #### [Good journal for publication](https://gsejournal.biomedcentral.com/articles/10.1186/s12711-020-00581-3#Sec2)
 
 
 
