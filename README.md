@@ -631,6 +631,8 @@ It is possible to downmload a hude dataset from a taxon with NCBI taxon ID.
 
 After installation type ./datasets download genome taxon --help to see the details arguments
 
+an other way to do is to [here](https://astrobiomike.github.io/unix/ncbi_eutils) and [here](https://dmnfarrell.github.io/bioinformatics/assemblies-genbank-python)
+
 
 
 
