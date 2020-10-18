@@ -65,10 +65,28 @@
 - #### [Computationnal genomics with R](https://compgenomr.github.io/book/)
 
 
+#### Snakemake
+
+
+- #### [Install snakemake using conda](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
+- #### [CulebrONT: Using data from long reads obtained by Oxford Nanopore Technologies sequencing makes genome assembly easier](https://culebront-pipeline.readthedocs.io/en/latest/)
+- #### [VIPER: Visualization Pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis](https://bitbucket.org/cfce/viper/src/master/#RunningViper) 
+
+- ##### [snakemake rna seq star deseq2](https://github.com/snakemake-workflows/rna-seq-star-deseq2)
+
+- #### [RASflow: an RNA-Seq analysis workflow with Snakemake](https://github.com/zhxiaokang/RASflow)
+
+- #### [Variant calling example with snakemake](https://snakemake.readthedocs.io/en/v5.25.0/tutorial/basics.html)
+
+- #### [snakemake-workflows dna-seq-gatk-variant-calling](https://github.com/snakemake-workflows/dna-seq-gatk-variant-calling/blob/master/Snakefile)
+
+
+
+
+
 
 # Genomics Tools
 
-- #### [CulebrONT: Using data from long reads obtained by Oxford Nanopore Technologies sequencing makes genome assembly easier](https://culebront-pipeline.readthedocs.io/en/latest/)
 - #### [Long reads assembly tutorial with a focus on nanopore data](https://timkahlke.github.io/LongRead_tutorials/ASS.html)
 - #### [How to read a phylogenetic tree](https://youtu.be/LgZ3UbPzC6c)
 
