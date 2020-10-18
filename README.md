@@ -91,6 +91,8 @@
 
 # Genomics Tools
 
+- #### [Hi-fi assembly yutorial](https://youtu.be/5tE8zYDpC8c)
+
 - #### [Long reads assembly tutorial with a focus on nanopore data](https://timkahlke.github.io/LongRead_tutorials/ASS.html)
 - #### [How to read a phylogenetic tree](https://youtu.be/LgZ3UbPzC6c)
 
