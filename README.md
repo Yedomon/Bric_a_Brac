@@ -695,6 +695,17 @@ an other way to do is to [here](https://astrobiomike.github.io/unix/ncbi_eutils)
 - #### [Wang et al 2018](https://www.cell.com/molecular-plant/fulltext/S1674-2052(18)30187-4#secsectitle0020) | Domestication area
 - #### [Good journal for publication](https://gsejournal.biomedcentral.com/articles/10.1186/s12711-020-00581-3#Sec2)
 
+# Homework seed science
+
+The idea is to use wild genome for rice sedd nutritionnal quality improvmen through genomics breeding
+
+Some references
+
+- #### [genome wild rufipogon](https://www.nature.com/articles/s42003-020-0890-8#Sec8) | [another version](https://link.springer.com/article/10.1007/s11427-020-1738-x)
+- #### [proteomics analysis](https://link.springer.com/article/10.1186/s12953-014-0051-4)
+
+
+
 
 
 
