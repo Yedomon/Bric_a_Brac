@@ -70,6 +70,7 @@
 
 - #### [Install snakemake using conda](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
 - #### [Introduction to snakemake](https://blog.liang2.tw/2017Talk-Snakemake/#cover) | [A video](https://www.youtube.com/watch?v=aZ0QlqtR2KM)
+- #### [Run snakemake locally](https://jrderuiter.github.io/snakemake-rnaseq/usage.html)
 - #### [CulebrONT: Using data from long reads obtained by Oxford Nanopore Technologies sequencing makes genome assembly easier](https://culebront-pipeline.readthedocs.io/en/latest/)
 - #### [VIPER: Visualization Pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis](https://bitbucket.org/cfce/viper/src/master/#RunningViper) 
 
