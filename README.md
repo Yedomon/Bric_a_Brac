@@ -47,6 +47,9 @@
 # Pangenome
 
 - #### [Beyond a Single Reference Genome – The Advantages of Sequencing Multiple Individuals](https://youtu.be/mfldTjg1EqI)
+- #### [Rice](https://www.nature.com/articles/s42003-020-0890-8#Sec8) | [Rice wild](https://link.springer.com/article/10.1007/s11427-020-1738-x)
+- #### [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
+- #### [Super-Pangenome by Integrating the Wild Side of a Species for Accelerated Crop Improvement](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(19)30281-X)
 
 # Root sesame
 
