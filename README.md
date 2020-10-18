@@ -91,6 +91,8 @@
 
 # Genomics Tools
 
+- #### [Webinar: GWA of a wheat transcription factor family: the power of bioinformatics resources](https://youtu.be/efbph7f2jXU)
+
 - #### [Hi-fi assembly yutorial](https://youtu.be/5tE8zYDpC8c)
 
 - #### [Long reads assembly tutorial with a focus on nanopore data](https://timkahlke.github.io/LongRead_tutorials/ASS.html)
