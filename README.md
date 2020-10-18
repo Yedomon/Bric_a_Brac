@@ -427,6 +427,7 @@ A4
 - #### [Inspirational paper 2](https://imafungus.biomedcentral.com/articles/10.1186/s43008-019-0011-9)
 - #### [Inspirationnal paper 3](https://www.nature.com/articles/s41598-018-30335-7)
 - #### [Code and script Fungal annotation assemblies and so on](https://gitlab.gwdg.de/alice.feurtey/genome_architecture_zymoseptoria)
+- #### [Mechanism of pathogenicity](https://books.google.fr/books?hl=fr&lr=&id=wGgCEAAAQBAJ&oi=fnd&pg=PA185&dq=NBS-LRR+gene+cloning+plant+disease+resistance&ots=pwwZ21T0-W&sig=yZRXOuy_gzvH6aC-TSjfgZoU0Sg#v=onepage&q=NBS-LRR%20gene%20cloning%20plant%20disease%20resistance&f=false)
 
 
 # NNS-LRR genes 
