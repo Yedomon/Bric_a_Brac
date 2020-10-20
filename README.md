@@ -718,7 +718,9 @@ Some references
 - #### [Example 2: IF = 1.662 | Frontiers in Life Science](https://www.tandfonline.com/doi/full/10.1080/21553769.2015.1041166)
 - #### [Example 3: IF = NA | Plant Breed. Biotech.](http://www.plantbreedbio.org/journal/view.html?volume=7&number=3&spage=237&year=2019)
 
+# Download nt and nr from ncbi
 
+[solution](https://www.biostars.org/p/387902/)
 
 
 
