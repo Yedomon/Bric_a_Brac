@@ -130,6 +130,10 @@
 
 # R
 
+- #### [inspi](https://cedricscherer.netlify.app/2020/01/09/australian-bushfires-comparison-europe-world/)
+
+- #### [Inspi](https://frontpagedata.com/examples/)
+
 - #### [Ajouter les pvalues sur un ggplot, manuellement](https://statistique-et-logiciel-r.com/ajouter-pvalues-sur-ggplot/)
 
 - #### [Chicklet Stacked Bar Chart](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
