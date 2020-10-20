@@ -130,6 +130,10 @@
 
 # R
 
+- #### [Ajouter les pvalues sur un ggplot, manuellement](https://statistique-et-logiciel-r.com/ajouter-pvalues-sur-ggplot/)
+
+- #### [Chicklet Stacked Bar Chart](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
+
 - #### [Distill for R Markdown: Creating a Website](https://rstudio.github.io/distill/website.html)
 
 - #### [A Maize Color Palette Generator](https://github.com/AndiKur4/MaizePal)
