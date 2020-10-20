@@ -706,6 +706,18 @@ Some references
 - #### [proteomics analysis](https://link.springer.com/article/10.1186/s12953-014-0051-4)
 - #### [Improvement of Nutritional Quality of Rice Seed Through Classical Breeding and Advance Genetic Engineering](https://link.springer.com/chapter/10.1007/978-981-15-5337-0_23)
 
+# Karyotyping paper
+
+- #### [High impact factor potential journal: Journal of Genetics and Genomics](https://www.journals.elsevier.com/journal-of-genetics-and-genomics)
+- #### [Example IF = 6.141 ](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14536)
+- #### [Example IF = 2.076](https://academic.oup.com/botlinnean)
+- #### [Example 2020 Frontiers in Plant Science IF = 4.402](https://www.frontiersin.org/articles/10.3389/fpls.2020.00569/full)
+- #### [Example 0: IF = 5.065 | Construction and application of oligo-based FISH karyotype of Haynaldia villosa](https://www.sciencedirect.com/science/article/pii/S1673852718301164)
+- #### [Example 1: IF = 3.395 | The Crop Journal ](https://www.sciencedirect.com/science/article/pii/S2214514116300484)
+- #### [Example 2: IF = 1.085 | Biochemical Systematics and Ecology](https://www.sciencedirect.com/science/article/pii/S0305197815002203)
+- #### [Example 2: IF = 1.662 | Frontiers in Life Science](https://www.tandfonline.com/doi/full/10.1080/21553769.2015.1041166)
+- #### [Example 3: IF = NA | Plant Breed. Biotech.](http://www.plantbreedbio.org/journal/view.html?volume=7&number=3&spage=237&year=2019)
+
 
 
 
