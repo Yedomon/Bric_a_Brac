@@ -132,7 +132,7 @@
 
 
 
-
+- #### [inspi charles bodet ggplot2](https://www.charlesbordet.com/en/make-beautiful-charts-ggplot2/#)
 - #### [BBC](https://bbc.github.io/rcookbook/)  [Exampple](http://www.interhacktives.com/2020/03/09/how-to-create-bbc-style-graphics-with-r-a-bbplot-tutorial/)
 - #### [R graph galery ggplot2](https://www.r-graph-gallery.com/ggplot2-package.html)
 - #### [Data to viz](https://www.data-to-viz.com/)
