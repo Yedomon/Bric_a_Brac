@@ -46,6 +46,16 @@
 
 # Pangenome
 
+- #### PacBIO a dit "Sequencing multiple individuals is the best way to understand genomic variation in a species or across closely related species." [photo](https://programs.pacificbiosciences.com/l/1652/2020-09-18/426l8j)
+
+- #### [Eight high-quality genomes reveal pan-genome architecture and ecotype differentiation of Brassica napus](https://www.nature.com/articles/s41477-019-0577-7)
+
+- #### [Discovery and population genomics of structural variation in a songbird genus](https://www.nature.com/articles/s41467-020-17195-4)
+
+- #### [Pan-Genome of Wild and Cultivated Soybeans](https://www.sciencedirect.com/science/article/abs/pii/S0092867420306188)
+
+- ##### [Six reference-quality genomes reveal evolution of bat adaptations](https://www.nature.com/articles/s41586-020-2486-3)
+
 - #### [Beyond a Single Reference Genome – The Advantages of Sequencing Multiple Individuals](https://youtu.be/mfldTjg1EqI)
 - #### [Rice](https://www.nature.com/articles/s42003-020-0890-8#Sec8) | [Rice wild](https://link.springer.com/article/10.1007/s11427-020-1738-x)
 - #### [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
