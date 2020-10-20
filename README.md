@@ -130,6 +130,18 @@
 
 # R
 
+
+
+
+- #### [BBC](https://bbc.github.io/rcookbook/)  [Exampple](http://www.interhacktives.com/2020/03/09/how-to-create-bbc-style-graphics-with-r-a-bbplot-tutorial/)
+- #### [R graph galery ggplot2](https://www.r-graph-gallery.com/ggplot2-package.html)
+- #### [Data to viz](https://www.data-to-viz.com/)
+
+- #### [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+- #### [Tidytuesday 2020](https://github.com/jwatzek/tidytuesday)
+
+- #### inspi geom area en haut (plant height par example) et barre pourcentage en bas (pour le nombre de feuille vert et jaune et mort) , vrainspiration [ici](https://twitter.com/watzoever/status/1199508300959752192?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199508300959752192%7Ctwgr%5Eshare_3%2Ccontainerclick_0&ref_url=https%3A%2F%2Fcedricscherer.netlify.app%2F2019%2F12%2F30%2Fbest-tidytuesday-2019%2F) ... le code dur github est [ici](https://github.com/jwatzek/tidytuesday)
+
 - #### [inspi](https://cedricscherer.netlify.app/2020/01/09/australian-bushfires-comparison-europe-world/)
 
 - #### [Inspi](https://frontpagedata.com/examples/)
