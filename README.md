@@ -56,6 +56,8 @@
 
 - ##### [Six reference-quality genomes reveal evolution of bat adaptations](https://www.nature.com/articles/s41586-020-2486-3)
 
+- #### [Sunflower pan-genome analysis shows that hybridization altered gene content and disease resistance](https://www.nature.com/articles/s41477-018-0329-0)
+
 - #### [Beyond a Single Reference Genome – The Advantages of Sequencing Multiple Individuals](https://youtu.be/mfldTjg1EqI)
 - #### [Rice](https://www.nature.com/articles/s42003-020-0890-8#Sec8) | [Rice wild](https://link.springer.com/article/10.1007/s11427-020-1738-x)
 - #### [Plant pan-genomes are the new reference](https://www.nature.com/articles/s41477-020-0733-0)
