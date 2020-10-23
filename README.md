@@ -655,6 +655,7 @@ for the calibration he retieve from timetrre.org database
 
 un nice tuto sur cette affaire de time tree et autre [ici](https://kor.kyhistotechs.com/complex-jujube-genome-provides-insights-into-fruit-tree-biology-31050929)
 
+
 #### Visualize syntheny
 
 
@@ -685,7 +686,9 @@ jvci is a python version of MCScan ..so you can use it also. And jvci can help y
 
 I just discover a very nice and helpfull website for some [sofwares](https://sites.google.com/view/dr-wasim/softwares) , [protocol](https://sites.google.com/view/dr-wasim/protocols/nucleic-acid-extraction) , [tutorials](https://sites.google.com/view/dr-wasim/bioinformatic-tools/tbtools)
 
+# Whole genome duplication
 
+Can be proved through ka?ks analysis graph, syntheny graph, phylogenetic tree time divergence analysis... Example with this [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13261#men13261-fig-0003) and this [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13350)
 
 
 
@@ -740,7 +743,7 @@ Some references
 - #### [genome wild rufipogon](https://www.nature.com/articles/s42003-020-0890-8#Sec8) | [another version](https://link.springer.com/article/10.1007/s11427-020-1738-x)
 - #### [proteomics analysis](https://link.springer.com/article/10.1186/s12953-014-0051-4)
 - #### [Improvement of Nutritional Quality of Rice Seed Through Classical Breeding and Advance Genetic Engineering](https://link.springer.com/chapter/10.1007/978-981-15-5337-0_23)
-
+- #### [nICE GRAPH R ](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10151)
 # Karyotyping paper
 
 - #### [High impact factor potential journal: Journal of Genetics and Genomics](https://www.journals.elsevier.com/journal-of-genetics-and-genomics)
