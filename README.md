@@ -688,6 +688,10 @@ I just discover a very nice and helpfull website for some [sofwares](https://sit
 
 # Whole genome duplication
 
+
+
+[nice paper](https://www.nature.com/articles/s41467-020-18771-4)
+
 Can be proved through ka?ks analysis graph, syntheny graph, phylogenetic tree time divergence analysis... Example with this [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13261#men13261-fig-0003) and this [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13350)
 
 [Good review](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(18)30159-6)
