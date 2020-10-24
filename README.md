@@ -68,6 +68,19 @@
 - #### Comparative Analysis of Root Transcriptome Profiles of Sesame (Sesamum indicum L.) in Response to Osmotic Stress](https://link.springer.com/article/10.1007/s00344-020-10230-0)
 
 
+# Resequencing wild and cultivared
+
+
+- ####  [2010 | Soybean 31](https://www.nature.com/articles/ng.715)
+- ####  [2013 | Soybean | Korea](https://academic.oup.com/dnaresearch/article/21/2/153/403337)
+- ####  [2015 | Soybean 302](https://www.nature.com/articles/nbt.3096)
+- ####  [2014 | pepper](https://www.pnas.org/content/111/14/5135)
+- ####  [2019 | Eggplant](https://www.frontiersin.org/articles/10.3389/fpls.2019.01220/full)
+- ####  [2020 | Jujube](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13480)
+- ####  [2020 | Lotus](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15029)
+- ####  [2020 | watermelon | 414](https://www.nature.com/articles/s41588-019-0518-4)
+
+
 # GWAS AND GENETIC DIVERSITY
 
 - #### 17 September 2020 | [A comprehensive phenotypic and genomic characterization of Ethiopian sorghum germplasm defines core collection and reveals rich genetic potential in adaptive traits](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20055)
