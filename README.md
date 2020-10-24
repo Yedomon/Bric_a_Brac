@@ -79,7 +79,10 @@
 - ####  [2020 | Jujube](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13480)
 - ####  [2020 | Lotus](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15029)
 - ####  [2020 | watermelon | 414](https://www.nature.com/articles/s41588-019-0518-4)
-
+- ####  [2020 | Soybean](https://www.sciencedirect.com/science/article/pii/S0092867420306188?casa_token=v9ShlMGm3gQAAAAA:Sx5ybFWtapUYcU99V3aUWCsaaUWWqwvGmHlDdgud6q2yYWllCEV8oORQTueThOkpDgW09AAvoQ)
+- ####  [2020 | Alfafa](https://www.sciencedirect.com/science/article/pii/S1674205220302161?casa_token=ocSWUtmqUeYAAAAA:ZUbB89_FygJ3F2EgClSg2EY6rVJD2A0HKAWVn9K9qtCSIEgBMoIZZSzv-CEX8Pu3jSX8HiSeJw)
+- ####  [2020 | Tea | 81](https://www.sciencedirect.com/science/article/pii/S1674205220301349)
+- ####  [2020 | Rice | 1143](https://www.nature.com/articles/s41467-020-18608-0)
 
 # GWAS AND GENETIC DIVERSITY
 
