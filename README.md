@@ -83,6 +83,8 @@
 - ####  [2020 | Alfafa](https://www.sciencedirect.com/science/article/pii/S1674205220302161?casa_token=ocSWUtmqUeYAAAAA:ZUbB89_FygJ3F2EgClSg2EY6rVJD2A0HKAWVn9K9qtCSIEgBMoIZZSzv-CEX8Pu3jSX8HiSeJw)
 - ####  [2020 | Tea | 81](https://www.sciencedirect.com/science/article/pii/S1674205220301349)
 - ####  [2020 | Rice | 1143](https://www.nature.com/articles/s41467-020-18608-0)
+- ####  [2020 | Common Bean | 683](https://www.nature.com/articles/s41588-019-0546-0)
+- #### [2020 | Pepper | 4 | Italia](https://www.nature.com/articles/s41598-020-66053-2)
 
 # GWAS AND GENETIC DIVERSITY
 
