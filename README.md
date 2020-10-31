@@ -180,6 +180,8 @@
 - ##### [annotation ggplot2](https://viz-ggplot2.rsquaredacademy.com/textann.html)
 - #### [Ajouter les pvalues sur un ggplot, manuellement](https://statistique-et-logiciel-r.com/ajouter-pvalues-sur-ggplot/)
 
+- #### [order x axis following a recise axix](https://www.r-graph-gallery.com/267-reorder-a-variable-in-ggplot2.html)
+
 - #### [Modifier les axes color face et autres](http://www.sthda.com/french/wiki/ggplot2-graduation-des-axes-guide-pour-personnaliser-les-etiquettes-des-graduations-logiciel-r-et-visualisation-de-donnees)
 - #### [Chicklet Stacked Bar Chart](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
 
