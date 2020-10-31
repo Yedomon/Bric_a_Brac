@@ -792,5 +792,17 @@ Some references
 [solution](https://www.biostars.org/p/387902/)
 
 
+# Review : Understanding African plant diversification: insights from special plant species complexes in sub-Saharan Africa
+
+
+- #### [Cradles and museums of generic plant diversity across tropical Africa](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16293#nph16293-bib-0016)
+
+- #### [Beyond trees: Biogeographical regionalization of tropicalAfrica](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jbi.13190?casa_token=4NHZao-oL4cAAAAA:AXDZLPyk6aNkZl2PnqV1Fq7tKXYot7wYp5LS0hZOQvRWauK5_zf1ceSOMEUpSJOEmQH4X_3YK7e2YTj8)
+
+
+- #### [PLANT SYSTEMATICS IN SOUTH AFRICA: A BRIEF HISTORICAL OVERVIEW, 1753–1953](https://www.tandfonline.com/doi/abs/10.1080/00359199909520411?journalCode=ttrs20)
+
+- #### [Floristics of the angiosperm flora of Sub-Saharan Africa: an analysis of the African Plant Checklist and Database](https://www.researchgate.net/publication/233681713_Floristics_of_the_angiosperm_flora_of_Sub-Saharan_Africa_an_analysis_of_the_African_Plant_Checklist_and_Database)
+
 
 
