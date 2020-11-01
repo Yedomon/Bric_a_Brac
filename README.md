@@ -161,6 +161,7 @@
 
 # R
 
+- #### [Supprimer la legende](https://www.datanovia.com/en/fr/blog/gpplot-comment-supprimer-la-legende/)
 
 - #### [Label bar chart ](https://thomasadventure.blog/posts/labels-ggplot2-bar-chart/)
 - #### [inspi charles bodet ggplot2](https://www.charlesbordet.com/en/make-beautiful-charts-ggplot2/#)
