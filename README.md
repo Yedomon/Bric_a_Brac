@@ -806,4 +806,10 @@ Some references
 - #### [Floristics of the angiosperm flora of Sub-Saharan Africa: an analysis of the African Plant Checklist and Database](https://www.researchgate.net/publication/233681713_Floristics_of_the_angiosperm_flora_of_Sub-Saharan_Africa_an_analysis_of_the_African_Plant_Checklist_and_Database)
 
 
+# Earlier African systematics investigation
+
+The African continent is composed of more than 45,000 species distributed on a area of 29 million km2 (Klopper, R. R., Gautier, L., Chatelain, C., Smith, G. F., and Spichiger, R. (2007). Floristics of the angiosperm flora of sub-Saharan Africa: an analysis of the African plant checklist and database. Taxon 56, 201–208.). Early 1600's, diverse European botanists started the documentation of African flora. Individual investigations based on diverses schools dependending on the practitionners were used. However, the traceability of the collected data and the lack of communication make difficulta comprehensive knowledge of the African plants classification. Plant systematics in Africa has evolved a dramatic turn with the Association pour l'Etude Taxonomique de la Flore d'Afrique Tropicale (AETFAT) (Association for the taxonomic study of the flora of tropical Africa in English).
+
+
+
 
