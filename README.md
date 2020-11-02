@@ -819,3 +819,10 @@ The African continent is composed of more than 45,000 species distributed on a a
 
 
 
+
+# How I solved ALI TV installation in my Centos 7
+
+cpanm Bio::Perl to install bioperl tools
+
+I got the solution [here](https://www.biostars.org/p/345331/)
+
