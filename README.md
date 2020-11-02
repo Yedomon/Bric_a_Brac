@@ -124,6 +124,10 @@
 
 # Genomics Tools
 
+- #### [Assembly Graph Browser: interactive visualization of assembly graphs](https://pubmed.ncbi.nlm.nih.gov/30715194/)
+
+- #### [Visualising Assembly Graphs](https://towardsdatascience.com/visualising-assembly-graphs-fb631f46bbd1)
+
 - #### [Excellent tutorials for long reads assembly and so on](https://yiweiniu.github.io/blog/)
 - #### [Accessing data from NCBI with EDirect](https://astrobiomike.github.io/unix/ncbi_eutils)
 
