@@ -123,6 +123,8 @@
 
 
 # Genomics Tools
+
+- #### [Excellent tutorials for long reads assembly and so on](https://yiweiniu.github.io/blog/)
 - #### [Accessing data from NCBI with EDirect](https://astrobiomike.github.io/unix/ncbi_eutils)
 
 - #### [Webinar: GWA of a wheat transcription factor family: the power of bioinformatics resources](https://youtu.be/efbph7f2jXU)
