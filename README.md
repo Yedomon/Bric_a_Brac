@@ -830,3 +830,53 @@ to visualize  ...... https://alitvteam.github.io/AliTV/d3/AliTV.html
 
 
 awesome tuto [here](https://alitvteam.github.io/AliTV/gcb_2016)
+
+
+# Nucmer alignement artemis
+
+Hi Yedomon,
+
+ 
+
+Below is the command for nucmer, delta-filter, show-coords, comparison file. I hope you can make it. 
+
+ 
+
+the lines not started with # are the command you will use. 
+
+#Let's suppose you have a delta file called "gb_zz.delta", which was produced by nucmer with ref=zz, query=gb.
+
+#Do show-coords with -cTrl option like below;
+
+show-coords -cTrl gb_zz.delta > gb_zz.delta.coords
+
+#or do delta-filter first with %match (-i option) >=95% and match length (-l option) >=500bp
+
+delta-filter -i 95 -l 500 gb_zz.delta > gb_zz_i95l0.5k.delta
+
+#then do show-coords like above.
+#Now let's make a comparison file for ACT like below;
+
+more gb_zz.delta.coords | awk '$0~/^[0-9]/' | awk '{print $5,$7,$1,$2,$12,$3,$4,$13}' > gb_zz.cmp
+
+=====below is not a commend
+#where each column has;
+$5=alignment_len of reference
+$7=%id
+$1,$2,$12=ref start, end, Ref_name (always +)
+$3,$4,$13=qry start, end, Qry_name (can be +/-)
+
+#load gb_zz.cmp file to ACT
+sequence1=reference
+sequence2=query
+comparison_file=gb_zz.cmp
+
+
+ 
+
+Let me know if you have any problem. Good luck.
+
+ 
+
+Yeisoo
+
