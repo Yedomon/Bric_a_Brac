@@ -46,6 +46,8 @@
 
 # Pangenome
 
+- #### Apple pan-genome | 02 Noember 2020 | Domestication | Assembly improvement | [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9) | [Code availability](https://github.com/XuepengSun/apple_diploid_genomes)
+
 - #### PacBIO a dit "Sequencing multiple individuals is the best way to understand genomic variation in a species or across closely related species." [photo](https://programs.pacificbiosciences.com/l/1652/2020-09-18/426l8j)
 
 - #### [Eight high-quality genomes reveal pan-genome architecture and ecotype differentiation of Brassica napus](https://www.nature.com/articles/s41477-019-0577-7)
