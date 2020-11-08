@@ -223,7 +223,7 @@
 - #### [Interactive map with R](https://thinkr.fr/cartographie-interactive-avec-r-la-suite/)
 - #### [Interactive map with R and Leaflet](https://thinkr.fr/cartographie-interactive-comment-visualiser-mes-donnees-spatiales-de-maniere-dynamique-avec-leaflet/)
 - #### [Geocomputation with R](https://geocompr.robinlovelace.net/)
-
+- #### [R as GIS, part 1: vector](https://datascienceplus.com/r-as-gis-part-1-vector/)
 
 # R Markdown
 
