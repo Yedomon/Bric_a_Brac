@@ -93,6 +93,9 @@
 - #### 17 September 2020 | [A comprehensive phenotypic and genomic characterization of Ethiopian sorghum germplasm defines core collection and reveals rich genetic potential in adaptive traits](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20055)
 - #### 18 September 2020 | [Genomic analyses of diverse wild and cultivated accessions provide insights into the evolutionary history of jujube](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13480)
 
+# Polyploid
+
+- #### [Polyploidy and high environmental tolerance increase the invasive success of plants](https://link.springer.com/article/10.1007/s10265-020-01236-6)
 
 
 # Books
