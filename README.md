@@ -787,6 +787,8 @@ The idea is to use wild genome for rice sedd nutritionnal quality improvmen thro
 
 Some references
 
+- #### [Potentiality of Wild Rice in Quality Improvement of Cultivated Rice Varieties](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_4)
+
 - #### [Germplasm and Genetic Diversity Studies in Rice for Stress Response and Quality Traits](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_3)
 - #### [Rice Grain Quality and Abiotic Stress: Genomics and Biotechnological Perspectives](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_30)
 - #### [argument important of reseq for agronomic traits](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_6)
