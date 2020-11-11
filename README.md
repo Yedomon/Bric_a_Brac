@@ -39,6 +39,7 @@
 
 - #### 01 October 2020 |Article | [From landrace to modern hybrid broccoli: the genomic and morphological domestication syndrome within a diverse B. oleracea collection](https://www.nature.com/articles/s41438-020-00375-0) | [Code available](https://github.com/zacharystansell/B_oleracea_diversity_panel)
 
+- #### [Example linkgae map construction](https://www.mdpi.com/2223-7747/9/11/1476)
 
 # Selection pressure analysis
 
@@ -89,6 +90,7 @@
 - #### [2020 | Pepper | 4 | Italia](https://www.nature.com/articles/s41598-020-66053-2)
 
 # GWAS AND GENETIC DIVERSITY
+- #### 02 November 2020 [Genome-wide association for β-glucan content, population structure, and linkage disequilibrium in elite oat germplasm adapted to subtropical environments](https://link.springer.com/article/10.1007/s11032-020-01182-0)
 
 - #### 17 September 2020 | [A comprehensive phenotypic and genomic characterization of Ethiopian sorghum germplasm defines core collection and reveals rich genetic potential in adaptive traits](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20055)
 - #### 18 September 2020 | [Genomic analyses of diverse wild and cultivated accessions provide insights into the evolutionary history of jujube](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13480)
@@ -784,6 +786,10 @@ an other way to do is to [here](https://astrobiomike.github.io/unix/ncbi_eutils)
 The idea is to use wild genome for rice sedd nutritionnal quality improvmen through genomics breeding
 
 Some references
+
+- #### [Germplasm and Genetic Diversity Studies in Rice for Stress Response and Quality Traits](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_3)
+- #### [Rice Grain Quality and Abiotic Stress: Genomics and Biotechnological Perspectives](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_30)
+- #### [argument important of reseq for agronomic traits](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_6)
 
 - #### [genome wild rufipogon](https://www.nature.com/articles/s42003-020-0890-8#Sec8) | [another version](https://link.springer.com/article/10.1007/s11427-020-1738-x)
 - #### [proteomics analysis](https://link.springer.com/article/10.1186/s12953-014-0051-4)
