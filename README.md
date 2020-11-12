@@ -895,3 +895,18 @@ Let me know if you have any problem. Good luck.
 
 Yeisoo
 
+
+One day I face a problem ....when running a well install programm under linux.
+
+
+The problem was slove using the command: 
+
+
+chown -R user:user folder/
+
+
+Permission issue was the problem
+
+
+
+
