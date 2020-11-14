@@ -317,6 +317,10 @@ A4
 [git1](https://github.com/ibest/ARC/blob/master/contrib/profilemem.R)
 [git2](https://github.com/ibest/ARC/blob/master/contrib/plot_memprofile.R)
 
+[online1 | Reponse 16](https://stackoverflow.com/questions/1221555/retrieve-cpu-usage-and-memory-usage-of-a-single-process-on-linux)
+
+[online](https://alvinalexander.com/linux/unix-linux-process-memory-sort-ps-command-cpu/)
+
 
 
 
