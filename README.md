@@ -526,7 +526,7 @@ A4
 - #### [Code and script Fungal annotation assemblies and so on](https://gitlab.gwdg.de/alice.feurtey/genome_architecture_zymoseptoria)
 - #### [Mechanism of pathogenicity](https://books.google.fr/books?hl=fr&lr=&id=wGgCEAAAQBAJ&oi=fnd&pg=PA185&dq=NBS-LRR+gene+cloning+plant+disease+resistance&ots=pwwZ21T0-W&sig=yZRXOuy_gzvH6aC-TSjfgZoU0Sg#v=onepage&q=NBS-LRR%20gene%20cloning%20plant%20disease%20resistance&f=false)
 
-
+- #### [Grouped barchart customization](https://www.r-graph-gallery.com/48-grouped-barplot-with-ggplot2.html)
 # NNS-LRR genes 
 
 - #### [Inspirational paper 1](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02576-0#Sec16)
