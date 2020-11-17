@@ -917,6 +917,14 @@ chown -R user:user folder/
 
 Permission issue was the problem
 
+# Trover un moyen de gerer les gaps surtout leur positions dans une sequence
+
+-Une reponse [ici](https://stackoverflow.com/questions/49303791/finding-the-positions-and-lengths-of-gaps-indels-in-a-sequence-alignment-with) que je peux adapter a mon cas en remplacant le - par N
+
+ comme par hasard je decouvre ceci..comment visualiser la proportion de gap dans un genome. tres interessant. site [ici](https://bioinformaticsworkbook.org/dataWrangling/R/visualize-gaps-in-genomes.html#gsc.tab=0)
+
+
+
 
 
 
