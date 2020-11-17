@@ -517,6 +517,8 @@ A4
 
 # Fungal Genomics 
 
+- #### [FocSge1 in Fusarium oxysporum f. sp. cubense race 1 is essential for full virulence](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01936-y)
+
 - #### [ONT assembly with Canu with mitogenome resolution](https://academic.oup.com/gigascience/article/9/9/giaa099/5908739)
 - #### [Inspi](https://link.springer.com/article/10.1186/gb-2010-11-7-r73)
 
