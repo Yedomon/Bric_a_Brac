@@ -924,6 +924,13 @@ Permission issue was the problem
 -Une reponse [ici](https://stackoverflow.com/questions/49303791/finding-the-positions-and-lengths-of-gaps-indels-in-a-sequence-alignment-with) que je peux adapter a mon cas en remplacant le - par N
 
  comme par hasard je decouvre ceci..comment visualiser la proportion de gap dans un genome. tres interessant. site [ici](https://bioinformaticsworkbook.org/dataWrangling/R/visualize-gaps-in-genomes.html#gsc.tab=0)
+ 
+ 
+ # Back-to-back bar graph 
+ 
+ - #### [video](https://www.youtube.com/watch?v=DbFU7Js8_h4)
+ 
+ - #### [Inspi color](https://www.alanapirrone.com.au/blog/tag/back-to-back+bar+chart)
 
 
 
