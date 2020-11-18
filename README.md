@@ -1,6 +1,8 @@
 # Excellente resources papers for genomics
 
 
+- #### [Guide writting short format](https://www.biorxiv.org/content/10.1101/2020.04.18.042093v1.full.pdf)
+
 - #### [Awesome tutorial before wgs assembly](https://www.grandomics.com/en/complete_genome_survey/)
 
 - #### [Awesome glance about de nov assembly and comparative genomics](https://www.grandomics.com/en/animal_and_plant_genome_de_novo/)
