@@ -1,5 +1,7 @@
 # Excellente resources papers for genomics
 
+- #### [Grandomics genomics company pub](https://www.grandomics.com/en/pubications/)
+
 
 - #### [Zoonomia project](https://www.nature.com/articles/s41586-020-2876-6) | [Code availability](https://www.nature.com/articles/s41586-020-2876-6#code-availability) 
 
