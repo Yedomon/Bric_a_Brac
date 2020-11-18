@@ -1,5 +1,10 @@
 # Excellente resources papers for genomics
 
+
+- #### [Awesome tutorial before wgs assembly](https://www.grandomics.com/en/complete_genome_survey/)
+
+- #### [Awesome glance about de nov assembly and comparative genomics](https://www.grandomics.com/en/animal_and_plant_genome_de_novo/)
+
 - #### [Grandomics genomics company pub](https://www.grandomics.com/en/pubications/)
 
 
@@ -51,6 +56,10 @@
 - #### [Selection signatures of Fuzhong Buffalo based on whole-genome sequences](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07095-8)
 
 # Pangenome
+
+
+- #### [definition](https://www.grandomics.com/en/pan-genome/)
+
 
 - #### Apple pan-genome | 02 Noember 2020 | Domestication | Assembly improvement | [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9) | [Code availability](https://github.com/XuepengSun/apple_diploid_genomes)
 
