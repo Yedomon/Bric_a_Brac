@@ -333,6 +333,8 @@ A4
 
 # Genomics
 
+- #### [great example of comparative genomics of plants ...tu dois suive cet example pour sesamum alatum prevu pour gigascience  Usage de orthofinder avec option blast....phylogenetic and divergence time estimation wonderfull tutorial](https://www.frontiersin.org/articles/10.3389/fgene.2019.01211/full)
+
 - #### [Great inspiration Murigneux Valentine](https://www.biorxiv.org/content/10.1101/2020.03.16.992933v1) | [Video](https://youtu.be/FuyMgjROOIk)
 
 - #### [Code genome kiwifruit](https://www.protocols.io/view/chromosome-scale-genome-assembly-of-kiwifruit-acti-vgse3we)
