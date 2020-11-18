@@ -177,6 +177,8 @@
 
 # R
 
+- #### [Grouped Stacked bar plot with ggplot](https://www.r-graph-gallery.com/48-grouped-barplot-with-ggplot2.html)  | [Dealing with colors in ggplot2](https://www.r-graph-gallery.com/ggplot2-color.html) | [Paletteer package](https://github.com/EmilHvitfeldt/r-color-palettes)
+
 - #### [Supprimer la legende](https://www.datanovia.com/en/fr/blog/gpplot-comment-supprimer-la-legende/)
 
 - #### [Label bar chart ](https://thomasadventure.blog/posts/labels-ggplot2-bar-chart/)
