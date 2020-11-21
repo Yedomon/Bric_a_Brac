@@ -113,6 +113,8 @@
 
 # Polyploid
 
+- #### [The relation of meiotic behaviour to hybridity, polyploidy and apomixis in the Ranunculus auricomus complex (Ranunculaceae)](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02654-3)
+
 - #### [Polyploidy and high environmental tolerance increase the invasive success of plants](https://link.springer.com/article/10.1007/s10265-020-01236-6)
 
 
