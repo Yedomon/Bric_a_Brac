@@ -192,6 +192,10 @@
 
 # R
 
+- #### [How to export high quality images in R](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/)
+
+- #### [Comment exporter des images de haute qualité avec R](https://aebou.rbind.io/fr/posts/2020/11/comment-exporter-des-images-de-haute-qualit%C3%A9-avec-r/)
+
 - #### [New Version of Patchwork is Here: Inset a plot inside a plot](https://cmdlinetips.com/2020/11/insetting-with-patchwork/) [tuto2](https://www.data-imaginist.com/2020/insetting-a-new-patchwork-version/) | [tuto3](https://www.r-bloggers.com/2020/11/insetting-a-new-patchwork-version/) 
 
 - #### [tips-to-combine-multiple-ggplots-using-patchwork](https://cmdlinetips.com/2020/01/tips-to-combine-multiple-ggplots-using-patchwork/)
@@ -248,6 +252,8 @@
 
 
 # R Map
+
+- #### [Create a map of a country with the neighbouring countries and an inset map](https://aebou.rbind.io/posts/2020/11/create-a-map-of-a-country-with-the-neighbouring-countries-and-an-inset-map/)
 
 - #### [Interactive map with R](https://thinkr.fr/cartographie-interactive-avec-r-la-suite/)
 - #### [Interactive map with R and Leaflet](https://thinkr.fr/cartographie-interactive-comment-visualiser-mes-donnees-spatiales-de-maniere-dynamique-avec-leaflet/)
