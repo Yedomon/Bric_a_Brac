@@ -149,6 +149,8 @@
 
 # Genomics Tools
 
+- #### [IJV Tool](https://wikis.utexas.edu/display/bioiteam/Integrative+Genomics+Viewer+%28IGV%29+tutorial)
+
 - #### [Assembly Graph Browser: interactive visualization of assembly graphs](https://pubmed.ncbi.nlm.nih.gov/30715194/)
 
 - #### [Visualising Assembly Graphs](https://towardsdatascience.com/visualising-assembly-graphs-fb631f46bbd1)
