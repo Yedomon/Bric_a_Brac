@@ -1,6 +1,9 @@
 # Excellente resources papers for genomics
 
 
+- #### [Nice graph heterozigosity](https://www.frontiersin.org/articles/10.3389/fgene.2020.00440/full)
+
+
 - #### [Guide writting short format](https://www.biorxiv.org/content/10.1101/2020.04.18.042093v1.full.pdf)
 
 - #### [Awesome tutorial before wgs assembly](https://www.grandomics.com/en/complete_genome_survey/)
