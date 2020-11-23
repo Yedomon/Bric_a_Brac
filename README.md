@@ -961,6 +961,10 @@ Permission issue was the problem
  comme par hasard je decouvre ceci..comment visualiser la proportion de gap dans un genome. tres interessant. site [ici](https://bioinformaticsworkbook.org/dataWrangling/R/visualize-gaps-in-genomes.html#gsc.tab=0)
  
  
+ 
+ ### Pour record ram max installer yime em faisant yum install time puis lancer votre code comme ceci /usr/bin/time -o out.time.ram.txt -v votrecommande &> log & 
+ 
+ 
  # Back-to-back bar graph 
  
  - #### [video](https://www.youtube.com/watch?v=DbFU7Js8_h4)
