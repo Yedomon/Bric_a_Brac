@@ -972,7 +972,7 @@ Permission issue was the problem
  - #### [Inspi color](https://www.alanapirrone.com.au/blog/tag/back-to-back+bar+chart)
 
 
-
+# ---Comment jai pu avoir la list des data pacbio nanopore sur ENA. JUST TAPER FUSARIUM OXYSPPORUM PACBIO PUIS TELECHARGER LE FICHIER XML PUIS CONVERTIR CE FICHIER SUR CE [SITE](https://conversiontools.io/convert/xml-to-excel)
 
 
 
