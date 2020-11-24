@@ -366,7 +366,7 @@ A4
 # Genomics
 
 
-- #### [tutorial phylogeny](http://www.metagenomics.wiki/tools/phylogenetic-tree/construction)
+- #### [tutorial phylogeny](http://www.metagenomics.wiki/tools/phylogenetic-tree/construction)   [tuto](http://www.metagenomics.wiki/tools/phylogenetic-tree/alignment)
 
 - #### [great example of comparative genomics of plants ...tu dois suive cet example pour sesamum alatum prevu pour gigascience  Usage de orthofinder avec option blast....phylogenetic and divergence time estimation wonderfull tutorial](https://www.frontiersin.org/articles/10.3389/fgene.2019.01211/full)
 
