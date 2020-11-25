@@ -152,6 +152,11 @@
 
 # Genomics Tools
 
+- #### [Nanopore explanation reads trimming and so on:  Telomere length de novo assembly of all 7 chromosomes and mitogenome
+sequencing of the model entomopathogenic fungus, Metarhizium brunneum,
+by means of a novel assembly pipeline
+](https://assets.researchsquare.com/files/rs-60098/v2/e4035f37-970c-481e-8d23-05b18f9783b6.pdf)
+
 - #### [IJV Tool](https://wikis.utexas.edu/display/bioiteam/Integrative+Genomics+Viewer+%28IGV%29+tutorial)
 
 - #### [Assembly Graph Browser: interactive visualization of assembly graphs](https://pubmed.ncbi.nlm.nih.gov/30715194/)
