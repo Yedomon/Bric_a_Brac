@@ -202,6 +202,8 @@ by means of a novel assembly pipeline
 
 # R
 
+- #### [Showing data values on stacked bar chart in ggplot2](https://intellipaat.com/community/12428/showing-data-values-on-stacked-bar-chart-in-ggplot2)
+
 
 - #### [flextable](https://davidgohel.github.io/flextable/articles/overview.html)
 
