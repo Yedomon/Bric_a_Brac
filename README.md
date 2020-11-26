@@ -202,6 +202,11 @@ by means of a novel assembly pipeline
 
 # R
 
+
+- #### [flextable](https://davidgohel.github.io/flextable/articles/overview.html)
+
+- #### [y-axis on the right side · Len Kiefer](http://lenkiefer.com/2020/11/20/y-axis-on-the-right-side/)
+
 - ### [acm](http://www.sthda.com/french/articles/38-methodes-des-composantes-principales-dans-r-guide-pratique/75-acm-analyse-des-correspondances-multiples-avec-r-l-essentiel/)
 
 - #### [How to export high quality images in R](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/)
