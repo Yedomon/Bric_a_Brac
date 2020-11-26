@@ -202,6 +202,8 @@ by means of a novel assembly pipeline
 
 # R
 
+
+- #### [Find easily color hexa code](https://www.colorhexa.com/) | [website2](https://www.color-hex.com/)
 - #### [Showing data values on stacked bar chart in ggplot2](https://intellipaat.com/community/12428/showing-data-values-on-stacked-bar-chart-in-ggplot2)
 
 
