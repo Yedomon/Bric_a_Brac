@@ -203,6 +203,13 @@ by means of a novel assembly pipeline
 # R
 
 
+
+-#### [polyshing a ggplot2 graph](https://ggplot2-book.org/polishing.html)
+
+
+- #### [Remove 'a' from legend when using aesthetics and geom_text: Reponse 9](https://stackoverflow.com/questions/18337653/remove-a-from-legend-when-using-aesthetics-and-geom-text)
+
+
 - #### [Find easily color hexa code](https://www.colorhexa.com/) | [website2](https://www.color-hex.com/)
 - #### [Showing data values on stacked bar chart in ggplot2](https://intellipaat.com/community/12428/showing-data-values-on-stacked-bar-chart-in-ggplot2)
 
