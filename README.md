@@ -281,6 +281,8 @@ by means of a novel assembly pipeline
 
 # R Map
 
+- #### [ggplot2 official guide for map](https://ggplot2-book.org/maps.html)
+
 
 - #### [How to get terrain data and draw spatial maps in R using ggplot2? | StatswithR | Arnab Hazra](https://youtu.be/tX8RaTp7jL8)
 
