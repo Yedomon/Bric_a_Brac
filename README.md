@@ -281,6 +281,13 @@ by means of a novel assembly pipeline
 
 # R Map
 
+
+- #### [How to get terrain data and draw spatial maps in R using ggplot2? | StatswithR | Arnab Hazra](https://youtu.be/tX8RaTp7jL8)
+
+- #### [Choropleth maps with geom_sf() | Professional dataviz with ggplot2 | R](https://youtu.be/nlcZcWJiyX8)
+
+- #### [Raster maps with geom_raster() | Professional dataviz with ggplot2 | R](https://youtu.be/NQZNpyEgVss)
+
 - #### [Create a map of a country with the neighbouring countries and an inset map](https://aebou.rbind.io/posts/2020/11/create-a-map-of-a-country-with-the-neighbouring-countries-and-an-inset-map/)
 
 - #### [Interactive map with R](https://thinkr.fr/cartographie-interactive-avec-r-la-suite/)
