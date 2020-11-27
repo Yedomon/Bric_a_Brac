@@ -1,6 +1,16 @@
 # Excellente resources papers for genomics
 
 
+
+
+- #### [A reference high-density genetic map of Theobroma grandiflorum (Willd. ex Spreng) and QTL detection for resistance to witches’ broom disease (Moniliophthora perniciosa)](https://link.springer.com/article/10.1007/s11295-020-01479-3)
+
+
+
+
+- #### [Phylogenomics resolves the invasion history of Acacia auriculiformis in Florida](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14013)
+
+
 - #### [Nice graph heterozigosity](https://www.frontiersin.org/articles/10.3389/fgene.2020.00440/full)
 
 
