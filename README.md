@@ -152,6 +152,8 @@
 
 # Genomics Tools
 
+- #### [Genome Assembly with Minimap2 and Miniasm](https://timkahlke.github.io/LongRead_tutorials/ASS_M.html)
+
 - #### [Nanopore explanation reads trimming and so on:  Telomere length de novo assembly of all 7 chromosomes and mitogenome
 sequencing of the model entomopathogenic fungus, Metarhizium brunneum,
 by means of a novel assembly pipeline
@@ -1010,5 +1012,8 @@ Permission issue was the problem
 
 # ---Comment jai pu avoir la list des data pacbio nanopore sur ENA. JUST TAPER FUSARIUM OXYSPPORUM PACBIO PUIS TELECHARGER LE FICHIER XML PUIS CONVERTIR CE FICHIER SUR CE [SITE](https://conversiontools.io/convert/xml-to-excel)
 
+
+
+##### Translate english file into french [here](https://www.onlinedoctranslator.com/app/translationprocess)
 
 
