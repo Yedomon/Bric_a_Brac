@@ -152,7 +152,8 @@
 
 # Genomics Tools
 
-- #### [Genome Assembly with Minimap2 and Miniasm](https://timkahlke.github.io/LongRead_tutorials/ASS_M.html)
+- #### [Genome Assembly with Minimap2 and Miniasm with pacbio data](https://github.com/lh3/miniasm)
+- #### [Genome Assembly with Minimap2 and Miniasm with nanopore data](https://timkahlke.github.io/LongRead_tutorials/ASS_M.html)
 
 - #### [Nanopore explanation reads trimming and so on:  Telomere length de novo assembly of all 7 chromosomes and mitogenome
 sequencing of the model entomopathogenic fungus, Metarhizium brunneum,
