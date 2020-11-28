@@ -598,6 +598,16 @@ A4
 - #### [Inspirationnal paper 1](https://www.sciencedirect.com/science/article/pii/S0888754318306591)
 
 
+# Cucumis 
+
+
+- #### [Syntenic relationships between cucumber (Cucumis sativus L.) and melon (C. melo L.) chromosomes as revealed by comparative genetic mapping](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-12-396)
+- #### [Cucumber (Cucumis sativus) and melon (C. melo) have numerous wild relatives in Asia and Australia, and the sister species of melon is from Australia](https://www.pnas.org/content/107/32/14269)
+- #### [Pumpkins, cucumbers, and watermelons diverged from a single melon ancestor](https://geneticliteracyproject.org/2017/10/13/pumpkins-cucumbers-watermelons-diverged-single-melon-ancestor-study-shows/)
+- #### [RELATIONSHIPS OF CUCUMBERS AND MELONS UNRAVELED:MOLECULAR PHYLOGENETICS OF CUCUMIS AND RELATED GENERA (BENINCASEAE, CUCURBITACEAE)](https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.3732/ajb.94.7.1256)
+- #### [Comparative Analysis between Wild and Cultivated Cucumbers Reveals Transcriptional Changes during Domestication Process](https://www.mdpi.com/2223-7747/9/1/63/htm)
+- #### [QTL mapping and genome-wide association study reveal two novel loci associated with green flesh color in cucumber](https://link.springer.com/article/10.1186/s12870-019-1835-6)
+
 
 # Fungal Genomics 
 
