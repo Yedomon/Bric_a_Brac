@@ -1028,3 +1028,6 @@ Permission issue was the problem
 ##### Translate english file into french [here](https://www.onlinedoctranslator.com/app/translationprocess)
 
 
+##### How I solved this error message when installing Hifiasm `make: g++: Command not found`  I found the solution [here](https://gahee0416.tistory.com/23) by doing `sudo yum install gcc-c++` since I am using Centos OS 7 
+
+
