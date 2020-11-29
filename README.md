@@ -1041,3 +1041,7 @@ Permission issue was the problem
 ##### How I solved this error message when installing Hifiasm `make: g++: Command not found`  I found the solution [here](https://gahee0416.tistory.com/23) by doing `sudo yum install gcc-c++` since I am using Centos OS 7 
 
 
+###### Phylogenetic tree visualization 
+
+
+- #### [nice tuto](http://evomics.org/wp-content/uploads/2016/06/TreeEditingVisualization_WoPhylogenomics_CK2017.pdf)
