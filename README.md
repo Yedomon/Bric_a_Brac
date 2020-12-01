@@ -482,6 +482,8 @@ A4
 
 # Chloroplast
 
+- #### [GOOD PLANT PLASTOME ANNOTATION TOOL](https://chloe.plantenergy.edu.au/annotate.html)  | THESIS [HERE](file:///C:/Users/user/Downloads/THESIS_DOCTOR_OF_PHILOSOPHY_ZHONG_Xiao_2020.pdf)
+
 - #### [un bon argumentaire ..le graph des chloroplast la avec la perte du gene en question](https://peerj.com/articles/9315/)
 
 - #### [Le graph de dn/ds et le choix de l'assemblage](https://www.mdpi.com/2223-7747/9/11/1497)
