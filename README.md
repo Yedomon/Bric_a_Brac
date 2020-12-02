@@ -1,6 +1,7 @@
 # Excellente resources papers for genomics
 
 
+- #### [Genome-enabled discovery of anthraquinone biosynthesis in Senna tora](https://www.nature.com/articles/s41467-020-19681-1)
 
 
 - #### [A reference high-density genetic map of Theobroma grandiflorum (Willd. ex Spreng) and QTL detection for resistance to witches’ broom disease (Moniliophthora perniciosa)](https://link.springer.com/article/10.1007/s11295-020-01479-3)
