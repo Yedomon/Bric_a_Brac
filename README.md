@@ -1,6 +1,9 @@
 # Excellente resources papers for genomics
 
 
+- #### [Excellent tutot for full annotation and downstream analysis | Chromosomal genome of Triplophysa bleekeri provides insights into its evolution and environmental adaptation](https://academic.oup.com/gigascience/article/9/11/giaa132/5999722)
+
+
 - #### [Genome-enabled discovery of anthraquinone biosynthesis in Senna tora](https://www.nature.com/articles/s41467-020-19681-1)
 
 
