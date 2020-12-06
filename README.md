@@ -212,6 +212,16 @@ by means of a novel assembly pipeline
 
 
 
+- #### RepeatModeler instalation [1 blog](http://kazumaxneo.hatenablog.com/entry/2020/07/03/073000) | [2 official](http://www.repeatmasker.org/RepeatModeler/) | [3 incodom](http://www.incodom.kr/RepeatModeler)  | [4 docker](https://hub.docker.com/r/pakorhon/repeatmodeler)  | [5 installation guide](http://www.hpc.lsu.edu/docs/faq/installation-details.php)  | [6](https://taoyan.netlify.app/post/2020-03-02.edta-%E8%BD%AC%E5%BA%A7%E5%AD%90%E6%B3%A8%E9%87%8A/)
+
+
+
+
+
+# Singularity
+
+[1](https://www.sdsc.edu/education_and_training/tutorials1/singularity_old.html)
+
 
 # R shiny
 
