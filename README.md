@@ -212,8 +212,28 @@ by means of a novel assembly pipeline
 
 
 
-- #### RepeatModeler instalation [1 blog](http://kazumaxneo.hatenablog.com/entry/2020/07/03/073000) | [2 official](http://www.repeatmasker.org/RepeatModeler/) | [3 incodom](http://www.incodom.kr/RepeatModeler)  | [4 docker](https://hub.docker.com/r/pakorhon/repeatmodeler)  | [5 installation guide](http://www.hpc.lsu.edu/docs/faq/installation-details.php)  | [6](https://taoyan.netlify.app/post/2020-03-02.edta-%E8%BD%AC%E5%BA%A7%E5%AD%90%E6%B3%A8%E9%87%8A/)
+- #### RepeatModeler instalation 
 
+[official](https://github.com/Dfam-consortium/RepeatModeler)
+
+[1 blog](http://kazumaxneo.hatenablog.com/entry/2020/07/03/073000) | [2 official](http://www.repeatmasker.org/RepeatModeler/) | [3 incodom](http://www.incodom.kr/RepeatModeler)  | [4 docker](https://hub.docker.com/r/pakorhon/repeatmodeler)  | [5 installation guide](http://www.hpc.lsu.edu/docs/faq/installation-details.php)  | [6](https://taoyan.netlify.app/post/2020-03-02.edta-%E8%BD%AC%E5%BA%A7%E5%AD%90%E6%B3%A8%E9%87%8A/)   | [7](https://www.jianshu.com/p/a8c9e875b17f)  |  [8](https://www.douban.com/note/777662891/)   |  [9](https://www.programmersought.com/article/25101639140/)  |  
+
+
+
+[un site par haserd tutorial interessant](http://www.wuchangsong.com/?cat=4)
+
+[edta](https://blog.csdn.net/u012110870/article/details/103903879)
+
+
+[astuce](https://www.qdxingtu.com/key/Error%20running%20repeatModeler.html)
+
+
+```
+
+astuce... 
+
+The only thing that worked for me was to install all dependencies in a conda environment and installing RepeatModeler 2.0.1 and RepeatMasker 4.1.0 downloaded from GitHub separately (not with conda) and linking all dependencies of the two configure scripts to the conda environment.
+```
 
 
 
