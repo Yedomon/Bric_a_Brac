@@ -479,6 +479,10 @@ A4
 
 # Transcriptomics
 
+- #### [good tuto DESEQ](https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/)
+
+- #### [Genomic Data Visualization and Interpretation](https://genviz.org/course/)
+
 - #### [Excellent paper on RNA DEG spipeline](https://www.nature.com/articles/s41598-019-43421-1#Sec9)
 
 - #### Deseq tuto [1](http://evomics.org/wp-content/uploads/2018/10/RNASeqWorkFlow-1.html) [2](https://rpubs.com/otienolwanga/problem_solving) [3](https://rpubs.com/mwken314/deseq2)
