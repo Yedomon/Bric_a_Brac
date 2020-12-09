@@ -254,6 +254,10 @@ The only thing that worked for me was to install all dependencies in a conda env
 # R
 
 
+- #### [ggplot2 teaching material : Collection of teaching materials for R](https://github.com/Z3tt/ggplot-courses) 
+- #### [ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial)
+
+
 - #### [super-and-sub-script-labels.R](https://gist.github.com/benmarwick/5cfeda1d20ff9ab3231a5de8fac36213)
 - #### [polyshing a ggplot2 graph](https://ggplot2-book.org/polishing.html)
 
