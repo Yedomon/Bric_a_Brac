@@ -483,6 +483,8 @@ A4
 
 # Transcriptomics
 
+- ### [good tuto for deseq code and edger code](https://github.com/Yedomon/RNA-seq-tutorial-for-gene-differential-expression-analysis)
+
 - #### [good tuto DESEQ](https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/)
 
 - #### [Genomic Data Visualization and Interpretation](https://genviz.org/course/)
