@@ -489,6 +489,8 @@ A4
 
 # Transcriptomics
 
+- #### [Tuto for Tuxedo pipeline 1](https://colauttilab.github.io/NGS/TuxedoTutorial.html)
+
 - ####  [Tuto for Tuxedo pipeline](https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop/wiki/Tuxedo-Genome-Guided-Transcriptome-Assembly-Workshop)
 
 - ### [good tuto for deseq code and edger code](https://github.com/Yedomon/RNA-seq-tutorial-for-gene-differential-expression-analysis)
