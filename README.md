@@ -489,6 +489,8 @@ A4
 
 # Transcriptomics
 
+- ####  [Tuto for Tuxedo pipeline](https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop/wiki/Tuxedo-Genome-Guided-Transcriptome-Assembly-Workshop)
+
 - ### [good tuto for deseq code and edger code](https://github.com/Yedomon/RNA-seq-tutorial-for-gene-differential-expression-analysis)
 
 - #### [good tuto DESEQ](https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/)
