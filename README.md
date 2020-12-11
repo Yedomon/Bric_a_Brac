@@ -253,6 +253,10 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 # R
 
+- #### [Tidytuesdays Tutorial](https://github.com/jkaupp/tidytuesdays)
+
+
+- #### [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
 - #### [ggplot2 teaching material : Collection of teaching materials for R](https://github.com/Z3tt/ggplot-courses) 
 - #### [ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial)
