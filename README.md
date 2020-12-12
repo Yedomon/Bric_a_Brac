@@ -170,6 +170,9 @@
 
 # Genomics Tools
 
+
+
+- #### [LongQC: A Quality Control Tool for Third Generation Sequencing Long Read Data](https://www.g3journal.org/content/ggg/10/4/1193.full.pdf)
 - #### [D-GENIES – for Dot plot large Genomes in an Interactive, Efficient and Simple way – is an online tool designed to compare two genomes. It supports large genome and you can interact with the dot plot to improve the visualisation.](http://dgenies.toulouse.inra.fr/)
 
 - #### [Genome Assembly with Minimap2 and Miniasm with pacbio data](https://github.com/lh3/miniasm)
