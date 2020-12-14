@@ -1,6 +1,9 @@
 # Excellente resources papers for genomics
 
 
+
+- #### [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9)
+
 - #### [Excellent tutot for full annotation and downstream analysis | Chromosomal genome of Triplophysa bleekeri provides insights into its evolution and environmental adaptation](https://academic.oup.com/gigascience/article/9/11/giaa132/5999722)
 
 
