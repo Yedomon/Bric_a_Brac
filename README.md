@@ -550,6 +550,8 @@ A4
 
 # Chloroplast
 
+- #### [My ultimate analyses reference from Bioinformaticians of Indian The Complete Chloroplast Genome of Trichopus zeylanicus, And Phylogenetic Analysis with Dioscoreales](https://acsess.onlinelibrary.wiley.com/doi/full/10.3835/plantgenome2019.04.0032)
+
 
 
  - #### [The complete chloroplast genome of Gleditsia sinensis and Gleditsia japonica: genome organization, comparative analysis, and development of taxon specific DNA mini-barcodes](https://www.nature.com/articles/s41598-020-73392-7#Sec14)
