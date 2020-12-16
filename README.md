@@ -550,6 +550,50 @@ A4
 
 # Chloroplast
 
+
+- #### Question: extract annotation for mVISTA whole genome comparison | [Answer](https://blogs.fu-berlin.de/gruenstaeudl/2020/10/12/buena-vista-con-mvista/)
+
+
+Buena vista con mVISTA
+For an upcoming publication, a doctoral student and I want to visualize the sequence variability among several plastid genomes via the tool mVISTA. This tool is often employed in plastid phylogenomic studies and generally simple to use. However, if a user wishes to input custom annotations, it can be quite tricky to generate the correct input for the software. Hence, I automated the generation of the input files as described below.
+
+An effective visualization of plastid genomes in mVISTA requires the x input genomes the user wants to visualize („input genomes“ hereafter; e.g., x=2) as well as a reference genome. For simplicity, a user could employ x1 as the reference genome. The input genomes should be in FASTA format, the reference genome in GenBank format.
+
+To generate custom annotations based on the reference genome, I employ the following Bash code, which (a) converts the reference genome from GenBank format to a cleaned GFF3 format (and incidentally also saves the genome in FASTA format), and (b) converts the cleaned GFF3 file to the mVISTA input.
+
+```
+NF=NC_000932.gb # Just an example
+## Converting input file from GenBank format to a cleaned GFF3 format
+# Note: This step also generates a FASTA file
+grep -vE "codon_start|db_xref|exception" $INF > ${INF}2
+to-gff --getfasta ${INF}2 ${INF%.gb*}.gff
+grep "gene=" ${INF%.gb*}.gff | \
+    awk -F';' '{print $1}' | \
+    grep -vE "remark|intron|misc_feature|repeat_region" > ${INF%.gb*}.gff.clean
+rm ${INF}2 ${INF%.gb*}.gff
+## Converting input file from GFF3 format to VISTA format
+grep -v "^#" ${INF%.gb*}.gff.clean | \
+    grep -v "rps12" | \
+    awk '{if ($3 ~ /gene/) {print $7" "$4" "$5" "$3" "$9} else {print $7" "$4" "$5" "$3} }' | \
+    awk '{if ($4 ~ /gene/) {gsub(/\+/, ">", $1); gsub(/\-/, "<", $1); print $0} else {$1=""; print $0} }' | \
+    sed 's/gene=//' | \
+    sed 's/gene/agene/' | \
+    sort -n -k2 | \
+    sed 's/agene/gene/' | \
+    awk '{$1=$1}1' | \
+    sed 's/CDS/exon/' | \
+    sed 's/tRNA/utr/' | \
+    sed 's/rRNA/utr/' > ${INF%.gb*}.mvista
+
+
+```
+
+
+
+
+
+
+
 - #### [My ultimate analyses reference from Bioinformaticians of Indian The Complete Chloroplast Genome of Trichopus zeylanicus, And Phylogenetic Analysis with Dioscoreales](https://acsess.onlinelibrary.wiley.com/doi/full/10.3835/plantgenome2019.04.0032)
 
 
