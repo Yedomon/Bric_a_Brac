@@ -262,6 +262,8 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 # R
 
+- ### Principal Component Analysis | [STHDA Tuto](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/) | [Visualization](http://www.sthda.com/english/wiki/fviz-pca-quick-principal-component-analysis-data-visualization-r-software-and-data-mining)
+
 - #### [Tidytuesdays Tutorial](https://github.com/jkaupp/tidytuesdays)
 
 
