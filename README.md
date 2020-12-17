@@ -2,6 +2,8 @@
 
 
 
+- #### EXCLLENT INSPIRATION INDICUM GENOME | Good comparison example and graph with R | [Brassica napus](https://academic.oup.com/gigascience/article/9/12/giaa137/6034787) | [Cucumis sativus](https://academic.oup.com/gigascience/article/8/6/giz072/5520540?searchresult=1)
+
 - #### [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9)
 
 - #### [Excellent tutot for full annotation and downstream analysis | Chromosomal genome of Triplophysa bleekeri provides insights into its evolution and environmental adaptation](https://academic.oup.com/gigascience/article/9/11/giaa132/5999722)
