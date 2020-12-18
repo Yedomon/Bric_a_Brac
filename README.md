@@ -379,6 +379,13 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 
 # Linux 
+
+
+- #### want to extract a specifc file in a compressed file in linux? do like this for [tar](https://linuxconfig.org/how-to-extract-a-specific-file-from-gzip-compressed-archive-tarball) and like this for [gz](https://unix.stackexchange.com/questions/14120/extract-only-a-specific-file-from-a-zipped-archive-to-a-given-directory) file | `unzip -l unzipfile` then unzip unzipfile fullpathtothefile > yourfile
+
+
+- #### want to check parent ID and PID for cleaning zombies do `ps -f -u username` then `kill yourPIDofinterest`
+
 - ####  ps usage [1](https://superuser.com/questions/102005/how-can-i-display-the-memory-usage-of-each-process-if-i-do-a-ps-ef) | [2](https://alvinalexander.com/linux/unix-linux-process-memory-sort-ps-command-cpu/) | [3](https://alvinalexander.com/unix/man/linux-ps-man-page-ps-help/) | [4](https://www.networkworld.com/article/3516319/showing-memory-usage-in-linux-by-process-and-user.html) | [5](https://www.endpoint.com/blog/2017/08/08/how-to-check-process-duration-in-linux)
 
 - #### [oneliners](https://github.com/stephenturner/oneliners)  | The reads that passed the base caller quality filter were then filtered with seqtk v1.3 (seqtk, RRID:SCR_018927) [19] to remove reads <10 kb (seq -A -L 10 000), yielding a final set of 1,050,302 reads with a total size of 38.2 Gb and ∼45× coverage (Supplementary Table S2). | [blog point 9](https://nbisweden.github.io/workshop-archive/workshop-genome_assembly/2017-11-15/solutions/Solutions_Data_Quality_Assessment.html)
