@@ -503,6 +503,8 @@ A4
 
 # Transcriptomics
 
+- #### [Maker Pipeline [2011 - v2.31.10 (May 4, 2018)](https://m.blog.naver.com/PostView.nhn?blogId=naturelove87&logNo=221491035712&proxyReferer=https:%2F%2Fwww.google.com%2F) | [MAKER](http://www.incodom.kr/MAKER) | [Methods](https://bioinformaticaupf.crg.eu/20132014/projectes1314/1C/Materials_and_methods.html)
+
 - #### [Tuto for Tuxedo pipeline 1](https://colauttilab.github.io/NGS/TuxedoTutorial.html)
 
 - ####  [Tuto for Tuxedo pipeline](https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop/wiki/Tuxedo-Genome-Guided-Transcriptome-Assembly-Workshop)
