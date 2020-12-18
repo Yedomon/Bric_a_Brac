@@ -381,7 +381,7 @@ The only thing that worked for me was to install all dependencies in a conda env
 # Linux 
 
 
-- #### want to extract a specifc file in a compressed file in linux? do like this for [tar](https://linuxconfig.org/how-to-extract-a-specific-file-from-gzip-compressed-archive-tarball) and like this for [gz](https://unix.stackexchange.com/questions/14120/extract-only-a-specific-file-from-a-zipped-archive-to-a-given-directory) file | `unzip -l unzipfile` then unzip unzipfile fullpathtothefile > yourfile
+- #### want to extract a specifc file in a compressed file in linux? do like this for [tar](https://linuxconfig.org/how-to-extract-a-specific-file-from-gzip-compressed-archive-tarball) and like this for [gz](https://unix.stackexchange.com/questions/14120/extract-only-a-specific-file-from-a-zipped-archive-to-a-given-directory) file | `unzip -l unzipfile` then `unzip unzipfile fullpathtothefile > yourfile`
 
 
 - #### want to check parent ID and PID for cleaning zombies do `ps -f -u username` then `kill yourPIDofinterest`
