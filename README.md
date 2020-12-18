@@ -381,6 +381,9 @@ The only thing that worked for me was to install all dependencies in a conda env
 # Linux 
 
 
+- How to gzip a folder? | answewr is [here](https://mkyong.com/linux/linux-how-to-gzip-a-folder/) | ```tar -zcvf foldername.tar.gz foldername/``` | | explanation [here](https://unix.stackexchange.com/questions/93139/can-i-zip-an-entire-folder-using-gzip) | 
+
+
 - #### want to extract a specifc file in a compressed file in linux? do like this for [tar](https://linuxconfig.org/how-to-extract-a-specific-file-from-gzip-compressed-archive-tarball) and like this for [gz](https://unix.stackexchange.com/questions/14120/extract-only-a-specific-file-from-a-zipped-archive-to-a-given-directory) file | `unzip -l unzipfile` then `unzip unzipfile fullpathtothefile > yourfile`
 
 
