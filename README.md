@@ -570,6 +570,23 @@ A4
 # Chloroplast
 
 
+
+- #### [Molecular phylogenetics provides new insights into the systematics of Pimelea and Thecanthes (Thymelaeaceae)](https://www.publish.csiro.au/SB/SB16013) 
+
+
+
+`Partitioning the dataset is an important step in phylogenetic
+analyses, because this process is known to affect the accuracy of
+phylogenetic inference (Lanfear et al. 2012). Accordingly, we
+selected the best-fitting partitioning scheme by using the
+greedy search algorithm in PartitionFinder ver. 1.1.1 (Lanfear
+et al. 2012). The optimal partitioning scheme split the sequence
+alignment into six subsets (Table 2).`
+
+
+
+
+
 - #### [Question: extract annotation for mVISTA whole genome comparison](https://www.biostars.org/p/364641/) | [Answer](https://blogs.fu-berlin.de/gruenstaeudl/2020/10/12/buena-vista-con-mvista/)
 
 
