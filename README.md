@@ -265,7 +265,9 @@ The only thing that worked for me was to install all dependencies in a conda env
 # R
 
 
+- #### [R for biologist](http://omgenomics.com/plotting-in-r-for-biologists/)
 
+- color palette   [inspiration](https://www.google.co.kr/imgres?imgurl=https%3A%2F%2Fplastid.readthedocs.io%2Fen%2Flatest%2F_images%2Fstackedbar.png&imgrefurl=https%3A%2F%2Fplastid.readthedocs.io%2Fen%2Flatest%2Fexamples%2Fz_plotting.html&tbnid=qxkqTSGPS4TqXM&vet=12ahUKEwj6p6Od6dntAhVD5ZQKHdO2C5gQMyhUegQIARBx..i&docid=Zi5Bizo5SpBWDM&w=1675&h=1324&q=genome%20plot%20python&hl=fr&ved=2ahUKEwj6p6Od6dntAhVD5ZQKHdO2C5gQMyhUegQIARBx) | [awespme](https://plastid.readthedocs.io/en/latest/examples/z_plotting.html)
 
 - ### Principal Component Analysis | [STHDA Tuto](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/) | [Visualization](http://www.sthda.com/english/wiki/fviz-pca-quick-principal-component-analysis-data-visualization-r-software-and-data-mining) | [factoextra tuto by Kassambara](https://rpkgs.datanovia.com/factoextra/reference/fviz_pca.html)
 
