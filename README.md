@@ -264,6 +264,91 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 # R
 
+- #### Heatmap 
+
+
+```
+
+library(pheatmap); library(gplots); library(ggplot2); library(colorspace); library(wesanderson)
+
+tpm = delim("Senna_tora_CHS-L.txt", header=T, row.names='gene')
+bk = unique(c(seq(0, 0, length=10), 0, seq(0, 13, length=100)))
+colors = colorRampPalette(c("white", "red"))(100)
+pheatmap(tpm, 
+         color = colors,
+         breaks = bk,
+         cluster_cols=F,
+         cluster_rows=F,
+         fontsize_col=9,
+         fontsize_row=7,
+         cellwidth = 260/ncol(tpm), 
+         cellheight = 200/nrow(tpm), 
+         border_color = "grey",
+         show_rownames=T,
+         gaps_col = c(1,2,3,4,5,6),
+         labels_row = rownames(tpm),
+         main=paste(c(nrow(tpm), " CHS-L genes"),collapse=""))
+         
+ 
+  ```
+ 
+ 
+ - #### Ks plot
+ 
+ 
+ ```
+ 
+ library(ggplot2); library(ggrepel); library(gridExtra)
+args = commandArgs(trailingOnly=TRUE)
+
+library(limma)
+Cats = c()
+KaKs = data.frame()
+for (i in args){
+  Data = data.frame(category = strsplit2(i, '\\.')[1,1], read.table(i, sep = '', header = T, quote = '', fill = T))
+  KaKs = rbind(KaKs, Data)
+  Label = strsplit2(i, '\\/')
+  Cats = c(Cats, strsplit2(Label[1, ncol(Label)], '\\.')[1,1])
+}
+
+KaKs$category = factor(KaKs$category, levels = Cats)
+NumOrg = length(Cats)
+
+
+Ks = ggplot(KaKs) + 
+  geom_density(aes(Ks, fill = factor(category)), alpha = 0.3, colour = NA) + 
+  scale_fill_manual(values = rainbow(NumOrg)) +
+  scale_x_continuous(expand = c(0,0), limits = c(0, 4)) + 
+  ggtitle('Ks') +  
+  theme_bw(base_size = 6) +
+  xlab('Ks') +
+  theme(legend.position = 'bottom',legend.title = element_blank(),plot.title = element_text(vjust = 0.5, hjust = 0.5, size = 20))
+
+pdf(paste(c('./Plot_Ks.', Cats, '.pdf'), collapse = ''))
+grid.arrange(Ks)
+dev.off()
+
+```
+
+
+
+`
+
+To calculate the synonymous-substitution Ks values, we selected the orthologous gene pairs between species and the paralogous pairs within a species from the orthology analysis. The selected proteins were further subjected to multiple-sequence alignment with MAFFT v7.305b93 and corrected with Gblocks v0.91b94. The corresponding genomic regions of conserved proteins, which were observed from the corrected multiple alignments, were subjected to Ks calculation using ParaAT v2.0 (ref. 98) with the Yang–Nielsen approach implemented in PAML99. The Ks distribution plot (Supplementary Fig. 27) was drawn using in-house Python and R scripts.
+
+`
+
+
+
+
+
+[kaks-calculator](https://code.google.com/archive/p/kaks-calculator/downloads)
+
+
+
+
+         
+
 
 - #### [R for biologist](http://omgenomics.com/plotting-in-r-for-biologists/)
 
