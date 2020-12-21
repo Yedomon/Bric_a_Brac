@@ -1351,3 +1351,61 @@ Permission issue was the problem
 
 
 - #### [nice tuto](http://evomics.org/wp-content/uploads/2016/06/TreeEditingVisualization_WoPhylogenomics_CK2017.pdf)
+
+
+
+##### A work for Yolande
+
+```
+
+
+# Libraries
+library(ggplot2)
+
+
+#theme_set(theme_minimal())
+
+#--Data importation
+data_humidity = read.csv("data_humidity.csv", sep = ";", h=T , dec = ",")
+
+data_new <- data_humidity                               # Replicate data
+data_new$Profondeur <- factor(data_new$Profondeur,      # Reordering group factor levels
+                         levels = c("10cm", "20cm", 
+                                    "30cm", "40cm", 
+                                    "50cm", "60cm",
+                                    "70cm", "80cm", 
+                                    "90cm", "100cm", 
+                                    "110cm", "120cm",
+                                    "130cm", "140cm",
+                                    "150cm", "160cm"))
+
+#--Plot
+
+p <- ggplot(data_new, aes(x=as.Date(Date), y=Humidite)) +
+  geom_line(color="steelblue") + 
+  geom_point(color="steelblue", alpha = 1/10) +
+  xlab("") +
+  theme_bw()+
+  #theme_minimal() +
+  theme(axis.text.x=element_text(angle=60, hjust=1)) +
+  scale_x_date(limit=c(as.Date("2018-07-31"),as.Date("2019-11-07"))) +
+  ylim(0,30)+
+  facet_wrap(~Profondeur)+
+  labs(y = "Soil moisture (mm)", x = "Date")
+
+p
+
+
+
+
+
+
+```
+
+[output1](https://github.com/Yedomon/Bric_a_Brac/blob/master/Plot1_6.91_6.91.pdf)
+
+[output2](https://github.com/Yedomon/Bric_a_Brac/blob/master/Plot2_6.91_6.91.pdf)
+
+[dataset](https://github.com/Yedomon/Bric_a_Brac/blob/master/data_humidity.csv)
+
+
