@@ -1409,3 +1409,34 @@ p
 [dataset](https://github.com/Yedomon/Bric_a_Brac/blob/master/data_humidity.csv)
 
 
+
+##### A serious issue today. Just want to get cds translated protein fron annonated genbank file but I struggle alot
+
+
+Here is the solution.
+
+I gound it [here](https://pypi.org/project/gbseqextractor/).
+
+`gbseqextractor` can do many things...
+
+
+So I install the tool by doing 
+
+
+`
+pip install gbseqextractor
+
+`
+
+
+Then I run
+
+```
+
+ gbseqextractor -f kc.gb -prefix cds -cds_translation
+
+
+```
+
+I got the cds fatsa nucleotide as well as protein file. Awesome.
+
