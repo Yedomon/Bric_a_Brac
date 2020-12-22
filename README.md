@@ -1433,7 +1433,7 @@ Then I run
 
 ```
 
- gbseqextractor -f kc.gb -prefix cds -cds_translation
+ gbseqextractor -f kc.gb -prefix china_cds -seqPrefix yuzhi -types CDS -cds_translation
 
 
 ```
