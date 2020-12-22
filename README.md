@@ -1440,3 +1440,35 @@ Then I run
 
 I got the cds fatsa nucleotide as well as protein file. Awesome.
 
+
+
+##### Calculate Pi for my chloroplast datasets.
+
+I have five assemblies.
+
+I used MAFFT to aligne nucleotide assembly files
+
+then import into DNAsp v6
+
+
+then GO TO ANALYSIS > POLYMORPHISM AND DIVERGENCE > SLIDING WINDOW 
+
+After getting the result use ggplot2 to draw the graph of pi following the sliding window
+
+
+I foun a tuto [here](https://msu.edu/course/zol/855/f09/workshop_111109.html) and the authors tuto [here](https://www.researchgate.net/publication/24309060_DNA_sequence_polymorphism_analysis_using_DnaSP/link/0912f50a8c3524b3c7000000/download) AND [HERE](http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf)
+
+i JUST SEE THAT IT IS POSSIBLE TO ASSIGN CODING REGIONS DEFIN THE TYPE OF DATA DNA/RNA..CHLOROPLAST OT MITO ...
+
+
+This guy did a mistake [here](https://www.biostars.org/p/457878/)
+
+
+
+
+
+
+
+
+
+
