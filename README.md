@@ -772,7 +772,7 @@ grep -v "^#" ${INF%.gb*}.gff.clean | \
 
 
 
-- #### [My ultimate analyses reference from Bioinformaticians of Indian The Complete Chloroplast Genome of Trichopus zeylanicus, And Phylogenetic Analysis with Dioscoreales](https://acsess.onlinelibrary.wiley.com/doi/full/10.3835/plantgenome2019.04.0032)
+- #### My ultimate analyses reference from Bioinformaticians of Indian | [Trichopus zeylanicus](https://acsess.onlinelibrary.wiley.com/doi/full/10.3835/plantgenome2019.04.0032)
 
 
 
@@ -1463,9 +1463,15 @@ I used MAFFT to aligne nucleotide assembly files
 then import into DNAsp v6
 
 
-then GO TO ANALYSIS > POLYMORPHISM AND DIVERGENCE > SLIDING WINDOW 
+then GO TO ANALYSIS > DNA POLYMORPHISM
 
-After getting the result use ggplot2 to draw the graph of pi following the sliding window
+SELECT Pi and click on compute button in order to change The step size  to 50 base pairs, and window length  to 800 base pairs.
+
+
+The default one give a very narrow bin
+
+
+After getting the result use ggplot2 to draw the graph of pi following the sliding window following this [tutorial](https://www.r-graph-gallery.com/line_chart_annotation.html)
 
 
 I foun a tuto [here](https://msu.edu/course/zol/855/f09/workshop_111109.html) and the authors tuto [here](https://www.researchgate.net/publication/24309060_DNA_sequence_polymorphism_analysis_using_DnaSP/link/0912f50a8c3524b3c7000000/download) AND [HERE](http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf)
