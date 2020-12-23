@@ -1474,6 +1474,10 @@ The default one give a very narrow bin
 After getting the result use ggplot2 to draw the graph of pi following the sliding window following this [tutorial](https://www.r-graph-gallery.com/line_chart_annotation.html)
 
 
+
+I found this basic plot [also](https://www.r-graph-gallery.com/200-change-color-in-lineplot-following-y-value.html) and ggplot2 based [plot](https://stackoverflow.com/questions/35039846/change-line-color-depending-on-y-value-with-ggplot2?lq=1)
+
+
 I foun a tuto [here](https://msu.edu/course/zol/855/f09/workshop_111109.html) and the authors tuto [here](https://www.researchgate.net/publication/24309060_DNA_sequence_polymorphism_analysis_using_DnaSP/link/0912f50a8c3524b3c7000000/download) AND [HERE](http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf)
 
 i JUST SEE THAT IT IS POSSIBLE TO ASSIGN CODING REGIONS DEFIN THE TYPE OF DATA DNA/RNA..CHLOROPLAST OT MITO ...
