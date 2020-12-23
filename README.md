@@ -1485,6 +1485,12 @@ for annotation as well as flche et autre I think [BBC style](https://bbc.github.
 
 
 
+finally selest this [one](https://support.sisense.com/hc/en-us/community/posts/360038200234-Plotting-a-Gradient-Line-in-R)
+
+[theme modification ggplot2](https://ggplot2.tidyverse.org/reference/theme.html)
+
+
+
 I foun a tuto [here](https://msu.edu/course/zol/855/f09/workshop_111109.html) and the authors tuto [here](https://www.researchgate.net/publication/24309060_DNA_sequence_polymorphism_analysis_using_DnaSP/link/0912f50a8c3524b3c7000000/download) AND [HERE](http://www.ub.edu/dnasp/DnaSP6_Documentation_6.12.pdf)
 
 i JUST SEE THAT IT IS POSSIBLE TO ASSIGN CODING REGIONS DEFIN THE TYPE OF DATA DNA/RNA..CHLOROPLAST OT MITO ...
