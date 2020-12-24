@@ -2,6 +2,9 @@
 
 
 
+- #### The genome sequence of tetraploid sweet basil, ocimum basilicum L., provides tools for advanced genome editing and molecular breeding [DNA Research](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsaa027/6042144?login=true#supplementary-data)
+
+
 - #### EXCLLENT INSPIRATION INDICUM GENOME | Good comparison example and graph with R | [Brassica napus](https://academic.oup.com/gigascience/article/9/12/giaa137/6034787) | [Cucumis sativus](https://academic.oup.com/gigascience/article/8/6/giz072/5520540?searchresult=1)
 
 - #### [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9)
