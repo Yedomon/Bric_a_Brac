@@ -1506,7 +1506,9 @@ This guy did a mistake [here](https://www.biostars.org/p/457878/)
 
 
 
+convert chloae annotation gff to genbank
 
+response [here](https://www.biostars.org/p/2492/)
 
 
 
