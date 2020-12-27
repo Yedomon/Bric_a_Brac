@@ -178,6 +178,9 @@
 
 # Genomics Tools
 
+- #### [Parliament2: Accurate structural variant calling at
+scale](https://watermark.silverchair.com/giaa145.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAs8wggLLBgkqhkiG9w0BBwagggK8MIICuAIBADCCArEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMopDh_jGI9jtunPdUAgEQgIICgpCr6cFqmawIp2I0p0UXGnopbDiik5nBXScONWttNBw0wdZ94stvCH4MowuKdysZ5xa265Ti-qp9cXCfvkjb34w5_-KXG6rTW83B1sP8YnH_rUwOnfwZc9ateF6GukYjGVWZlYz1yWoCc_6yE8VmiIRCUaiocmZiwNl-AWI4qx5wYTJlMiv3LTRIw2-A5gig9kWZviQAhEPcdTdpeXkTK_vE-bX5y3dHGhzzkAyjTp7czgpdjRMHajbUFl5oPUB2skU-inGTNNcsLehDphCcRnfrMPYthAT8rK1tAX1mHBzb8VgFmYEaJC-pGRe70NbNKnLTEWiHn4l0x015RXubNj-S1oE7g7bMmQ4WRtoOcsh7rtaG6-4WpCEEl8UJnVyLTceWpHlg_F1_BgUq7_qno_fI_nwCRFaHPqxRIydgh3knNyERHMMkJoMWP8J0Xiixw2YTekBMH38JgNtRSj0tEvyxmaM-XZIMlLfbjCIP6Q2hcnIjX7QzNiJP35fsukllFCt2PxqkSWlJyHjTzu1-vGG0olCT-eDZSvwGTwG7OZ_N2Ysi3f4qGeUhRfV2sBhgS0NFm7eedl3hQpKPV9toPX_9zopR8Kpo6dvwD5azqjB9TzhWazJOEJAL8oi1SaeK1d-cHiJrKSRRpoRWM7vj6CBAa-ns8eBN2U7rpLFfsOqs1XKiLCBB8EAZHycGky47VacivVC1DC7s4bBg4QJJEtA69xM9YoroUxC9SM-Fcz5Vdgs3PSDsU2aCMs_v2Wjlnf48_SJ8pJ1iKm79tPwFk5ja7GyG9DNSFK4XQQolXhywQFBKWPvrKTLI874g_k2nYwRQVNQUuJJM54AjwBABV_gfcA)
+
 
 - #### Wonderfull tool for plastid representation [website](https://irscope.shinyapps.io/Chloroplot/) | [paper](https://www.readcube.com/articles/10.3389/fgene.2020.576124)
 
@@ -442,6 +445,9 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 - #### [T TEST](http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r)
 - #### [R studio data sheet](https://rstudio.cloud/learn/cheat-sheets)
 - #### [R Cookbook](http://www.cookbook-r.com/)
+
+
+- #### [ggupset](https://github.com/const-ae/ggupset)
 
 
 # R Map
