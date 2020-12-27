@@ -469,6 +469,11 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 # Genomics
 
+- ####  [Inspirational graph for genome assembly evaluation](https://www.biorxiv.org/content/10.1101/715722v1.full.pdf)
+
+
+- #### [GenomeQC](https://github.com/HuffordLab/GenomeQC) | [Docker available]
+- #### [Assembly NGx plot](https://link.springer.com/article/10.1186/s12864-020-6568-2/figures/3)
 
 - #### [tutorial phylogeny](http://www.metagenomics.wiki/tools/phylogenetic-tree/construction)   [tuto](http://www.metagenomics.wiki/tools/phylogenetic-tree/alignment)
 
@@ -501,6 +506,13 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 
 # Transcriptomics
+
+
+
+- #### [funannotate](https://github.com/nextgenusfs/funannotate)
+- #### [Fungap](https://github.com/CompSynBioLab-KoreaUniv/FunGAP)
+
+- #### [annotation tools](https://github.com/NBISweden/GAAS/blob/master/annotation/knowledge/annotation_tools_genome.md)
 
 
 - #### [Maker run tutorial by Daren Card](https://gist.github.com/darencard/bb1001ac1532dd4225b030cf0cd61ce2)
