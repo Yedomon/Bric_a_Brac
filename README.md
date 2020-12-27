@@ -469,6 +469,8 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 # Genomics
 
+- #### [Heng Li blog](https://lh3.github.io/2020/12/25/evaluating-assembly-quality-with-asmgene)
+
 - #### NBIS `National Bioinformatics Infrastructure Sweden` Genome assembly Tuto  [schedule](https://nbisweden.github.io/workshop-genome_assembly/schedule) | [1](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_1.html) | [2](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_2.html) | [3](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_3.html) | [4](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_4.html) | [6](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_6.html) | [7](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_7.html) | [8](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_8.html) | [9](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_9.html) | [10](https://nbisweden.github.io/workshop-genome_assembly/exercises/exercise_10.html) | 
 
 - ####  [Inspirational graph for genome assembly evaluation](https://www.biorxiv.org/content/10.1101/715722v1.full.pdf)
