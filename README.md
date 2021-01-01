@@ -181,6 +181,8 @@
 
 # Genomics Tools
 
+- #### [Create an interactive dot plot from mummer output OR PAF format](https://github.com/tpoorten/dotPlotly/tree/master/example)
+
 
 - ####  [auN: a new metric to measure assembly contiguity](https://lh3.github.io/2020/04/08/a-new-metric-on-assembly-contiguity)
 
