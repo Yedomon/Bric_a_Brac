@@ -279,6 +279,9 @@ The only thing that worked for me was to install all dependencies in a conda env
 # R
 
 
+- #### facetwap with coloring option of title [here](https://themockup.blog/posts/2020-05-01-tidy-long-models/) and [here](https://www.opensourcefootball.com/posts/2020-09-07-estimating-runpass-tendencies-with-tidymodels-and-nflfastr/)
+
+- #### Do nice PPT and share it with xarigan and distill package  [here](https://rstudio-education.github.io/teaching-in-production/#prework)
 
 - #### Creating a Blog with distill [here](https://rstudio.github.io/distill/blog.html) | [Example](https://pkgs.rstudio.com/distill/articles/examples.html)
 
