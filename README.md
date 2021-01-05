@@ -2,7 +2,7 @@
 
 - My mentor [Philipp Emanuel Bayer](https://scholar.google.com/citations?hl=ko&user=GOL15xQAAAAJ)
 
-
+- Good for comparing Repeat and RNA set between two [plants](https://www.mdpi.com/1422-0067/21/1/3) | 
 
 
 - ####  Ten 10x Nanopore Bionano Hic | [Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data](https://academic.oup.com/gigascience/article/9/12/giaa134/6025063)
@@ -181,6 +181,9 @@
 
 
 # Genomics Tools
+
+
+- #### clustalo   running   `clustalo -t DNA --output-order=tree-order --outfmt=phylip --threads=8 -i CDS.final.fa -o CDS21.phylip`
 
 - #### [Create an interactive dot plot from mummer output OR PAF format](https://github.com/tpoorten/dotPlotly/tree/master/example)
 
