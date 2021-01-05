@@ -278,6 +278,14 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 # R
 
+
+
+- #### Creating a Blog with distill [here](https://rstudio.github.io/distill/blog.html) | [Example](https://pkgs.rstudio.com/distill/articles/examples.html)
+
+- #### Building a website using R {distill} [here](https://www.youtube.com/watch?v=Fm3bsYCilEU)
+
+- #### How to create a blog or a website in R with {Distill} package and manually deploy with {Netlify} [here](https://www.youtube.com/watch?v=p9nuRKaF4nM)
+
 - #### Heatmap 
 
 
