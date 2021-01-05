@@ -1,5 +1,6 @@
 # Excellente resources papers for genomics
 
+- My mentor [Philipp Emanuel Bayer](https://scholar.google.com/citations?hl=ko&user=GOL15xQAAAAJ)
 
 
 
@@ -280,6 +281,8 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 
 - #### facetwap with coloring option of title [here](https://themockup.blog/posts/2020-05-01-tidy-long-models/) and [here](https://www.opensourcefootball.com/posts/2020-09-07-estimating-runpass-tendencies-with-tidymodels-and-nflfastr/)
+
+- #### Setting up a Distill Blog with Netlify [here](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
 
 - #### Do nice PPT and share it with xarigan and distill package  [here](https://rstudio-education.github.io/teaching-in-production/#prework)
 
