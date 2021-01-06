@@ -2,7 +2,7 @@
 
 - My mentor [Philipp Emanuel Bayer](https://scholar.google.com/citations?hl=ko&user=GOL15xQAAAAJ)
 
-- Good for comparing Repeat and RNA set between two [plants](https://www.mdpi.com/1422-0067/21/1/3) | 
+- Good for comparing Repeat and RNA set between two [plants](https://www.mdpi.com/1422-0067/21/1/3) | [good also](https://www.nature.com/articles/nature15714#Sec2)
 
 - Good for polyploidazation and evolutionnary detection --->  [Building an octaploid genome and transcriptome of the medicinal plant Pogostemon cablin from Lamiales](https://www.nature.com/articles/sdata2018274)
 
