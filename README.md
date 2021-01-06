@@ -4,6 +4,8 @@
 
 - Good for comparing Repeat and RNA set between two [plants](https://www.mdpi.com/1422-0067/21/1/3) | 
 
+- Good for polyploidazation and evolutionnary detection --->  [Building an octaploid genome and transcriptome of the medicinal plant Pogostemon cablin from Lamiales](https://www.nature.com/articles/sdata2018274)
+
 
 - ####  Ten 10x Nanopore Bionano Hic | [Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data](https://academic.oup.com/gigascience/article/9/12/giaa134/6025063)
 - #### The genome sequence of tetraploid sweet basil, ocimum basilicum L., provides tools for advanced genome editing and molecular breeding [DNA Research](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsaa027/6042144?login=true#supplementary-data)
