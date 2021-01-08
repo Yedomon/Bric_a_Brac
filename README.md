@@ -1,5 +1,8 @@
 # Excellente resources papers for genomics
 
+
+- #### [shasta installation](https://chanzuckerberg.github.io/shasta/QuickStart.html#QuickStartLinux)
+
 - My mentor [Philipp Emanuel Bayer](https://scholar.google.com/citations?hl=ko&user=GOL15xQAAAAJ)
 
 - Good for comparing Repeat and RNA set between two [plants](https://www.mdpi.com/1422-0067/21/1/3) | [good also](https://www.nature.com/articles/nature15714#Sec2)
