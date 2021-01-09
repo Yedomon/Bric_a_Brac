@@ -296,6 +296,8 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 - #### Do nice PPT and share it with xarigan and distill package  [here](https://rstudio-education.github.io/teaching-in-production/#prework)
 
+
+- #### [How to create a blog or a website in R with {Distill} & continuously deploy via Github & Netlify](https://youtu.be/WZt4H-ogH3s)
 - #### Creating a Blog with distill [here](https://rstudio.github.io/distill/blog.html) | [Example](https://pkgs.rstudio.com/distill/articles/examples.html)
 
 - #### Building a website using R {distill} [here](https://www.youtube.com/watch?v=Fm3bsYCilEU)
