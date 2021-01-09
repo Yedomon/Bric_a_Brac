@@ -94,6 +94,8 @@
 # Pangenome
 
 
+- #### [How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
+
 - #### [definition](https://www.grandomics.com/en/pan-genome/)
 
 
