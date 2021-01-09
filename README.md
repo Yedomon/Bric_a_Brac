@@ -1,5 +1,5 @@
 # Excellente resources papers for genomics
-
+- ####  [example annotation pipeline](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0134-5)
 
 - #### [shasta installation](https://chanzuckerberg.github.io/shasta/QuickStart.html#QuickStartLinux)
 
