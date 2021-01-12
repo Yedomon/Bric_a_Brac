@@ -1254,4 +1254,74 @@ convert chloae annotation gff to genbank
 response [here](https://www.biostars.org/p/2492/)
 
 
+how I ran fastp
 
+
+INSTALLATION
+
+
+```
+
+# create env and install tools
+$ conda create --yes -n qc fastp fastqc multiqc
+
+# activate env
+$ conda activate qc
+
+```
+
+RUN
+
+```bash
+
+#!/bin/bash
+
+set -e
+
+#---Handles permissions of files for all users (a), take away (-) the permission to write (w)
+
+chmod a-w *.gz
+
+#---Create link for the raw data
+
+cd ~/data_analysis/01.Reads_quality_control 
+
+ln -fs ~/datafiles/fusarium_oxysporum_human_nrrl47514_mrl8996/illumina_raw_data/* .
+
+#---Let's activate the qc conda environment
+
+source activate reads_qc_env
+
+#---Let's run fastqc on the raw data
+
+fastqc *.gz
+
+#---Let's run fastp
+
+fastp --detect_adapter_for_pe \
+       --overrepresentation_analysis \
+       --correction --cut_right --thread 2 \
+       --html ../02.Trimming/FoHuman.fastp.html --json ../02.Trimming/FoHuman.fastp.json \
+       -i SRR9694936_1.fastq.gz -I SRR9694936_2.fastq.gz \
+       -o ../02.Trimming/FoHuman_R1.fastq.gz -O ../02.Trimming/FoHuman_R2.fastq.gz 
+
+#---Let's run fastqc again on the trimmed data
+
+fastqc *
+
+#--Let's run multiQC on both untrimmed and trimmed files
+
+cd ../
+
+multiqc 01.Reads_quality_control 02.Trimming 
+
+mv multiqc_* 03.Post_trimming_quality_control
+
+#---Desactivate the reads QC conda environment
+
+source deactivate reads_qc_env
+
+#---END
+
+
+```
