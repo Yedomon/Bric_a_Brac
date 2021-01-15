@@ -1,5 +1,8 @@
 # Excellente resources papers for genomics
 
+
+- #### Efficient hybrid de novo assembly of human genomes with WENGAN | [paper](https://www.nature.com/articles/s41587-020-00747-w) [github}(https://github.com/adigenova/wengan)
+
 - #### example publication structural [variants](https://www.mdpi.com/2223-7747/9/4/523) by [Medhat Mahmoud](https://scholar.google.com/citations?hl=fr&user=hPJQuMgAAAAJ&view_op=list_works&sortby=pubdate) 
 
 
