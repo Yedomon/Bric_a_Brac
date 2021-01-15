@@ -1,4 +1,8 @@
 # Excellente resources papers for genomics
+
+- #### example publication structural [variants](https://www.mdpi.com/2223-7747/9/4/523) by [Medhat Mahmoud](https://scholar.google.com/citations?hl=fr&user=hPJQuMgAAAAJ&view_op=list_works&sortby=pubdate) 
+
+
 - ####  [example annotation pipeline](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0134-5)
 
 - #### [shasta installation](https://chanzuckerberg.github.io/shasta/QuickStart.html#QuickStartLinux)
