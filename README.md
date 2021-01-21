@@ -1,5 +1,7 @@
 # Excellente resources papers for genomics
 
+- #### Adam Phillipy team [publications](https://genomeinformatics.github.io/publications/)
+
 
 - #### [examplewebdistill](https://bjungbogati.com.np/#skills) | create blog with distill [tuto1](http://uwesterr.de/posts/2020-01-17-create-a-blog-with-distill/) | [example design icon](https://databreadcrumbs.com/about.html) | [customization](https://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/) | [themming](https://rstudio.github.io/distill/website.html?panelset1=inspiration&panelset3=screenshot3#custom-style)
 
