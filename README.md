@@ -108,6 +108,7 @@
 
 # Pangenome
 
+- #### 2021 | [Building pan-genome infrastructures for crop plants and their use in association genetics](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsaa030/6117190?login=true)
 
 - #### [How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
 
