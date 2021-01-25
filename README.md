@@ -108,6 +108,12 @@
 
 # Pangenome
 
+
+
+
+
+- #### 2021 | [Hotter, drier, CRISPR: the latest edit on climate change](https://link.springer.com/article/10.1007/s00122-020-03764-0)
+
 - #### 2021 | [Building pan-genome infrastructures for crop plants and their use in association genetics](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsaa030/6117190?login=true)
 
 - #### [How the pan-genome is changing crop genomics and improvement](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02224-8)
