@@ -311,6 +311,22 @@ The only thing that worked for me was to install all dependencies in a conda env
 
 # R
 
+
+- #### tldr: Thomas Vroylandt and I have developed a package called pagedreport to help you make beautiful PDF reports from RMarkdown. Full documentation is available [here](https://pagedreport.rfortherestofus.com/)   
+
+
+- #### [Announcing pagedreport](https://rfortherestofus.com/2021/01/announcing-pagedreport/)
+
+
+I found the blog r for the rest of us  [here](https://rfortherestofus.com/blog/) simply wonderfull!!!!  Amazing tutorials
+
+
+
+
+
+
+
+
 - #### [Lesson 7. Add Citations and Cross References to an R Markdown Report with Bookdown](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/add-citations-to-rmarkdown-report/)
 
 - #### COLOR SELECTION MAKE EASY [HERE](https://www.w3schools.com/colors/colors_picker.asp) AND [HERE](https://www.color-hex.com/)
