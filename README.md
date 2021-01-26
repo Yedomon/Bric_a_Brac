@@ -111,7 +111,7 @@
 
 
 
-
+- #### 2021 | [Targeted plant improvement through genome editing: from laboratory to field](https://link.springer.com/article/10.1007/s00299-020-02655-4)
 - #### 2021 | [Hotter, drier, CRISPR: the latest edit on climate change](https://link.springer.com/article/10.1007/s00122-020-03764-0)
 
 - #### 2021 | [Building pan-genome infrastructures for crop plants and their use in association genetics](https://academic.oup.com/dnaresearch/advance-article/doi/10.1093/dnares/dsaa030/6117190?login=true)
@@ -1351,3 +1351,9 @@ source deactivate reads_qc_env
 
 
 ```
+
+
+Ideas
+
+
+[Genome-wide identification and analysis of cystatin family genes in Sorghum (Sorghum bicolor (L.) Moench)](https://peerj.com/articles/10617/)
