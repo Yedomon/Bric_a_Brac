@@ -312,6 +312,12 @@ The only thing that worked for me was to install all dependencies in a conda env
 # R
 
 
+
+- #### theme blog r [here](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/)
+
+- #### a nice example of theme [ggthemr](https://github.com/Mikata-Project/ggthemr#usage) option  fresh [artyfarty option scientific ou empty](https://datarootsio.github.io/artyfarty/articles/introduction.html) 
+
+
 - #### tldr: Thomas Vroylandt and I have developed a package called pagedreport to help you make beautiful PDF reports from RMarkdown. Full documentation is available [here](https://pagedreport.rfortherestofus.com/)   
 
 
