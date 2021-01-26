@@ -322,7 +322,7 @@ I found the blog r for the rest of us  [here](https://rfortherestofus.com/blog/)
 
 
 
-
+[How to make beatifull table in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
 
 
 
