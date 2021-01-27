@@ -1379,3 +1379,6 @@ Ideas
 
 
 [Genome-wide identification and analysis of cystatin family genes in Sorghum (Sorghum bicolor (L.) Moench)](https://peerj.com/articles/10617/)
+
+
+[SSR SESAME](Morphological and genetic diversity assessment of sesame (Sesamum indicum L.) accessions differing in origin)
