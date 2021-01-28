@@ -1,5 +1,21 @@
 # Excellente resources papers for genomics
 
+
+
+- #### Blog [When the Growing Gets Tough, the Tough Get Pre-breeding](https://www.cwrdiversity.org/crop-science-special-issue-shows-why-crops-need-to-get-wild/)
+
+- #### Blog [‘Crop Science’ special issue shows why crops need to get wild](https://news.globallandscapesforum.org/49393/crop-science-special-issue-shows-why-crops-need-to-get-wild/)
+
+
+
+
+
+
+
+
+
+
+
 - #### LeafGo: Leaf to Genome, a quick workflow to produce high-quality De novo genomes with Third Generation Sequencing technology
 
 [bIORIXV](https://www.biorxiv.org/content/10.1101/2021.01.25.428044v1.full.pdf)
