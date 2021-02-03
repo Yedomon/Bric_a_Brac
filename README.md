@@ -38,8 +38,7 @@ GenomeScope 2.0 [36] was used to estimate, in silico, the genome sizes of both E
 The software was run with the following parameters: 
 
 ```bash
-[k-mer length=12, Ploidy=2, Max k-mer
-coverage=-1, average k-mer coverage for polyploid genome=-1].
+[k-mer length=12, Ploidy=2, Max k-mer coverage=-1, average k-mer coverage for polyploid genome=-1].
 ```
 
 We calculated the k-mer distribution,
@@ -47,8 +46,7 @@ which we then fed to GenomeScope, using JellyFish [51] with the following parame
 
 ```bash
 
-[jellyfish count
--C -m 21 -s 1000000000].
+[jellyfish count -C -m 21 -s 1000000000].
 ```
 
 
