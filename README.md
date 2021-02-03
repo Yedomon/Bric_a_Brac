@@ -28,10 +28,10 @@
 [bIORIXV](https://www.biorxiv.org/content/10.1101/2021.01.25.428044v1.full.pdf)
 
 
-```bash
+
 GenomeScope 2.0 [36] was used to estimate, in silico, the genome sizes of both Eucalyptus species.
 
-```
+
 
 
 
