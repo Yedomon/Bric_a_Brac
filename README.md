@@ -28,16 +28,40 @@
 [bIORIXV](https://www.biorxiv.org/content/10.1101/2021.01.25.428044v1.full.pdf)
 
 
+```bash
+GenomeScope 2.0 [36] was used to estimate, in silico, the genome sizes of both Eucalyptus species.
 
-> GenomeScope 2.0 [36] was used to estimate, in silico, the genome sizes of both Eucalyptus species.
-The software was run with the following parameters: [k-mer length=12, Ploidy=2, Max k-mer
-coverage=-1, average k-mer coverage for polyploid genome=-1]. We calculated the k-mer distribution,
-which we then fed to GenomeScope, using JellyFish [51] with the following parameters: [jellyfish count
+```
+
+
+
+The software was run with the following parameters: 
+
+```bash
+[k-mer length=12, Ploidy=2, Max k-mer
+coverage=-1, average k-mer coverage for polyploid genome=-1].
+```
+
+We calculated the k-mer distribution,
+which we then fed to GenomeScope, using JellyFish [51] with the following parameters: 
+
+```bash
+
+[jellyfish count
 -C -m 21 -s 1000000000].
+```
+
+
+To force Canu to keep haplotigs separate, we set the following parameters: 
 
 
 
->  To force Canu to keep haplotigs separate, we set the following parameters: batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50.
+```bash
+batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50.
+
+```
+
+
 
 
 > We generated comprehensive assembly statistics using QUAST-LG v5.0.2 [55]. To assess the biological integrity of the assemblies, we used BUSCO v3 [56] as a proxy of genome completeness.
