@@ -786,6 +786,9 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 # Fungal Genomics 
 
 
+- #### 19 chromosomes here [A Chromosome-Scale Genome Assembly for the Fusarium oxysporum Strain Fo5176 To Establish a Model Arabidopsis-Fungal Pathosystem](https://www.g3journal.org/content/10/10/3549.long)
+
+
 - #### [Great inspiration discovered today 16 december 2020 on research square |  Genome sequencing and comparative genomic analysis of highly and weakly aggressive strains of Sclerotium rolfsii, the causal agent of peanut stem rot](https://assets.researchsquare.com/files/rs-38224/v2/9acd3546-03af-4b93-8e48-085d43b35327.pdf)
 
 - #### [FocSge1 in Fusarium oxysporum f. sp. cubense race 1 is essential for full virulence](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01936-y)
