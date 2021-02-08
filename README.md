@@ -1,7 +1,7 @@
 # Excellente resources for genomics
 
 
-
+- 05 February 2021 | [Genetics of nodulation in Aeschynomene evenia uncovers mechanisms of the rhizobium–legume symbiosis](https://www.nature.com/articles/s41467-021-21094-7)
 
 
 
