@@ -1,7 +1,80 @@
 # Excellente resources for genomics
 
 
+- 01 February  Tecnology future | Nature methods | [Long road to long-read assembly](https://www.nature.com/articles/s41592-021-01057-y)
+
+
+
+Non-dedicated hi-fi assembler is not appropriate
+
+> Although noisy read assemblers can be applied to HiFi reads, he says they don’t take advantage of the high base-accuracy and won’t match HiCanu and hifiasm
+
+Advantage of Hicanu and Hifiasm
+
+
+> The assemblers HiCanu and hifiasm use string-overlap graphs to represent genomes, encode information for algorithmic analysis and show a reference and alternative paths along a DNA sequence, says Pevzner. The alternative paths represent variation at different loci. Graph genomes make it easier to resolve haplotypes. With string graphs, the nodes are reads and overlapping reads make up the edges, he says.
+
+
+
+
+> Not many realize that hifiasm/HiCanu assemblies we produce today are of much higher quality than the assemblies we could get a year ago
+
+
+
+
+> De burjin graph style not appropriate for long and accuate large k-mers "Li who"
+
+
+ De Bruijn graphs are “the algorithmic engine” in assemblers such as SPAdes, Flye and wtdbg2, but they are not designed for making graphs with large k-mers
+
+
+
+Polyploid assembly complexity
+
+> “Then there are polyploid genomes and metagenomes, which are even harder to assemble,” he says. “These will keep us busy in the next five years at least.”
+
+
+
+wtdbg2 and shasta versus hifiasm and Hicanu
+
+> A major problem with wtdbg2, he says, is that it tends to collapse similar segmental duplications or repeats into one copy. “This results in an apparently smaller genome,” he says; the assembly is smaller than the ‘true’ genome. It’s a common issue with noisy read assemblers, says Li, but it’s more severe in wtdbg2 and Shasta. Hifiasm and HiCanu “don’t have this problem, which makes them better assemblers.”
+
+
+
+
+
+Hifiasm faster than wtdbg2
+
+
+> Hifiasm is faster than wtdbg2 because accurate reads can simplify most algorithms, Li says. Hifiasm can be used for haplotype-resolved assembly, but it’s applicable only to PacBio’s HiFi reads. He reckons the tool can be adapted for ultra-long ONT reads, “but this requires a lot of engineering work.”
+
+According to Rhie hifiasm is goog for hapotig-resolved assembly
+
+
+> In her view, hifiasm is likely to prove good for partitioning haplotypes.
+
+
+
+
+
+
+reference free assembly assessment
+
+
+> Even with more accurate reads, assemblies still need to be assessed for quality. For this task, she has co-developed Merqury8. The software can show what different assemblers are getting right and getting wrong, says Phillippy. Rhie says that parental k-mers can be used to validate haplotype phasing and that Merqury generates assembly assessment metrics with k-mers and does not use a reference. “Mapping biases” can trip up efforts to assess the quality of assemblies. For example, when evaluating an Asian assembled genome against the human reference, “any sort of Asian-specific variation would be called as an error,” she says. Especially in the genome’s repetitive regions, such bias can be more pronounced. “The k-mer-based approach sort of lifts away those mapping-based biases,” she says.
+
+
+
+
+
+
+
+
 - 05 February 2021 | [Genetics of nodulation in Aeschynomene evenia uncovers mechanisms of the rhizobium–legume symbiosis](https://www.nature.com/articles/s41467-021-21094-7)
+
+
+
+
 
 
 
