@@ -1,6 +1,14 @@
 # Excellente resources for genomics
 
 
+
+[Identification of genes associated with the biosynthesis of unsaturated fatty acid and oil accumulation in herbaceous peony ‘Hangshao’ (Paeonia lactiflora ‘Hangshao’) seeds based on transcriptome analysis](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07339-7)
+
+[Sinbase 2.0: An Updated Database to Study Multi-Omics in Sesamum indicum](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2223-7747/10/2/272/pdf&hl=en&sa=X&d=17284092782916146238&ei=m4kdYOXkO4OBy9YPjse4yAk&scisig=AAGBfm2LhxAOmhx8SY-p6iRKKR2afwu3lg&nossl=1&oi=scholaralrt&hist=r6FjIyQAAAAJ:6622770154896122510:AAGBfm2NwlaOqR0GcREoxSGypHOL2nWX4w&html=)
+
+[Insights into triterpene synthesis and unsaturated fatty-acid accumulation provided by chromosomal-level genome analysis of Akebia trifoliata subsp. australis](https://www.nature.com/articles/s41438-020-00458-y)
+
+
 [Dr senthil](https://link.springer.com/article/10.1007/s11103-021-01122-2/figures/1)
 
 
