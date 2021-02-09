@@ -1,6 +1,10 @@
 # Excellente resources for genomics
 
 
+[Dr senthil](https://link.springer.com/article/10.1007/s11103-021-01122-2/figures/1)
+
+
+
 - 01 February  Tecnology future | Nature methods | [Long road to long-read assembly](https://www.nature.com/articles/s41592-021-01057-y)
 
 
