@@ -474,6 +474,9 @@ The only thing that worked for me was to install all dependencies in a conda env
 # R
 
 
+- #### very nice youtube channel from Dr Yury Zablotski for data exploration, cleaning and so on. Very nice tutorial for [dlookr](https://youtu.be/M7eNYbd4n1Y)
+
+
 
 - #### theme blog r [here](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/)
 
