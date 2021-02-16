@@ -2,6 +2,46 @@
 
 
 
+- #### 2019 | [Genome sequence of Malania oleifera, a tree with great value for nervonic acid production](https://academic.oup.com/gigascience/article/8/1/giy146/5232231)
+
+> De novo genome assembly and quality control
+
+> First, primary assemblies (eight from PacBio long reads, one from 10× Genomics linked reads) were prepared by different pipelines. Next, scaffolding and polishing were performed on the optimal primary assemblies in order to obtain a final genome assembly. Primary assembly v0.1 was generated from PacBio long reads after correction by Canu v1.6 [19], assembly v0.2 by MECAT v1.1 [22], assembly v0.3 by miniasm v0.2-r168 [23] after alignment by minimap v0.2-r124 [23], assembly v0.4 by Falcon v0.7 (Falcon, RRID:SCR_016089) [24, 25] after correction with Canu v1.6, assembly v0.5 by SMARTdenovo v1.0.0 [26] after correction with Canu v1.6, assembly v0.6 by Wtdbg v1.2.8 [27] after correction with Canu v1.6, assembly v0.7 by SMARTdenovo v1.0.0 after correction, and assembly v0.8 by Wtdbg v1.2.8. Assembly v0.9 was prepared by Supernova assembler 2.0 [28, 29] from 10× Genomics linked reads data. Based on quality-control parameters, assembly v0.7 was chosen as optimal for further scaffolding and polishing. It generated a reasonably sized assembly (1.51 Gb), providing the highest N50 (i.e., the shortest sequence length at 50% of the total genome assembly length) (1.12 Mb) and the lowest number of contigs (3,038) and L50 (i.e., the smallest number of contig sequences whose lengths sum produces the N50 value) (330). Furthermore, genome assembly version v0.7 exhibited the longest contig length (6.72 Mb), as well as 71.80% gene completeness as determined by Benchmarking Universal Single-Copy Orthologs (BUSCO) (BUSCO, RRID:SCR_015008) [30] assessment (Supplementary Table S4). This assembly (v0.7) was further polished with raw PacBio long reads using arrow v2.2.1 [31] to produce (in two rounds) assembly v1.0. Subsequently, 10× Genomics linked reads were processed with Long Ranger [17, 18], and were then aligned to v1.0 using BWA mem v0.7.15 (default values, -t12) (BWA, RRID:SCR_010910) [32] and subsequently scaffolded by ARCS v1.0.1 [33] to produce assembly v1.1. The final assembly was generated after one further iteration of polishing with arrow v2.21 and three iterations with Pilon v1.22 (Pilon, RRID:SCR_014731) [34]. Before arrow-based polishing, PacBio raw reads were aligned using BLASR v5.1 (BLASR, RRID:SCR_000764) [35, 36], and PacBio raw reads were mapped with Bowtie2 v2.2.6 (Bowtie2, RRID:SCR_016368) [37] before each iteration with Pilon. In the final assembly, a genome size of 1.51 Gb was obtained, consisting of 2,987 contigs, 1,277 scaffolds (with contig N50 of 1.22 Mb, scaffold N50 of 4.65 Mb, longest contig of 6.7 Mb, and longest scaffold of 25.1 Mb), and with a gene completeness of 90.60% (Table 1 and Supplementary Table S4). The consistency of the predicted genome size based on k-mer characterization and the assembled genome indicated a good quality for our assembly. Furthermore, when all clean Illumina reads were mapped to the final assembly (v1.2f), a high sequence coverage of 98.5% was obtained. In addition, an even higher sequence coverage of 99.32% was observed for mapping PacBio long reads to the final assembly using BLASR. These two coverage values suggested high sequence completeness and fidelity of the genome assembly. Mapping rates (91%–98%) were also very high for transcriptomic datasets mapped to the final assembly, of which most (79%–96%) were uniquely mapped (Supplementary Table S1), with the exception of one RNA sequencing library (Short Read Archive accession: SRR7221534) that yielded low mapping rates (10.31%), a result that we cannot explain by anything aside from microbial or other contamination (see Supplementary File 1 for commands and settings).
+
+
+
+
+> Metabolic gene clusters and candidate genes for fatty acid biosynthesis pathways
+It is evident that genes for numerous plant secondary metabolic pathways are sometimes densely clustered in a specific genomic region, generating biosynthetic gene clusters (BGCs) [117–119]. With the newly released and robust computational toolkit, plantiSMASH [120], 23 such BGCs related to various secondary metabolic pathways were detected (Supplementary Table S21 and Supplementary File 4), such as saccharide- (10 gene clusters), terpene- (4), alkaloid- (2), polyketide- (1), and lignan-polyketide (1)-related. An additional five putative BGCs were identified that could not be assigned to specific secondary metabolic pathways. The identified BGCs spanned 258 to 1,282 Kb and contained three to eight core protein domains related to secondary metabolism.
+
+> Given the importance of fatty acid production in M. oleifera, we further annotated genes within the fatty acid biosynthesis pathway by querying the Plant Metabolic Network (PMN v12.5, RRID:SCR_003778) [121, 122], after enzymatic annotations for coding genes through the E2P2 package v3.1 [123]. The initial (de novo) fatty acid biosynthesis process mainly occurs in plastids [124] of leaf mesophyll cells, seeds, and oil-accumulating fruits in plants. In this process, acetyl and malonyl groups are condensed and further elongated to give rise to the production of 16:0-ACPs (palmitic acids, acyl carrier protein) and 18:0-ACPs (stearic acid and oleic acids). After this initial process, very long-chain fatty acids (VLCFAs, with 22 or more carbons) can be synthesized at the endoplasmic reticulum by sequential addition of C2 moieties from malonyl-CoA to form C18 acyl groups [125].
+
+> We detected 14 genes that are predicted to function in the four reactions of the elongation cycle, including the condensation of long-chain acyl-CoA and malonyl-CoA to form 3-oxoacyl-CoA, the reduction to 3-hydroxyacyl-CoA, the dehydration to (2E)-alkan-2-enoyl-CoA, and the final reduction to an elongated fatty acyl-CoA [125]. We detected 19 candidate genes potentially functioning in the reactions of the initial process (Supplementary Fig. S13) and 14 genes in the subsequent VLCFA biosynthesis pathway (Fig. 2c). Interestingly, we found the genes of the VLCFA pathway forming two gene clusters of local duplicates, one composed of four genes (Maole_016461, Maole_016463, Maole_016466, and Maole_016467) and the other of two genes (Maole_017397 and Maole_017398). These six genes occurring in localized clusters are all predicted to be involved in the four key reactions of the chain elongation cycle, suggesting an important effect of local gene duplication on efficient VLCFA production. By comparison, only a few cases (one including Maole_003221.T1 and Maole_003222.T1, the other including Maole_008716.T1 and Maole_008717.T1) of localized gene duplication were found for the initial fatty acid biosynthesis pathway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Identification of genes associated with the biosynthesis of unsaturated fatty acid and oil accumulation in herbaceous peony ‘Hangshao’ (Paeonia lactiflora ‘Hangshao’) seeds based on transcriptome analysis](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07339-7)
 
 [Sinbase 2.0: An Updated Database to Study Multi-Omics in Sesamum indicum](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2223-7747/10/2/272/pdf&hl=en&sa=X&d=17284092782916146238&ei=m4kdYOXkO4OBy9YPjse4yAk&scisig=AAGBfm2LhxAOmhx8SY-p6iRKKR2afwu3lg&nossl=1&oi=scholaralrt&hist=r6FjIyQAAAAJ:6622770154896122510:AAGBfm2NwlaOqR0GcREoxSGypHOL2nWX4w&html=)
@@ -223,6 +263,9 @@ batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50.
 - #### [Zoonomia project](https://www.nature.com/articles/s41586-020-2876-6) | [Code availability](https://www.nature.com/articles/s41586-020-2876-6#code-availability) 
 
 - #### Gigascience Data Note Genome sequence | [Callicarpa americana](https://academic.oup.com/gigascience/article/9/9/giaa093/5902285) | [Potato](https://academic.oup.com/gigascience/article/9/9/giaa100/5910251#207670453) | [Aquilaria sinensis](https://academic.oup.com/gigascience/article/9/3/giaa013/5771296) | [Arachis monticola](https://academic.oup.com/gigascience/article/7/6/giy066/5040258) | [Eriobotrya japonica](https://academic.oup.com/gigascience/article/9/3/giaa015/5788433) |[Portunus trituberculatus](https://academic.oup.com/gigascience/article/9/1/giz161/5697200) | [catfish](https://academic.oup.com/gigascience/article/7/11/giy120/5106933) | [Juglans regia](https://academic.oup.com/gigascience/article/9/5/giaa050/5841058) |  [Juglans sigillata](https://academic.oup.com/gigascience/article/9/2/giaa006/5758190) | [mustache toad](https://academic.oup.com/gigascience/article/8/9/giz114/5572531) | [Prunus](https://academic.oup.com/gigascience/article/9/12/giaa130/6029397?searchresult=1)
+
+
+
 
 - #### [Molecular Plant | Collection: Plant Genomics](https://www.cell.com/molecular-plant/collections/plant-genomics)
 
