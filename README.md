@@ -655,6 +655,10 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 - #### [ggupset](https://github.com/const-ae/ggupset)
 
+- #### [How to Change X and Y Axis Values from Real to Integers in ggplot2?](https://datavizpyr.com/change-x-and-y-axis-values-to-integers-ggplot2/)
+
+
+
 
 # R Map
 
