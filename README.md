@@ -833,6 +833,8 @@ To calculate the synonymous-substitution Ks values, we selected the orthologous 
 
 # R spatial
 
+- #### [ggplot2 dataviz r map github](https://github.com/sergiocostafh/ggplot2_dataviz)
+- #### [R Maps: Beautiful Interactive Choropleth & Scatter Maps with Plotly](https://youtu.be/RrtqBYLf404)
 - #### [r map tuto 1](https://datavizm20.classes.andrewheiss.com/example/12-example/) [content](https://datavizm20.classes.andrewheiss.com/content/) [video](https://www.youtube.com/watch?v=Opzwtegvuv4&t=743s)
 - #### [r map tuto 2 create a shp file from data frame ](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)
 - #### [r map tuto 3 raster manip](https://datacarpentry.org/r-raster-vector-geospatial/)
