@@ -1,5 +1,5 @@
 # Excellente resources for genomics
-
+- #### [bowtie2](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/Introduction/SS_DB/Materials/Practicals/Practical2_alignment_SS.html)
 
 
 - #### 2019 | [Genome sequence of Malania oleifera, a tree with great value for nervonic acid production](https://academic.oup.com/gigascience/article/8/1/giy146/5232231)
