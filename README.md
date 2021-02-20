@@ -1,5 +1,8 @@
 # Excellente resources for genomics
 - #### [bowtie2](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/Introduction/SS_DB/Materials/Practicals/Practical2_alignment_SS.html)
+- #### [Fast and accurate assembly of Nanopore reads via progressive error correction and adaptive read selection](https://www.biorxiv.org/content/10.1101/2020.02.01.930107v1.full)
+
+- ### [Whole genome comparisons of Fragaria, Prunus and Malus reveal different modes of evolution between Rosaceous subfamilies](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/1471-2164-13-129.pdf)
 
 
 - #### 2019 | [Genome sequence of Malania oleifera, a tree with great value for nervonic acid production](https://academic.oup.com/gigascience/article/8/1/giy146/5232231)
