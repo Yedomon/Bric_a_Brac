@@ -1,6 +1,11 @@
 # Excellente resources for genomics
 
 
+- #### | De bonnes ref | 2020 | [Advances in optical mapping for genomic research](https://www.sciencedirect.com/science/article/pii/S2001037020303500#bi005)
+
+[A near complete, chromosome-scale assembly of the black raspberry (Rubus occidentalis) genome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131213/pdf/giy094.pdf)
+
+> NGS-based assemblies contain gaps in repetitive regions that exceed the maximum read lengths, and most genomes have thousands to millions of imbedded sequence gaps. These gaps can span biologically important sequences including tandem gene arrays, repeat dense, and haplotype- or homeologous-specific regions. Recent advances in single-molecule real-time (SMRT) sequencing have overcome the previous limitations of NGS-based approaches and ushered in a new era of “platinum-quality” reference genomes
 
 
 - #### 2021 | PacBio Scientist | Diploid | Plant genome | Diploid | [A draft phased assembly of the diploid Cascade hop (Humulus lupulus) genome](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20072)
