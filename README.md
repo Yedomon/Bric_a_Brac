@@ -1,4 +1,11 @@
 # Excellente resources for genomics
+
+
+
+
+- #### 2021 | PacBio Scientist | Diploid | Plant genome | Diploid | [A draft phased assembly of the diploid Cascade hop (Humulus lupulus) genome](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.20072)
+
+
 - #### [bowtie2](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/Introduction/SS_DB/Materials/Practicals/Practical2_alignment_SS.html)
 - #### [Fast and accurate assembly of Nanopore reads via progressive error correction and adaptive read selection](https://www.biorxiv.org/content/10.1101/2020.02.01.930107v1.full)
 
