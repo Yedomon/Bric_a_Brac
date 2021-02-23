@@ -1,6 +1,37 @@
 # Excellente resources for genomics
 
 
+- #### [The genome of the tegu lizard Salvator merianae: combining Illumina, PacBio, and optical mapping data to generate a highly contiguous assembly ](https://academic.oup.com/gigascience/article/7/12/giy141/5202467)
+
+Busco
+
+
+![bUSCO1](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/12/10.1093_gigascience_giy141/1/giy141fig3.jpeg?Expires=1617077350&Signature=T2s~YKXlwkstsdQk0hAq7PANh5ytg8W4zgLE6NeQqiekvBROOSXgbu4N-qVEanBO9NxZttddD8t0epixoboahl9LCXt~9RcX875EO70qdfk8q3R4aRty4yHdgdUxa6pd3Q0N0WHjV6RIuq2-Kp-aV7LKu7VloiMQySG9BNx5Ewvv0xD59MLuYV-0I0H2IMvOecFS6cJB6616IgbmEajlbyfZO5IVgdk6DJhwF0BBMg8yd5wuMhkOS1QGBflxEybU58lPfnSBmANCkSJ1aWNpHPlM8lSSkIRVT1GLttScXSlK9DN4SkAzZkryjTe3I8hz-ZZIFyGkPMq7kOE7rKTrtg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+Repeat
+
+
+![Repeat](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/12/10.1093_gigascience_giy141/1/giy141fig5.jpeg?Expires=1617077446&Signature=dvlL1M9GyOOHYyzuievTsrpyyJKkjXBczHCF6J1SspS2N79ZiSw7H8GtFqtZC9eNFjh3pZOcZaNh4PPRfYa8erzzgftqbWyqrUZIiG5jybnNuReHvNPqRXFjo7gV7I4ZOIGPZZC~wGcJDq-UW2CijSB9AV2zDGhtR6TTykbq7SP00DJKegXukrm6KQkl7Grdq8zoGkB6CnkjsvUNobER~FWvW-SiLgyPnKuFcOJW4lD~O7xVE1WJl-cTxoBeaoTA-UyMeSkowFvF~glcsbZWnZ4mFUe7WHWFYAaOjxYX2z7PxsYdPAxIjHy6KaEbqCFP9t7Enu4W3BeUwAzzTbxy0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+Non-coding elements
+
+![nce](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/12/10.1093_gigascience_giy141/1/giy141fig4.jpeg?Expires=1617077560&Signature=g7EpAnYTp19n831k7ii8IKmseMOImee32PNighbMFBQRMumqhV6BBagOeGWOaFLsbqPf40UXFAZaCTWY9XLimRepBjYhfsOhgVwnEzVsf34QLb~BVBwSuaneQ2qV-t5EjuXm4YhXUVVFrdSz0J2YPa27z3P-Yd4iV-Mph1uonf~cGi~TVf7JHU4xLcq2nvgW8xT6rdj579mUKLdt~~PS-MOR78STZRC3Bx7IBSFFsX11thZcQxmjzm-h2bI2ze-j77FCYDvdjFrX9wj5rPMZhFpKBbW89u9qE0vhm7z2DbGoDg98mgerP6Lt8BuGG6rqV9BiPTLhQ9UAoTsTYu9I4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+- #### [Draft genome sequence of Solanum aethiopicum provides insights into disease resistance, drought tolerance, and the evolution of the genome](https://academic.oup.com/gigascience/article/8/10/giz115/5579996)
+
+- #### [The sequence and de novo assembly of Takifugu bimaculatus genome using PacBio and Hi-C technologies](https://www.nature.com/articles/s41597-019-0195-2#code-availability)
+
+Divergence time estimation
+
+
+![div](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-019-0195-2/MediaObjects/41597_2019_195_Fig4_HTML.png?as=webp)
+
+Assembly pipeline
+
+![asss](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-019-0195-2/MediaObjects/41597_2019_195_Fig1_HTML.png?as=webp)
+
+
 - #### | De bonnes ref | 2020 | [Advances in optical mapping for genomic research](https://www.sciencedirect.com/science/article/pii/S2001037020303500#bi005)
 
 [A near complete, chromosome-scale assembly of the black raspberry (Rubus occidentalis) genome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131213/pdf/giy094.pdf)
