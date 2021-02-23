@@ -1,6 +1,9 @@
 # Excellente resources for genomics
 
 
+- #### [Molecular Basis of Disease Resistance in Banana Progenitor Musa balbisiana against Xanthomonas campestris pv. musacearum](https://www.nature.com/articles/s41598-019-43421-1)
+
+
 - #### [The genome of the tegu lizard Salvator merianae: combining Illumina, PacBio, and optical mapping data to generate a highly contiguous assembly ](https://academic.oup.com/gigascience/article/7/12/giy141/5202467)
 
 Busco
