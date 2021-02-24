@@ -1,6 +1,8 @@
 # Excellente resources for genomics
 
 
+#### [Bytesize 4: GitHub contribution basics by Alexander Peltzer - Boehringer Ingelheim Pharma GmbH & Co. KG, Germany](https://nf-co.re/events/2021/bytesize-4-github-contribution-basics) | [Video](https://youtu.be/gTEXDXWf4hE)
+
 - #### [Molecular Basis of Disease Resistance in Banana Progenitor Musa balbisiana against Xanthomonas campestris pv. musacearum](https://www.nature.com/articles/s41598-019-43421-1)
 
 
