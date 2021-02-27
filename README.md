@@ -1,6 +1,13 @@
 # Excellente resources for genomics
 
 
+
+#### [Kew Tree of Life Explorer](https://treeoflife.kew.org/)
+
+
+#### Haplotype-resolved diverse human genomes and integrated analysis of structural variation | excellent coloring scheme for high quality figure publication [suppl.](https://science.sciencemag.org/content/sci/suppl/2021/02/24/science.abf7117.DC1/abf7117-Ebert-SM.pdf)
+
+
 #### [Bytesize 4: GitHub contribution basics by Alexander Peltzer - Boehringer Ingelheim Pharma GmbH & Co. KG, Germany](https://nf-co.re/events/2021/bytesize-4-github-contribution-basics) | [Video](https://youtu.be/gTEXDXWf4hE)
 
 - #### [Molecular Basis of Disease Resistance in Banana Progenitor Musa balbisiana against Xanthomonas campestris pv. musacearum](https://www.nature.com/articles/s41598-019-43421-1)
