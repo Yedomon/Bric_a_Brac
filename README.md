@@ -4,7 +4,7 @@
 
 #### [Chromosome-Scale Assembly and Annotation of the Macadamia Genome (Macadamia integrifolia HAES 741)](https://academic.oup.com/g3journal/article/10/10/3497/6053545)
 
-![g](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/10/10/10.1534_g3.120.401326/6/3497f1.png?Expires=1617630012&Signature=oaEAF6PQeSWK5qT37xo2YqZ-JJFElE6pZ7egkwXSm7X6BdNseUmht9umSZTthQqxN3mEvkxTn1y2oobmx~rLJB8khiWt2XKfYEh6Ndl5sREqMMqmcG45lY14P3YDppKe7sbj~nmaM54UgELmWOsRlAga2aSyn7sdluWoCgBMtY~vSqNdvL2eDSoaDIUo5TVWJEbcct1U9-DJcfBA4WBNEHJJc8Uk7a4F01TXSjAqyhDc1p3Je7v7uMjuxqoV~kTwNb-QywqAvlhd6w0YXNwS-JwCMgfhZCtgg8z1yc2dFhIAGpDIIIDXKr7J2yuyEda6BoPYbg1YJu4StUlZXvMOxA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+![g](https://academic.oup.com/view-large/figure/221238202/3497f1.tif)
 
 
 
