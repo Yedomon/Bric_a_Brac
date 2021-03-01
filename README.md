@@ -2,6 +2,57 @@
 
 
 
+#### [Chromosome-Scale Assembly and Annotation of the Macadamia Genome (Macadamia integrifolia HAES 741)](https://academic.oup.com/g3journal/article/10/10/3497/6053545)
+
+![g](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/10/10/10.1534_g3.120.401326/6/3497f1.png?Expires=1617630012&Signature=oaEAF6PQeSWK5qT37xo2YqZ-JJFElE6pZ7egkwXSm7X6BdNseUmht9umSZTthQqxN3mEvkxTn1y2oobmx~rLJB8khiWt2XKfYEh6Ndl5sREqMMqmcG45lY14P3YDppKe7sbj~nmaM54UgELmWOsRlAga2aSyn7sdluWoCgBMtY~vSqNdvL2eDSoaDIUo5TVWJEbcct1U9-DJcfBA4WBNEHJJc8Uk7a4F01TXSjAqyhDc1p3Je7v7uMjuxqoV~kTwNb-QywqAvlhd6w0YXNwS-JwCMgfhZCtgg8z1yc2dFhIAGpDIIIDXKr7J2yuyEda6BoPYbg1YJu4StUlZXvMOxA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+
+
+
+Code availaibility
+
+
+```python
+
+BBMap version 36.62: ktrim = r k = 23 mink = 11 hdist = 1 tpe tbo maxns = 1 minlen = 50 maq = 8 qtrim = rl trimq = 20
+
+LoRDEC version 0.4: lordec-correct -2 input_for_read_correction.fastq -k 19 -S out.stat.txt -s 3 -T 12 -i PacBio_filtered_reads.fasta -o out.pacbio.corrected.fasta
+
+MaSuRCA version 3.2.1. Default parameters except: NUM_THREADS = 16, JF_SIZE = 20000000000 (jellyfish hash size)
+
+L_RNA_scaffolder: blat -t = dna -q = dna scaffolds_gapClosed_min1000.fa Trinity.fasta transcript.vs.macaAssembly.psl -noHead -out = psl
+
+ALLMAPS version 0.7.7: Default parameters
+
+Jellyfish version 2.0: jellyfish count -t 14 -C -m 27 -s 8G -o 27mer_maca_illumOnly_out <all Illumina-only WGS fastqs > jellyfish histo -t14 27mer_maca_illumOnly_out> 27mer_maca_illumOnly_out.histo
+
+findGSE: Default parameters
+
+GenomeScope version 2.2.6:kmer length 27, read length 125bp, Max kmer coverage 1000
+
+Trinity, version 2.0.3: Trinity–seqType fq–max_memory 100G –left reads_S_R1_clean.fq,reads_F2_R1_clean.fq,reads_YL_R1_clean.fq–right reads_S_R2_clean.fq,reads_F2_R2_clean.fq,reads_YL_R2_clean.fq–CPU 8
+
+RepeatModeler version 2.0.1. Default parameters
+
+RepeatMasker version 4.0.9. Default parameters
+
+MAKER, version 2.31.10. Default parameters except: Gene prediction methods Augustus and SNAP (trained with previously generated macadamia gene models); AED score = 0.40; Minimum protein length: = 50 amino acids
+
+BUSCO version 3.0.2: busco -i proteins.fasta -l viridiplantae_odb10 -m proteins -o output_name
+
+Minimap2 version 2.17. Default parameters (paftool.js bundled with Minimap2): minimap2 -ax sr ref_assemblyfasta fastq1stReadPair fastq2ndReadPair > ref_readPairs_aln.paf; k8 paftools.js stat ref_readPairs_aln.paf > alignment_mapstats
+
+GATK HaplotypeCaller version 4.1.4.1: gatk–java-options “-Xmx8g” HaplotypeCaller -R refGenome.fasta -I input.bam -O output.g.vcf.gz -ERC GVCF -heterozygosity 0.01
+
+GATK GenotypeGVCFs version 4.1.4.1: gatk–java-options “-Xmx4g” GenotypeGVCFs -R refGenome.fasta -V input.g.vcf.gz -O output.vcf.gz–heterozygosity 0.01
+
+GATK VariantsToTable version 4.1.4.1: gatk-4.1.4.1/gatk–java-options “-Xmx8g” VariantsToTable -V output.vcf.gz -F CHROM -F POS -F TYPE -F REF -F ALT -F HET -GF GT -GF AD -O output_genoGVCF.table.txt.
+
+
+
+```
+
 #### [Kew Tree of Life Explorer](https://treeoflife.kew.org/)
 
 
