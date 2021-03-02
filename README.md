@@ -1,5 +1,13 @@
 # Excellente resources for genomics
 
+##### Inspirational paper for using RNA seq to find genes of interest related to oil biosynthesis 
+
+[Identification of genes associated with the biosynthesis of unsaturated fatty acid and oil accumulation in herbaceous peony ‘Hangshao’ (Paeonia lactiflora ‘Hangshao’) seeds based on transcriptome analysis](https://link.springer.com/article/10.1186/s12864-020-07339-7)
+
+
+
+
+
 
 
 #### [Chromosome-Scale Assembly and Annotation of the Macadamia Genome (Macadamia integrifolia HAES 741)](https://academic.oup.com/g3journal/article/10/10/3497/6053545)
