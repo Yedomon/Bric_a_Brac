@@ -2,6 +2,8 @@
 
 
 
+#### [The genome of Magnolia biondii Pamp. provides insights into the evolution of Magnoliales and biosynthesis of terpenoids](https://www.nature.com/articles/s41438-021-00471-9)
+
 
 #### [Chromosome-scale genome assembly of Cucumis hystrix—a wild species interspecifically cross-compatible with cultivated cucumber](https://www.nature.com/articles/s41438-021-00475-5)
 
