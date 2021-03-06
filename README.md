@@ -2,6 +2,8 @@
 
 
 
+#### [wendel lab script in genomics](https://github.com/Wendellab)
+
 [New nanopore sequencing kit shows 99% raw single-molecule accuracy](https://nanoporetech.com/about-us/news/new-nanopore-sequencing-chemistry-developers-hands-set-deliver-q20-99-raw-read?utm_campaign=K19016%20Digest%20Light&utm_medium=email&_hsenc=p2ANqtz-_5mFig-6JGDyqY95Dzk-XsgcXvxzrfcuI7853pUAQ_mK8daU6ArTONXrIpNPXt2P7DEsagJhel3AVL4GDYlh30_V1a5g&_hsmi=113957430&utm_content=113955780&utm_source=hs_email&hsCtaTracking=9c29bb50-5573-40d6-95e0-cfaf9418f369%7C30e43cbe-e09c-48fa-be2f-3edb38fec038)
 
 
