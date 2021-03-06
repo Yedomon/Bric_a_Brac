@@ -1,5 +1,12 @@
 # Excellente resources for genomics
 
+
+#### WGDI Whole genome duplication identification tools | [github](https://github.com/SunPengChuan/wgdi) | [conda version](https://bioconda.github.io/recipes/wgdi/README.html) | [documentation](https://wgdi.readthedocs.io/en/latest/index.html)
+
+
+
+
+
 ##### Inspirational paper for using RNA seq to find genes of interest related to oil biosynthesis 
 
 [Identification of genes associated with the biosynthesis of unsaturated fatty acid and oil accumulation in herbaceous peony ‘Hangshao’ (Paeonia lactiflora ‘Hangshao’) seeds based on transcriptome analysis](https://link.springer.com/article/10.1186/s12864-020-07339-7)
