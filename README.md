@@ -2,6 +2,19 @@
 
 
 
+[New nanopore sequencing kit shows 99% raw single-molecule accuracy](https://nanoporetech.com/about-us/news/new-nanopore-sequencing-chemistry-developers-hands-set-deliver-q20-99-raw-read?utm_campaign=K19016%20Digest%20Light&utm_medium=email&_hsenc=p2ANqtz-_5mFig-6JGDyqY95Dzk-XsgcXvxzrfcuI7853pUAQ_mK8daU6ArTONXrIpNPXt2P7DEsagJhel3AVL4GDYlh30_V1a5g&_hsmi=113957430&utm_content=113955780&utm_source=hs_email&hsCtaTracking=9c29bb50-5573-40d6-95e0-cfaf9418f369%7C30e43cbe-e09c-48fa-be2f-3edb38fec038)
+
+
+
+
+
+
+
+
+
+![fig](https://nanoporetech.com/sites/default/files/s3/news/Zymo_Q20EA_alignment_accuracy_overall.png)
+
+
 #### [The genome of Magnolia biondii Pamp. provides insights into the evolution of Magnoliales and biosynthesis of terpenoids](https://www.nature.com/articles/s41438-021-00471-9)
 
 
