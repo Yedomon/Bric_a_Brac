@@ -1,6 +1,14 @@
 # Excellente resources for genomics
 
 
+
+
+#### [Chromosome-scale genome assembly of Cucumis hystrix—a wild species interspecifically cross-compatible with cultivated cucumber](https://www.nature.com/articles/s41438-021-00475-5)
+
+
+
+
+
 #### WGDI Whole genome duplication identification tools | [github](https://github.com/SunPengChuan/wgdi) | [conda version](https://bioconda.github.io/recipes/wgdi/README.html) | [documentation](https://wgdi.readthedocs.io/en/latest/index.html)
 
 
