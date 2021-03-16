@@ -1,5 +1,6 @@
 # Excellente resources for genomics
 
+#### [triannotate](https://southgreenplatform.github.io/trainings/trinityTrinotate/TP-annotation/)
 
 
 
