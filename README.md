@@ -1,5 +1,19 @@
 # Excellente resources for genomics
 
+[Genome assembly and population genomic analysis provide insights into the evolution of modern sweet corn](https://www.nature.com/articles/s41467-021-21380-4)
+
+
+
+![ng](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-21380-4/MediaObjects/41467_2021_21380_Fig1_HTML.png?as=webp)
+
+
+
+
+
+
+
+
+
 [A route to de novo domestication of wild allotetraploid rice](https://www.cell.com/cell/fulltext/S0092-8674(21)00013-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421000131%3Fshowall%3Dtrue)
 
 
