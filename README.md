@@ -1,5 +1,22 @@
 # Excellente resources for genomics
 
+
+
+
+
+[Genome-wide identification of mlo genes in the cultivated peanut (Arachis hypogaea L.)](https://link.springer.com/article/10.1007/s10681-021-02792-1)
+
+> Mildew Locus O may be applicable to pearl millet ----> try it !
+
+
+
+
+
+
+
+
+
+
 [Genome assembly and population genomic analysis provide insights into the evolution of modern sweet corn](https://www.nature.com/articles/s41467-021-21380-4)
 
 
