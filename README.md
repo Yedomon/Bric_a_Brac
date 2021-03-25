@@ -1,5 +1,17 @@
 # Excellente resources for genomics
 
+
+
+
+[Population genomics and haplotype analysis in spelt and bread wheat identifies a gene regulating glume color](https://www.nature.com/articles/s42003-021-01908-6)
+
+
+
+
+[Sorghum and Pearl Millet as Climate Resilient Crops for Food and Nutrition Security](https://www.frontiersin.org/research-topics/14666/sorghum-and-pearl-millet-as-climate-resilient-crops-for-food-and-nutrition-security#articles)
+
+
+
 #### [triannotate](https://southgreenplatform.github.io/trainings/trinityTrinotate/TP-annotation/)
 
 
