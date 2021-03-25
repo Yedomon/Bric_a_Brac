@@ -1,7 +1,12 @@
 # Excellente resources for genomics
 
 
+[Genome sequence and genetic diversity analysis of an under-domesticated orphan crop, white fonio (Digitaria exilis)](https://academic.oup.com/gigascience/article/10/3/giab013/6168810)
 
+
+
+
+![image](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/3/10.1093_gigascience_giab013/1/giab013fig1.jpeg?Expires=1619700858&Signature=p2nzO8NIimGkT6Ff6460CcPVaDQeXWN0XY0pX0diScQldR~b2SCzrbUWbfaKfM1VZ~XHYSsxhmWRh9lXShRoa~aNktL1PYkkf8fxAagvmubrDJDIR41iYZUjCwfQBT-pXZuwrrY08SATfCPk9TRxgbsfdCccV8TG54An3iI19fVnwDmTQEHbdX1fCQt1MwRIYKRS52m7xnAh8KG9MXbrccevci~dCmeoWjr3vFyzTov9y9wMWMOSV4bq6sPUOrNnLbAz0Ey0SROx5AoEUyCipIYChfgIRp0W-nNVfK5F2QHbVeWQjIKY0HTDX2vUXonkB3oyvlUeTRcoXJVJ2bOz-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 [Population genomics and haplotype analysis in spelt and bread wheat identifies a gene regulating glume color](https://www.nature.com/articles/s42003-021-01908-6)
 
