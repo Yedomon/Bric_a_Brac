@@ -2,6 +2,21 @@
 
 
 
+[Stay-Green Sorghum to the Rescue](https://www.croptrust.org/blog/stay-green-sorghum-to-the-rescue/)
+
+
+> “Wild species and landraces have developed traits that enable them to deal with extreme environments, but in some cases these are missing from more advanced varieties,” says Kilian. “With the onset of climate change—and more heat waves and droughts, more severe weather—finding these traits and using them to breed more resilient crops is essential.”
+
+
+
+
+[Top banana: developing varieties that resist disease](https://www.nature.com/articles/d41586-020-03194-4)
+
+
+
+![d](https://media.nature.com/w1172/magazine-assets/d41586-020-03194-4/d41586-020-03194-4_18572046.jpg)
+
+
 [comprehensive review of scaffolding methods in genome assembly](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab033/6149347)
 
 
