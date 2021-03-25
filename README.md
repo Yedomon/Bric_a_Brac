@@ -2,6 +2,12 @@
 
 
 
+[comprehensive review of scaffolding methods in genome assembly](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab033/6149347)
+
+
+
+
+
 [A Pipeline for Non-model Organisms for de novo Transcriptome Assembly, Annotation, and Gene Ontology Analysis Using Open Tools: Case Study with Scots Pine ](https://bio-protocol.org/e3912)
 
 
