@@ -1,6 +1,13 @@
 # Excellente resources for genomics
 
 
+
+
+[Mapping and Validation of Major Quantitative Trait Loci for Resistance to Northern Corn Leaf Blight Along With the Determination of the Relationship Between Resistances to Multiple Foliar Pathogens of Maize (Zea mays L.)](https://www.frontiersin.org/articles/10.3389/fgene.2020.548407/full)
+
+
+
+
 [Genome sequence and genetic diversity analysis of an under-domesticated orphan crop, white fonio (Digitaria exilis)](https://academic.oup.com/gigascience/article/10/3/giab013/6168810)
 
 
