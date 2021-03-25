@@ -1,5 +1,14 @@
 # Excellente resources for genomics
 
+[A route to de novo domestication of wild allotetraploid rice](https://www.cell.com/cell/fulltext/S0092-8674(21)00013-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421000131%3Fshowall%3Dtrue)
+
+
+
+
+
+
+
+![ds](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/24f490d4-be9d-4a44-8904-4d9127a8cb3d/fx1.jpg)
 
 
 [Stay-Green Sorghum to the Rescue](https://www.croptrust.org/blog/stay-green-sorghum-to-the-rescue/)
