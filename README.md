@@ -2,6 +2,8 @@
 
 
 
+[A Pipeline for Non-model Organisms for de novo Transcriptome Assembly, Annotation, and Gene Ontology Analysis Using Open Tools: Case Study with Scots Pine ](https://bio-protocol.org/e3912)
+
 
 [Mapping and Validation of Major Quantitative Trait Loci for Resistance to Northern Corn Leaf Blight Along With the Determination of the Relationship Between Resistances to Multiple Foliar Pathogens of Maize (Zea mays L.)](https://www.frontiersin.org/articles/10.3389/fgene.2020.548407/full)
 
