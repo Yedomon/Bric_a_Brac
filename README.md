@@ -1,5 +1,15 @@
 # Excellente resources for genomics
 
+
+[Improved maize reference genome with single-molecule technologies](https://pubmed.ncbi.nlm.nih.gov/28605751/)
+
+inspiration for Goenbaek qualitty genome 
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature22971/MediaObjects/41586_2017_BFnature22971_Fig1_HTML.jpg?as=webp)
+
+
+
+
 lavender genome [genome paper in 2021](https://www.nature.com/articles/s41438-021-00490-6.pdf) | but before in 2020 only the spike transcriptome [paper](https://www.nature.com/articles/s41598-020-63950-4#Sec11)
 
 
