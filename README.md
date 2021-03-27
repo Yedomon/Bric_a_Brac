@@ -1,5 +1,10 @@
 # Excellente resources for genomics
 
+lavender genome [genome paper in 2021](https://www.nature.com/articles/s41438-021-00490-6.pdf) | but before in 2020 only the spike transcriptome [paper](https://www.nature.com/articles/s41598-020-63950-4#Sec11)
+
+
+a collection pf horticulture plant [genome](Horticultural plant genomes)
+
 
 
 
