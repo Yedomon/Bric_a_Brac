@@ -1,7 +1,7 @@
 # Excellente resources for genomics
 
 
-Data release |  [Chromosome-level genome assembly of the humpback puffer, Tetraodon palembangensis](https://gigabytejournal.com/articles/17) | [Protocol.io](https://www.protocols.io/view/protocols-for-34-chromosome-level-genome-assembly-bkczksx6)
+Data release |  [Chromosome-level genome assembly of the humpback puffer, Tetraodon palembangensis](https://gigabytejournal.com/articles/17) | [Protocol.io](https://www.protocols.io/view/protocols-for-34-chromosome-level-genome-assembly-bkczksx6) | [Preprint](https://www.preprints.org/manuscript/202008.0694/v1)
 
 
 [Improved maize reference genome with single-molecule technologies](https://pubmed.ncbi.nlm.nih.gov/28605751/)
