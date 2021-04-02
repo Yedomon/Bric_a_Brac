@@ -1,7 +1,11 @@
 # Excellente resources for genomics
 
+Data release GigaByte | [The genome of Tripterygium wilfordii and characterization of the celastrol biosynthesis pathway](https://gigabytejournal.com/articles/14)
 
-Data release |  [Chromosome-level genome assembly of the humpback puffer, Tetraodon palembangensis](https://gigabytejournal.com/articles/17) | [Protocol.io](https://www.protocols.io/view/protocols-for-34-chromosome-level-genome-assembly-bkczksx6) | [Preprint](https://www.preprints.org/manuscript/202008.0694/v1)
+> J'ai aime le design transcriptome, la procedure pour l'asembly et le evolutionnary analysis.n Aussi le volet Bionano. Cela me sera utile apres pour ma redaction.
+
+
+Data release GigaByte |  [Chromosome-level genome assembly of the humpback puffer, Tetraodon palembangensis](https://gigabytejournal.com/articles/17) | [Protocol.io](https://www.protocols.io/view/protocols-for-34-chromosome-level-genome-assembly-bkczksx6) | [Preprint](https://www.preprints.org/manuscript/202008.0694/v1)
 
 
 [Improved maize reference genome with single-molecule technologies](https://pubmed.ncbi.nlm.nih.gov/28605751/)
