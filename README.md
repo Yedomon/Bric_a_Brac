@@ -4,6 +4,11 @@
 
 New paper in Nature communications with data and code availability | Check the paper [here](https://www.nature.com/articles/s41467-020-20508-2?hss_channel=tw-2884394676&utm_campaign=phasebook&utm_medium=email&_hsmi=119964439&_hsenc=p2ANqtz-_XwfQ3wbOy5yKr5My-cn5DT5r5u4tC5LR2Li4Ey57yzX2xGok-2SZmXgsw0UNoeQLU0KvFwDZaZD_p-iy8CtjIZOLZ-g&utm_content=119964439&utm_source=hs_email#code-availability) |The title is *Chromosome-level genome assembly of Ophiorrhiza pumila reveals the evolution of camptothecin biosynthesis*| [The github repository](https://github.com/amit4mchiba/Codes-and-script-for-Ophiorrhiza-pumila-genome-manuscript) | [Zenodo](https://zenodo.org/record/4279079#.YG5sZc_itPY)
 
+The pipeline
+
+![pipe](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20508-2/MediaObjects/41467_2020_20508_Fig1_HTML.png?as=webp)
+
+The comparative genomics
 
 ![comp](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20508-2/MediaObjects/41467_2020_20508_Fig3_HTML.png?as=webp)
 
