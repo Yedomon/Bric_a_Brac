@@ -1,6 +1,6 @@
 # Excellente resources for genomics
 
-
+[HiC-Hiker: a probabilistic model to determine contig orientation in chromosome-length scaffolds with Hi-C](https://academic.oup.com/bioinformatics/article/36/13/3966/5830260)
 
 New paper in Nature communications with data and code availability | Check the paper [here](https://www.nature.com/articles/s41467-020-20508-2?hss_channel=tw-2884394676&utm_campaign=phasebook&utm_medium=email&_hsmi=119964439&_hsenc=p2ANqtz-_XwfQ3wbOy5yKr5My-cn5DT5r5u4tC5LR2Li4Ey57yzX2xGok-2SZmXgsw0UNoeQLU0KvFwDZaZD_p-iy8CtjIZOLZ-g&utm_content=119964439&utm_source=hs_email#code-availability) |The title is *Chromosome-level genome assembly of Ophiorrhiza pumila reveals the evolution of camptothecin biosynthesis*| [The github repository](https://github.com/amit4mchiba/Codes-and-script-for-Ophiorrhiza-pumila-genome-manuscript) | [Zenodo](https://zenodo.org/record/4279079#.YG5sZc_itPY)
 
