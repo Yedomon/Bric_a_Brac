@@ -3,6 +3,12 @@
 
 [High density genetic map and quantitative trait loci (QTLs) associated with petal number and flower diameter identified in tetraploid rose](https://www.sciencedirect.com/science/article/pii/S2095311920634165)
 
+
+[Can omics deliver temperature resilient ready-to-grow crops?](https://www.tandfonline.com/doi/full/10.1080/07388551.2021.1898332)
+
+
+![img](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/ibty20/0/ibty20.ahead-of-print/07388551.2021.1898332/20210407/images/large/ibty_a_1898332_f0001_c.jpeg)
+
 [HiC-Hiker: a probabilistic model to determine contig orientation in chromosome-length scaffolds with Hi-C](https://academic.oup.com/bioinformatics/article/36/13/3966/5830260)
 
 New paper in Nature communications with data and code availability | Check the paper [here](https://www.nature.com/articles/s41467-020-20508-2?hss_channel=tw-2884394676&utm_campaign=phasebook&utm_medium=email&_hsmi=119964439&_hsenc=p2ANqtz-_XwfQ3wbOy5yKr5My-cn5DT5r5u4tC5LR2Li4Ey57yzX2xGok-2SZmXgsw0UNoeQLU0KvFwDZaZD_p-iy8CtjIZOLZ-g&utm_content=119964439&utm_source=hs_email#code-availability) |The title is *Chromosome-level genome assembly of Ophiorrhiza pumila reveals the evolution of camptothecin biosynthesis*| [The github repository](https://github.com/amit4mchiba/Codes-and-script-for-Ophiorrhiza-pumila-genome-manuscript) | [Zenodo](https://zenodo.org/record/4279079#.YG5sZc_itPY)
