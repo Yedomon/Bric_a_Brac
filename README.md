@@ -1,4 +1,30 @@
 # Excellente resources for genomics
+
+[A chromosome‐level genome of the spider Trichonephila antipodiana reveals the genetic basis of its polyphagy and evidence of an ancient whole-genome duplication event](https://academic.oup.com/gigascience/article/10/3/giab016/6178709)
+
+The spider
+
+![img1](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/3/10.1093_gigascience_giab016/1/m_giab016fig1.jpeg?Expires=1621198014&Signature=L9fw~HAsv4ZZmMiw7Lp-0Shegpr9FCGSB91lhRcPs6WnPnMv4zX4unuJG97l~GIm~mf~jlRkeZjv8XLZtoRcwJILmAhX6rXOSarfLihRJtO7UbWCjX0dgcqoXHdaZxFKipu7m~QOl9VDH88EyZdZ-VdbyTto3tGw73stpIX4CYLU7kGr-S7Yfni0R5ce25O3sBJXyZRfbUsTfC5gx95MiJy1EeXxBAfwCFh2pnkk~L0AMHZzb947wA-GPtuhkK-s-JxwZC-G34x8TLU3L2yfpqIHSe044rR1G-upVdI9SYBf8xZaA-NESp7F1Re8NiG1jiCB~SqYFpjL0ySWuF3H3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+The comparative analysis
+
+
+> Orthologous gene clusters were classified using OrthoFinder v2.3.8 (OrthoFinder, RRID:SCR_017118) [59] across the well-annotated and well-assembled genomes of 10 species covering representative Chelicerata lineages along with T. antipodiana: 1 Scorpiones (Centruroides sculpturatus, GCA_000671375.2), 5 Acari (Dermatophagoides pteronyssinus, GCA_001901225.2; Galendromus occidentalis, GCA_000255335.1; Tetranychus urticae, GCA_000239435.1; Varroa destructor, GCA_002443255.1; I. scapularis, GCA_002892825.2), 3 Araneae (P. tepidariorum, GCA_000365465.3; S. mimosarum, GCA_000611955.2; T. clavipes, GCA_002102615.1), and 1 Xiphosura (Tachypleus tridentatus). With the exception of T. tridentatus [60], most protein sequences were downloaded from the NCBI database.
+
+> To infer the phylogeny of these species, the protein sequences of 236 single-copy genes were separately aligned using MAFFT v7.394 (MAFFT, RRID:SCR_011811) [61] based on the L-INS-I strategy. The resulting alignments were trimmed using trimAl v1.4.1 (trimAl, RRID:SCR_017334) [62] to remove sites of unclear homology using the heuristic method “automated1.” The resulting alignments were concatenated using FASconCAT-G v1.04 [63]. Genes that violated the models were removed prior to tree inference. Finally, maximum likelihood reconstructions were performed using IQ-TREE v2.0.7 (IQ-TREE, RRID:SCR_017254) [64] with extended model selection followed by tree inference, model set by LG, with the number of partition pairs for the rcluster algorithm, replicates for ultrafast bootstrap, and Shimodaira–Hasegawa approximate likelihood ratio tests being 1,000, 10, and 1,000, respectively.
+
+> The divergence time was estimated with MCMCTree within the package PAML v4.9j (PAML, RRID:SCR_014932) [65] using parameters with independent clock rates; BDparas-related birth, death, and sampling rates of 1, 10, and 0.1, respectively; kappa_gamma of 62; alpha_gamma of 11; rgene_gamma of 2,201; and sigma2_gamma of 1,101. Fossil records were derived from the paleobiodb database [66] and the recently described fossils Eramoscorpius brucensis [67] and Parioscorpio venator [68], with Chelicerata (genus Paleomerus, 516‒541 million years ago [Mya]), Parasitiformes (Deinocroton draculin, 93.5‒145.5 Mya), and Arachnopulmonata (E. brucensis and P. venator, 435‒439 Mya).
+
+Café v4.2.1 (CAFÉ, RRID:SCR_005983) [69] was used to identify the likelihood of gene family expansion and contraction using the single birth–death parameter λ and a P-value threshold of 0.01. GO and KEGG functional enrichment of the significantly expanded families was assessed using Tbtools v1.045 [70].
+
+
+![img2](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/3/10.1093_gigascience_giab016/1/giab016fig3.jpeg?Expires=1621563080&Signature=b15DpMwBCL1lgjzvp3oibIXHdM5ZTB2ivFBvSoGvq6odl6SrORGf0jrbUiNQnEHmPXviVCZVZkPjWcNZ67tdcsbSpLFbjt8VczjYWc6nwCG6wdiMMlIDdUKBJ8DbqUNE5Aeuv4p22VxQKmRTA-VgDkbayp2R5foypvGtkmglKK3vLKlhvZC620VU7KBcZlwI1yZCyGNwEhH66qCErzRUnYhUezR5UbXHjAoV72SzAhqz2B9wsPsIKlzGEW-loWtfBixSAt8fl2IgtHdKtZ1h~RxmiJ12cpey8nxYvwZv8bM4vDKN8brxd4lfCZZh-cMAi98l7lYUsbC65EBuV3yeAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+
+
+
 [Genome-wide association and transcriptome analysis of root color-related genes in Gossypium arboreum L.](https://link.springer.com/article/10.1007/s00425-021-03622-3)
 
 [High density genetic map and quantitative trait loci (QTLs) associated with petal number and flower diameter identified in tetraploid rose](https://www.sciencedirect.com/science/article/pii/S2095311920634165)
