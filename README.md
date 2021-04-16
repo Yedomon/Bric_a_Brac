@@ -1,5 +1,5 @@
 # Excellente resources for genomics
-
+[Genome-wide association and transcriptome analysis of root color-related genes in Gossypium arboreum L.](https://link.springer.com/article/10.1007/s00425-021-03622-3)
 
 [High density genetic map and quantitative trait loci (QTLs) associated with petal number and flower diameter identified in tetraploid rose](https://www.sciencedirect.com/science/article/pii/S2095311920634165)
 
