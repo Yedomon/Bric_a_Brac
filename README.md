@@ -1,5 +1,16 @@
 # Excellente resources for genomics
 
+[Telomere-to-telomere gapless chromosomes of banana using nanopore sequencing](https://www.biorxiv.org/content/10.1101/2021.04.16.440017v1?rss=1)
+
+
+
+
+
+
+
+
+
+
 [A chromosome‐level genome of the spider Trichonephila antipodiana reveals the genetic basis of its polyphagy and evidence of an ancient whole-genome duplication event](https://academic.oup.com/gigascience/article/10/3/giab016/6178709)
 
 The spider
