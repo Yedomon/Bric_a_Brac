@@ -1,5 +1,22 @@
 # Excellente resources for genomics
 
+
+I just see today a history telling about cucumis
+
+
+In 2019 a chinese group generated a high-quality assembly of the melon [Payzawat](https://www.cell.com/iscience/pdf/S2589-0042(19)30430-4.pdf) using a combionation of short-read sequencing, single-molecule real-time sequencing, Hi-C, and a high-density genetic map.
+
+
+![img](https://ars.els-cdn.com/content/image/1-s2.0-S2589004219304304-gr1.jpg)
+
+This year 2021, another chinese group generated [Cucumis metuliferus and Cucumis melo](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15279) genome were released 
+
+So finaly there are two melo and one metuliferus. It will be nice tutorial for my thesis. 
+
+
+
+
+
 a free zoom named [wonder](https://www.wonder.me/)
 
 [Telomere-to-telomere gapless chromosomes of banana using nanopore sequencing](https://www.biorxiv.org/content/10.1101/2021.04.16.440017v1?rss=1)
