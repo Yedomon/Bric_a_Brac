@@ -1,5 +1,7 @@
 # Excellente resources for genomics
 
+Just found Jordan A Dowell from Plantae community [youtube video](https://youtu.be/TT6phnTw8_w) | He wrote a nice paper on [GWAS](https://academic.oup.com/jhered/article/110/3/275/5371358?login=true) |  Can ask him R code for GWAS .
+
 
 I just see today a history telling about cucumis
 
