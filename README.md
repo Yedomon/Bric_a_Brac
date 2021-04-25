@@ -1,5 +1,15 @@
 # Excellente resources for genomics
 
+
+Make chromosome without reference 
+
+
+
+[AFLAP: assembly-free linkage analysis pipeline using k-mers from genome sequencing data](https://link.springer.com/article/10.1186/s13059-021-02326-x)
+
+
+
+
 Just found Jordan A Dowell from Plantae community [youtube video](https://youtu.be/TT6phnTw8_w) | He wrote a nice paper on [GWAS](https://academic.oup.com/jhered/article/110/3/275/5371358?login=true) | I was impress by the circular manathan plot of GWAS. So I google and I found resource [of Yin Lin](https://github.com/YinLiLin/CMplot) | [Yan ](https://www.r-graph-gallery.com/101_Manhattan_plot.html)
 
 
