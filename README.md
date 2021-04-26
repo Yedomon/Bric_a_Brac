@@ -16,7 +16,7 @@ It worked for [yam](https://www.mdpi.com/2073-4425/11/3/274/htm), [A. thaliana](
 
 #DNADay2021 #Genomics #PlantSci #SciComm
 
-![img](https://twitter.com/boas_pucker/status/1386357346184704002/photo/1)
+![img](https://github.com/Yedomon/Bric_a_Brac/blob/master/dna%20prep.jpg?raw=true)
 
 
 When ready consider to work with 
