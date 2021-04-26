@@ -3,7 +3,10 @@
 
 [PCAtools](https://github.com/kevinblighe/PCAtools)
 
-![img](https://twitter.com/ensembl/status/1386294156755095552/photo/1)
+
+nice infography from Ensembl on [twitter](https://twitter.com/ensembl/status/1386294156755095552)
+
+![img](https://github.com/Yedomon/Bric_a_Brac/blob/master/genes.jpg)
 
 
 
