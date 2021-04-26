@@ -1,5 +1,9 @@
 # Excellente resources for genomics
 
+Review : [Epigenetics and epigenomics: underlying mechanisms, relevance, and implications in crop improvement](https://link.springer.com/article/10.1007/s10142-020-00756-7)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10142-020-00756-7/MediaObjects/10142_2020_756_Fig2_HTML.png?as=webp)
 
 
 Example of epigenomics paper | [The chromosome-level Hemerocallis citrina Borani genome provides new insights into the rutin biosynthesis and the lack of colchicine](https://www.nature.com/articles/s41438-021-00539-6)
