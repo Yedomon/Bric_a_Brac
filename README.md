@@ -1,6 +1,42 @@
 # Excellente resources for genomics
 
 
+[PCAtools](https://github.com/kevinblighe/PCAtools)
+
+![img](https://twitter.com/ensembl/status/1386294156755095552/photo/1)
+
+
+
+Celebrating the #DNADay21 by sharing an illustration of our high molecular weight DNA extraction [protocol](https://www.protocols.io/view/plant-dna-extraction-and-preparation-for-ont-seque-bcvyiw7w)
+
+It worked for [yam](https://www.mdpi.com/2073-4425/11/3/274/htm), [A. thaliana](https://www.biorxiv.org/content/10.1101/2021.03.03.433755v2), and many other plants
+
+#DNADay2021 #Genomics #PlantSci #SciComm
+
+![img](https://twitter.com/boas_pucker/status/1386357346184704002/photo/1)
+
+
+When ready consider to work with 
+
+Genomics & Cell Characterization Core Facility
+SHIPPING ADDRESS: University of Oregon/GC3F,
+1318 Franklin Blvd, Room 273 Onyx Bridge
+Eugene , OR 97403
+Office: Klamath Hall, 288
+P: 541-346-5170 P: 541-346-5130
+
+Contact Us
+
+genomics@uoregon.edu
+
+
+
+The cost of pacbio hifi is [here](https://gc3f.uoregon.edu/pacbio-sequencing-2)
+
+![here](https://gc3fstorage.uoregon.edu/IMAGES/PacBio-prices(FY21).PNG)
+
+
+
 Make chromosome without reference 
 
 
@@ -12,7 +48,13 @@ Make chromosome without reference
 
 Just found Jordan A Dowell from Plantae community [youtube video](https://youtu.be/TT6phnTw8_w) | He wrote a nice paper on [GWAS](https://academic.oup.com/jhered/article/110/3/275/5371358?login=true) | I was impress by the circular manathan plot of GWAS. So I google and I found resource [of Yin Lin](https://github.com/YinLiLin/CMplot) | [Yan ](https://www.r-graph-gallery.com/101_Manhattan_plot.html)
 
+Other provider in UK
 
+
+[Edinburgh Genomics](https://genomics.ed.ac.uk/services/long-read-sequencing)
+
+
+[Earlham Institute](https://www.earlham.ac.uk/genomics-services)
 
 
 
