@@ -1,6 +1,15 @@
 # Excellente resources for genomics
 
 
+[The chromosome-level Hemerocallis citrina Borani genome provides new insights into the rutin biosynthesis and the lack of colchicine](https://www.nature.com/articles/s41438-021-00539-6)
+
+
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41438-021-00539-6/MediaObjects/41438_2021_539_Fig1_HTML.png?as=webp)
+
+
+
 [PCAtools](https://github.com/kevinblighe/PCAtools)
 
 
