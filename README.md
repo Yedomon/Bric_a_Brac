@@ -1,7 +1,8 @@
 # Excellente resources for genomics
 
 
-[The chromosome-level Hemerocallis citrina Borani genome provides new insights into the rutin biosynthesis and the lack of colchicine](https://www.nature.com/articles/s41438-021-00539-6)
+
+Example of epigenomics paper | [The chromosome-level Hemerocallis citrina Borani genome provides new insights into the rutin biosynthesis and the lack of colchicine](https://www.nature.com/articles/s41438-021-00539-6)
 
 
 
