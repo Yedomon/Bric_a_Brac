@@ -10,6 +10,14 @@ From [High-density mapping for gray leaf spot resistance using two related tropi
 
 
 
+An other one 
+
+> SNPs were identified based on the polymorphic SLAF tag information using the software program GATK 3.7.0 (McKenna et al. 2010) and SAMtools 1.9 (Li et al. 2009). The intersection of SNPs determined by GATK and SAMtools were considered as potential high-quality SNPs. Samples with coverage less than 10-fold were removed, and consistent SNPs were selected using the criteria of minor allele frequency (MAF) > 0.05 and integrity > 0.8.
+
+
+From [SNP detection and population structure evaluation of Salix gordejevii Y. L. Chang et Skv. in Hunshandake Sandland, Inner Mongolia, China](https://link.springer.com/article/10.1007/s12298-021-00994-4)
+
+
 
 BREAKING News, whole genome resequencing and evolutionnary studies example with lettuce case 
 
