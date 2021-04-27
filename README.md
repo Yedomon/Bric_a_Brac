@@ -1,5 +1,14 @@
 # Excellente resources for genomics
 
+For linkage map construction | The criteria of SNP filtration after SNP calling
+
+
+> To ensure the quality of genetic map, the polymorphic SNPs were filtered according to the following rules: (1) filtering SNPs with sequencing depths of < tenfold between both parents, (2) screening genotypes covering at least 70% of all offspring, (3) filtering the SNP markers with segregation distortion test P < 0.01 by Chi-square test. In the end, genetic linkage maps were constructed from the SNP genotypes in both RILs using the JoinMap software version 4.0.
+
+
+From [High-density mapping for gray leaf spot resistance using two related tropical maize recombinant inbred line populations](https://link.springer.com/article/10.1007/s11033-021-06350-9)
+
+
 
 
 BREAKING News, whole genome resequencing and evolutionnary studies example with lettuce case 
