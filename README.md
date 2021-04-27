@@ -2,7 +2,7 @@
 
 
 
-BREAKING News, whole genome resequencing and evolutionnary studies example with lettuce case | A blog note from 
+BREAKING News, whole genome resequencing and evolutionnary studies example with lettuce case 
 
 
 [Whole-genome resequencing of 445 Lactuca accessions reveals the domestication history of cultivated lettuce](https://www.nature.com/articles/s41588-021-00831-0) 
