@@ -1,5 +1,34 @@
 # Excellente resources for genomics
 
+
+
+BREAKING News, whole genome resequencing and evolutionnary studies example with lettuce case | A blog note from 
+
+
+[Whole-genome resequencing of 445 Lactuca accessions reveals the domestication history of cultivated lettuce](https://www.nature.com/articles/s41588-021-00831-0) 
+
+
+A press release [here](https://www.wur.nl/en/newsarticle/The-DNA-of-lettuce-unravelled-in-6000-years-from-weed-to-beloved-vegetable.htm)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00831-0/MediaObjects/41588_2021_831_Fig1_HTML.png?as=webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Review : [Epigenetics and epigenomics: underlying mechanisms, relevance, and implications in crop improvement](https://link.springer.com/article/10.1007/s10142-020-00756-7)
 
 
