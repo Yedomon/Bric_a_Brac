@@ -11,6 +11,9 @@ BREAKING News, whole genome resequencing and evolutionnary studies example with 
 A press release [here](https://www.wur.nl/en/newsarticle/The-DNA-of-lettuce-unravelled-in-6000-years-from-weed-to-beloved-vegetable.htm)
 
 
+[Code available](https://github.com/popgenome/lettuce2020)
+
+
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00831-0/MediaObjects/41588_2021_831_Fig1_HTML.png?as=webp)
 
 
