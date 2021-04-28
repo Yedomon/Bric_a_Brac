@@ -20,7 +20,7 @@ But when I wanted to get the web link of the paper 2 by pasting the title in goo
 
 
 
-![img](https://www.nature.com/articles/s41467-020-14776-1/figures/1)
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-14776-1/MediaObjects/41467_2020_14776_Fig1_HTML.png?as=webp)
 
 
 
