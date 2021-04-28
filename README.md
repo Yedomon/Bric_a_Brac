@@ -1,12 +1,26 @@
 # Excellente resources for genomics
 
-By reading the first paper from genome collection of Molecular Plant journal, I noticed Qing Zhao, a specialist for metabolite investigation in plant. He was a PI for an other genome project published in the Gigascience sister genome Gigabyte. This guy has a good skill for metabolic pathway work. Interestingly, he used the same approaches (yeast assay and gene cloning) to prove the role of the identified gene. More interestingly, he applied a time divergence gene inference with his gene of interest by setting available date. Amaizing guy. See [paper 1](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30131-5#fig3) in 2019 [Paper 2](https://gigabytejournal.com/articles/14) in 2020.
+By reading the first paper from genome collection of Molecular Plant journal, I noticed Qing Zhao, a specialist for metabolite investigation in plant. He was a PI for an other genome project published in the Gigascience sister genome journal Gigabyte. This guy has a good skill for metabolic pathway work. Interestingly, he used the same approaches (yeast assay and gene cloning) to prove the role of the identified genes. More interestingly, he applied a time divergence gene inference with his gene of interest by setting available date. Amaizing guy. See [paper 1](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30131-5#fig3) in 2019 
+
+
+
+![img](https://marlin-prod.literatumonline.com/cms/attachment/b18cf9a1-cb49-4f54-806a-5891dcd77e03/gr2.jpg)
+
+
+
+
+[Paper 2](https://gigabytejournal.com/articles/14) in 2021.
+
+
+![img](https://gigabytejournal.com/admin/apis/public/article_shell/uploads/article_files/Gigabyte/Gigabyte/2021/gigabyte14/gigabyte14-g005.jpg)
+
+
 
 But when I wanted to get the web link of the paper 2 by pasting the title in google, I found another team from China that worked on the same genome but with another metabolic pathway. They published in Nature communications. [Such a good paper](https://www.nature.com/articles/s41467-020-19253-3). Finally after the nature paper was published on 20 February 2020, and corrected on 15 October 2020, Qing Zhao team submited on 10 October 2020 and get published on 28 February 2021 in Gygabyte as a data release.
 
 
 
-
+![img](https://www.nature.com/articles/s41467-020-14776-1/figures/1)
 
 
 
