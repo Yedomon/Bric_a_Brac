@@ -1,5 +1,40 @@
 # Excellente resources for genomics
 
+
+
+Breaking News!!!
+
+28 April 2021
+
+Arang Rhie et al. vient de publier une semi version de 17 species dans le cadre du pipeline officiel 
+[Towards complete and error-free genome assemblies of all vertebrate species](https://www.nature.com/articles/s41586-021-03451-0)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03451-0/MediaObjects/41586_2021_3451_Fig1_HTML.png?as=webp)
+
+
+The pipeline
+
+![image](https://user-images.githubusercontent.com/45568831/116543774-43bac900-a929-11eb-98be-6b90b6dfc1dc.png)
+
+
+
+
+And the special issue of Nature dedicated to the phase I of the VGP project
+
+
+[https://www.nature.com/collections/cabiagjdfj/](https://www.nature.com/collections/cabiagjdfj/)
+
+
+
+
+
+
+
+
+
+
+
+
 By reading the first paper from genome collection of Molecular Plant journal, I noticed Qing Zhao, a specialist for metabolite investigation in plant. He was a PI for an other genome project published in the Gigascience sister genome journal Gigabyte. This guy has a good skill for metabolic pathway work. Interestingly, he used the same approaches (yeast assay and gene cloning) to prove the role of the identified genes. More interestingly, he applied a time divergence gene inference with his gene of interest by setting available date. Amaizing guy. See [paper 1](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30131-5#fig3) in 2019 
 
 
