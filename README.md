@@ -1,6 +1,6 @@
 # Excellente resources for genomics
 
-Something interesting in Hazelnut genome project 
+Something interesting in Hazelnut genome project | There are ~20 species of Hazelnut.
 
 
 - Corylus heterophylla Fisch. | China | Published in 2021 | Illumina + Nanopore + Hi-C | [Paper](https://academic.oup.com/gigascience/article/10/4/giab027/6237163)
