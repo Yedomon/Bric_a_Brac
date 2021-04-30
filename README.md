@@ -12,11 +12,6 @@ Something interesting in Hazelnut genome project | There are ~20 species of Haze
 - The Turkish guy published the chloroplast genome paper first in 2019 before the whole genome in 2020 | [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6253-5) 
  
 
-
-
-
-
-
 Breaking News!!!
 
 28 April 2021
@@ -42,8 +37,13 @@ And the special issue of Nature dedicated to the phase I of the VGP project
 
 
 
+A dedidacted phase assembly from FALCON using Hi-C data 
 
 
+[Extended haplotype-phasing of long-read de novo genome assemblies using Hi-C](https://www.nature.com/articles/s41467-020-20536-y) | [PPT](https://ucdavis-bioinformatics-training.github.io/2018-Dec-Genome-Assembly/falcon-phase/FALCON-Phase-talk-2018.pdf)
+
+
+Heng Li also proposed Hi-C phasing with paired-end short reads in two FASTQ files [hifiasm](https://github.com/chhylp123/hifiasm)
 
 
 
