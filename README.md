@@ -1,5 +1,20 @@
 # Excellente resources for genomics
 
+Something interesting in Hazelnut genome project 
+
+
+- Corylus heterophylla Fisch. | China | Published in 2021 | Illumina + Nanopore + Hi-C | [Paper](https://academic.oup.com/gigascience/article/10/4/giab027/6237163)
+
+- Corylus mandshurica | China | Published in 2021 | Illumina + Nanopre + Hi-C | [Paper](https://www.nature.com/articles/s41438-021-00495-1#Sec11)
+
+- Corylus avellana L. | Turkey | Published in 2020 | Illumina + Nanopore + Hi-C | [Paper](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15099)
+
+- The Turkish guy published the chloroplast genome paper first in 2019 before the whole genome in 2020 | [Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6253-5) 
+ 
+
+
+
+
 
 
 Breaking News!!!
