@@ -1,5 +1,17 @@
 # Excellente resources for genomics
 
+
+
+
+
+During the University of Oregon/PacBio Virtual Launch Party I discovered Yim Lab at University of Nevada. A lab dedicated to plant genomics. Here is the [website](https://www.plantbioinformatics.org/)
+
+Nice teaching material [here](https://plantgenomicslab.github.io/BCH709/)
+
+
+
+
+
 Something interesting in Hazelnut genome project | There are ~20 species of Hazelnut.
 
 
