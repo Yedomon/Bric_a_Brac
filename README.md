@@ -1,6 +1,16 @@
 # Excellente resources for genomics
 
 
+29 April 2021 | Nature editorial | Importance of transparency in Life Science research domain
+
+
+[Good research begins long before papers get written](https://www.nature.com/articles/d41586-021-01167-9)
+
+
+
+![img](https://media.nature.com/lw800/magazine-assets/d41586-021-01167-9/d41586-021-01167-9_19117598.jpg)
+
+
 
 
 
