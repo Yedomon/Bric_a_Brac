@@ -1,4 +1,12 @@
 # Excellente resources for genomics
+
+- #### [Genome of Tripterygium wilfordii and identification of cytochrome P450 involved in triptolide biosynthesis](https://www.nature.com/articles/s41467-020-14776-1#change-history)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-14776-1/MediaObjects/41467_2020_14776_Fig1_HTML.png?as=webp)
+
+
+
 - #### [Genome-enabled discovery of anthraquinone biosynthesis in Senna tora](https://www.nature.com/articles/s41467-020-19681-1)
 
 
