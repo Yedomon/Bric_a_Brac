@@ -1,7 +1,37 @@
 # Excellente resources for genomics
 
+[Leaf nutrient content and transcriptomic analyses of endive (Cichorium endivia) stressed by downpour-induced waterlog reveal a gene network regulating kestose and inulin contents](https://www.nature.com/articles/s41438-021-00513-2)
 
-29 April 2021 | Nature editorial | Importance of transparency in Life Science research domain
+
+
+30 April 2021 | [Comparative transcriptomic analysis reveals the regulatory mechanism of the gibberellic acid pathway of Tartary buckwheat (Fagopyrum tataricum (L.) Gaertn.) dwarf mutants](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-02978-8)
+
+
+
+
+01 May 2021 | [Whole-genome resequencing of Osmanthus fragrans provides insights into flower color evolution](https://www.nature.com/articles/s41438-021-00531-0#Sec2)
+
+
+
+
+> Fresh, healthy leaves were harvested from the best-growing individuals and immediately frozen in liquid nitrogen, followed by preservation at −80 °C in the laboratory prior to DNA extraction. High-quality genomic DNA was extracted using a modified Cetyltrimethyl Ammonium Bromide method16. For genome sequencing, single-molecule real-time (SMRT) libraries were constructed and sequenced using a PacBio Sequel II instrument (Pacific Biosciences, Menlo Park, CA, USA) at Frasergen Bioinformatics Co., Ltd. (Wuhan, China). For resequencing, 1 μg DNA per sample was used as the input material, and sequencing libraries were generated using the VAHTS Universal DNA Library Prep Kit for MGI (Vazyme, Nanjing, China) following the manufacturer’s recommendations. Library quantification and size measurement were performed using a Qubit 3.0 Fluorometer (Life Technologies, Carlsbad, CA, USA) and a Bioanalyzer 2100 system (Agilent Technologies, CA, USA). Subsequently, libraries of 122 accessions were constructed and sequenced on an MGI-SEQ 2000 platform at Frasergen Bioinformatics Co., Ltd.
+
+
+
+
+
+
+
+[Genetic diversity structure of western-type carrots](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-02980-0)
+
+
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12870-021-02980-0/MediaObjects/12870_2021_2980_Fig7_HTML.png?as=webp)
+
+
+
+29 April 2021 | Nature editorial | Importance of transparency in Life Sciences
 
 
 [Good research begins long before papers get written](https://www.nature.com/articles/d41586-021-01167-9)
