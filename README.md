@@ -1,5 +1,29 @@
 # Excellente resources for genomics
 
+[Genome-wide association mapping in maize: status and prospects](https://link.springer.com/article/10.1007/s13205-021-02799-4)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13205-021-02799-4/MediaObjects/13205_2021_2799_Fig1_HTML.png?as=webp)
+
+
+
+
+Factors affecting GWAS
+
+
+
+
+![IMG](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13205-021-02799-4/MediaObjects/13205_2021_2799_Fig2_HTML.png?as=webp)
+
+
+
+
+
+
+
+
+[Pathway-based analysis of anthocyanin diversity in diploid potato](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250861)
+
+
 [Leaf nutrient content and transcriptomic analyses of endive (Cichorium endivia) stressed by downpour-induced waterlog reveal a gene network regulating kestose and inulin contents](https://www.nature.com/articles/s41438-021-00513-2)
 
 
