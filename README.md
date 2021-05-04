@@ -1,5 +1,33 @@
 # Excellente resources for genomics
 
+[Recent Applications of RNA Sequencing in Food and Agriculture](https://www.intechopen.com/online-first/recent-applications-of-rna-sequencing-in-food-and-agriculture)
+
+
+[Sequencing, Assembly and Annotation of the Whole-Insect Genome of Lymantria dispar dispar, the European Gypsy Moth](https://watermark.silverchair.com/jkab150.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAscwggLDBgkqhkiG9w0BBwagggK0MIICsAIBADCCAqkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtdETOGSDTi0vZvAaAgEQgIICepDu-2PGLJyxkwB9_cfUq3VZVyYlnCppiUeWlMYG4WS2-bgSWyHsWnZTEdJUSonLcNTjFlskF7JAOexBHS63Q-dOqCnyO_GYFlQ5x8LNAYkzN0NCV7BgvyWxPnFt4O6wE0RXh-X6PQhNQX_oGEvYFNiB90CjC4e-TqSITEXFB9aE6j3dMuumji_f7dX_lQCC1ZNo8FbUJ3cw-6xnLBvqrmyUNYqLnDT8Vt84CbyCPHZ0H8FJER9wNA48B6VNOjc-KesvT99Q0UxTaZlpseapCcDZw8RNxp5H5JQHLYZwOn3XH0osaDsdg11LxdL1dL32gmwJuEhJ9xw5VCU3-_flKYDKIeQ4XAN-Tglig0XC_XlbJnD9uE0iZwEzOFv-Fc-rVJyr9nOGzHOrwJfAvhsaui-HZFFmNMVK6L5EQAbmlSc8A822narupzTzHDBk12lKZ2rRIXPev9OX_cYLy-JPfPfknLe_kOg11z61FzFmaQ8YQ5H6qa4i5SYEClRA1DgN1pGm2ojj2Cd0nGSVUlfDh7xSfV7Atc2T5j5GUXme7AeG24GQ3ocndB4Z2_PNLZYy1BP7WoPpcTktlokjqBinC5sUN59DJ6zI5p_8TimlMIkExzVPGo3fduSns-Vg9I9h0V2s5iWstREA2vZ5FOPiEWCaIhhpY6XcRKak2XLj5OIXXV0egq38GKPU-wxHRNTJvic0XZxYmMk8kFqr-seKxF1r1lfDZ0EPETJdWRgflAz3Mo2Yhq74JVpYgo_59YHSWIRWX9ScRnoocPGCxvPJBpy4H2-x6q3U_WZemiSZoruaHz9hYurq0XHsaKDeVVISoUctU8nN4k6YE_Q)
+
+
+
+
+
+
+
+
+
+
+[The domestication of Cucurbita argyrosperma as revealed by the genome of its wild relative](https://www.nature.com/articles/s41438-021-00544-9#Sec9)
+
+
+
+> Anchoring the reference genomes into pseudomolecules
+We aimed to improve the genome assemblies of argyrosperma and sororia, which were assembled in 920 scaffolds14 and 817 contigs, respectively. Thus, we generated PacBio corrected reads from the published PacBio RSII reads of argyrosperma (NCBI SRA accession SRR7685401) and the PacBio Sequel reads of sororia (sequenced for this study at the University of Washington PacBio Sequencing Services) using CANU71. The macrosynteny of Cucurbita genomes is largely conserved between species, so we performed a reference-guided scaffolding step using RaGOO18 to anchor the genome assemblies of argyrosperma and sororia into pseudomolecules. We used the genome assembly of C. moschata as the reference genome for RaGOO and we used the PacBio corrected reads of each taxon to detect and correct misassemblies, using a gap size of 2600 bp for chromosome padding (i.e., we filled the gaps between contigs with 2600 stretches of Ns, corresponding to the average gap length of the argyrosperma genome assembly). The chromosome numbers in both assemblies were assigned in correspondence to the genome assembly of C. moschata.
+
+
+
+
+
+
+
+
 [Genome-wide association mapping in maize: status and prospects](https://link.springer.com/article/10.1007/s13205-021-02799-4)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13205-021-02799-4/MediaObjects/13205_2021_2799_Fig1_HTML.png?as=webp)
