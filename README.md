@@ -1,4 +1,9 @@
 # Excellente resources for genomics
+- #### [Genome-enabled discovery of anthraquinone biosynthesis in Senna tora](https://www.nature.com/articles/s41467-020-19681-1)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19681-1/MediaObjects/41467_2020_19681_Fig1_HTML.png?as=webp)
+
 
 
 Published: 28 April 2021 | [Chromosome-scale assembly and analysis of biomass crop Miscanthus lutarioriparius genome](https://www.nature.com/articles/s41467-021-22738-4#Sec12)
@@ -894,7 +899,7 @@ batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50.
 - #### [Excellent tutot for full annotation and downstream analysis | Chromosomal genome of Triplophysa bleekeri provides insights into its evolution and environmental adaptation](https://academic.oup.com/gigascience/article/9/11/giaa132/5999722)
 
 
-- #### [Genome-enabled discovery of anthraquinone biosynthesis in Senna tora](https://www.nature.com/articles/s41467-020-19681-1)
+
 
 
 - #### [A reference high-density genetic map of Theobroma grandiflorum (Willd. ex Spreng) and QTL detection for resistance to witches’ broom disease (Moniliophthora perniciosa)](https://link.springer.com/article/10.1007/s11295-020-01479-3)
