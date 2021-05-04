@@ -1,5 +1,13 @@
 # Excellente resources for genomics
 
+
+Published: 28 April 2021 | [Chromosome-scale assembly and analysis of biomass crop Miscanthus lutarioriparius genome](https://www.nature.com/articles/s41467-021-22738-4#Sec12)
+
+
+
+![IMG](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-22738-4/MediaObjects/41467_2021_22738_Fig1_HTML.png?as=webp)
+
+
 [Recent Applications of RNA Sequencing in Food and Agriculture](https://www.intechopen.com/online-first/recent-applications-of-rna-sequencing-in-food-and-agriculture)
 
 
