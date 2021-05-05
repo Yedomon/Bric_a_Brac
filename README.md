@@ -1,5 +1,16 @@
 # Excellente resources for genomics
 
+
+
+- #### [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-020-00723-9/MediaObjects/41588_2020_723_Fig1_HTML.png?as=webp)
+
+
+
+
+
+
 - #### [Genome of Tripterygium wilfordii and identification of cytochrome P450 involved in triptolide biosynthesis](https://www.nature.com/articles/s41467-020-14776-1#change-history)
 
 
