@@ -1,6 +1,12 @@
 # Excellente resources for genomics
 
 
+- #### [Assembly of a pan-genome from deep sequencing of 910 humans of African descent](https://www.nature.com/articles/s41588-018-0273-y)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-018-0273-y/MediaObjects/41588_2018_273_Fig1_HTML.png?as=webp)
+
+
 
 - #### [Whole-genome analysis of giraffe supports four distinct species](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00546-7)
 
