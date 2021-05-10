@@ -2,6 +2,13 @@
 
 
 
+- #### [Whole-genome analysis of giraffe supports four distinct species](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00546-7)
+
+
+
+![img](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/994eaf9b-16a3-4648-9a0f-bd569bfb1abc/gr2.jpg)
+
+
 - #### [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9)
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-020-00723-9/MediaObjects/41588_2020_723_Fig1_HTML.png?as=webp)
