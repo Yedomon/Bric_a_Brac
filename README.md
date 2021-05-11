@@ -1,6 +1,15 @@
 # Excellente resources for genomics
 
 
+[A new duck genome reveals conserved and convergently evolved chromosome architectures of birds and mammals](https://academic.oup.com/gigascience/article/10/1/giaa142/6039068)
+
+
+[Code availability](https://github.com/ZhouQiLab/DuckGenome)
+
+
+![img](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/10/1/10.1093_gigascience_giaa142/3/m_giaa142fig1.jpeg?Expires=1623406895&Signature=44bCpD9MMowMGoLQFLCu8on0NFvV1gtYRnWQteZIlzmzMSYK9uzUxgdK-~EUWRCsbiC-i1NtLpupxr4~dzDPMJmeC5n7taqVwfZiwRD850UiTMcRw3~L5XnWBalJWPB76EU2bc5kV~0CAzW9vyGzbKKOQgIs6YsNfYZTjfGj4-XUX-q92lPGIsQq4Ejy9TEpF-BAdCye7N4bgiCwpAShJ2aY8IKfgDg~0euP-FV70XQJ5MlUG6ekNfSYwnZhtn~CY09fM00nexl4IEwwfmDbo-K5Rl50WIDYt8l~R41b5YfMuBNVQxb6cFMXtpDI8Zn4VGUaIsIis64a3F1z2-HYSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
 
 
 
