@@ -1,6 +1,29 @@
 # Excellente resources for genomics
 
 
+
+
+
+[Liming Cai 蔡黎明](https://scholar.google.com/citations?hl=en&user=VgQdugwAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+[Deeply Altered Genome Architecture in the Endoparasitic Flowering Plant Sapria himalayana Griff. (Rafflesiaceae)](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31897-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220318972%3Fshowall%3Dtrue#%20)
+
+
+![img](https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Rafflesia_arnoldii_2880_Lede.jpg)
+
+[Nice press release infographics](https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/)
+
+
+![img](https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Sapria_himalayana.jpg)
+
+
+Infography
+
+![img](https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Giant-flowers-1.svg) | ![img](https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Giant-flowers-2.svg)
+
+
+
 - #### [Assembly of a pan-genome from deep sequencing of 910 humans of African descent](https://www.nature.com/articles/s41588-018-0273-y)
 
 
