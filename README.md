@@ -1,6 +1,7 @@
 # Excellente resources for genomics
 
 
+
 [A new duck genome reveals conserved and convergently evolved chromosome architectures of birds and mammals](https://academic.oup.com/gigascience/article/10/1/giaa142/6039068)
 
 
