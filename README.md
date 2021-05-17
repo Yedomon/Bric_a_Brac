@@ -1,6 +1,24 @@
 # Excellente resources for genomics
 
 
+Just found this paper on wedy rice published in 2020.  []Diverse genetic mechanisms underlie worldwide convergent rice feralization(https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01980-x)
+
+
+
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-01980-x/MediaObjects/13059_2020_1980_Fig2_HTML.png?as=webp)
+
+
+
+
+
+
+
+
+
+
+
 
 [A new duck genome reveals conserved and convergently evolved chromosome architectures of birds and mammals](https://academic.oup.com/gigascience/article/10/1/giaa142/6039068)
 
