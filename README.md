@@ -1,7 +1,7 @@
 # Excellente resources for genomics
 
 
-Just found this paper on wedy rice published in 2020.  []Diverse genetic mechanisms underlie worldwide convergent rice feralization(https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01980-x)
+Just found this paper on wedy rice published in 2020.  [Diverse genetic mechanisms underlie worldwide convergent rice feralization](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01980-x)
 
 
 
