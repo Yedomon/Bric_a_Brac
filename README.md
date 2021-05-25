@@ -1,6 +1,21 @@
 # Excellente resources for genomics
 
 
+From my Cell Biology Professor
+
+
+
+[Hi-C analysis: from data generation to integration](https://link.springer.com/article/10.1007/s12551-018-0489-1)
+
+
+[Genomes of 13 domesticated and wild rice relatives highlight genetic conservation, turnover and innovation across the genus Oryza](https://www.nature.com/articles/s41588-018-0040-0)
+
+
+[PacBio Sequencing and Its Applications](https://www.sciencedirect.com/science/article/pii/S1672022915001345?via%3Dihub)
+
+
+
+
 Just found this paper on wedy rice published in 2020.  [Diverse genetic mechanisms underlie worldwide convergent rice feralization](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01980-x)
 
 
