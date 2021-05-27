@@ -993,6 +993,13 @@ batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50.
 
 - #### EXCLLENT INSPIRATION INDICUM GENOME | Good comparison example and graph with R | [Brassica napus](https://academic.oup.com/gigascience/article/9/12/giaa137/6034787) | [Cucumis sativus](https://academic.oup.com/gigascience/article/8/6/giz072/5520540?searchresult=1)
 
+
+
+![img](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/8/6/10.1093_gigascience_giz072/1/m_giz072fig2.jpeg?Expires=1623566636&Signature=Y940nOb~~a-vEOwUQKqJutqYVaWo~EJJxCs3Nauq1WgA4TR6K8nQgL7A9HE6plU0ejtMsjexKe19ztesQ6BD6Cly4fZzlQ7McfUStc4OI9cuWE-pF8QmgmcnER3hPeD822Qq-xoZocgUuKk8cXdxsiGe0GPEwPv5gK8oxCmV2U9xifa-UDk3hXKo7vPoAWIZra17CZDl-O4yfpnQyO3ilRaVWP8dgWSuAlGkLcUkqVjZZpL3qlouk7nYvE~8~bD3dl6Uo7QuejKC1e4EuxU0D5HUEEIdmqWxm716vSkH34uMwWt17iW2CC8tf~cFxWS7Sq~urRILE8E~7QI-hwSBzA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+
+
 - #### [Phased diploid genome assemblies and pan-genomes provide insights into the genetic history of apple domestication](https://www.nature.com/articles/s41588-020-00723-9)
 
 - #### [Excellent tutot for full annotation and downstream analysis | Chromosomal genome of Triplophysa bleekeri provides insights into its evolution and environmental adaptation](https://academic.oup.com/gigascience/article/9/11/giaa132/5999722)
