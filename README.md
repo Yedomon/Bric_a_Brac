@@ -1,5 +1,15 @@
 # Excellente resources for genomics
 
+[Hybrid de novo genome assembly of red gromwell (Lithospermum erythrorhizon) reveals evolutionary insight into shikonin biosynthesis](https://www.nature.com/articles/s41438-020-0301-9)
+
+
+
+
+![img](https://www.nature.com/articles/s41438-020-0301-9/figures/2)
+
+
+
+
 
 From my Cell Biology Professor
 
