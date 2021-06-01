@@ -5,7 +5,7 @@
 
 
 
-![img](https://www.nature.com/articles/s41438-020-0301-9/figures/2)
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41438-020-0301-9/MediaObjects/41438_2020_301_Fig2_HTML.png?as=webp)
 
 
 
