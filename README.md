@@ -1,7 +1,10 @@
 # Excellente resources for genomics
 
 
+[How Do Plants Deal with Dry Days?](https://kids.frontiersin.org/articles/10.3389/frym.2017.00058)
 
+
+![img](https://www.frontiersin.org/files/Articles/275076/frym-05-00058-HTML/image_m/main.jpg)
 
 [Lessons from 20 years of plant genome sequencing: an unprecedented resource in need of more diverse representation](https://www.biorxiv.org/content/10.1101/2021.05.31.446451v1)
 
