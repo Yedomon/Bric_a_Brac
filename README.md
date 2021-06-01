@@ -6,6 +6,16 @@
 
 ![img](https://www.frontiersin.org/files/Articles/275076/frym-05-00058-HTML/image_m/main.jpg)
 
+
+
+[Create beautiful scientific infographics with no effort](https://mindthegraph.com/)
+
+
+
+![img](https://mindthegraph.com/assets/img/home/react/header_humanized_image.png)
+
+
+
 [Lessons from 20 years of plant genome sequencing: an unprecedented resource in need of more diverse representation](https://www.biorxiv.org/content/10.1101/2021.05.31.446451v1)
 
 
