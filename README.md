@@ -1,5 +1,19 @@
 # Excellente resources for genomics
 
+
+
+
+[Lessons from 20 years of plant genome sequencing: an unprecedented resource in need of more diverse representation](https://www.biorxiv.org/content/10.1101/2021.05.31.446451v1)
+
+
+> ...... the field has been dominated by affluent nations in the Global North, despite a wide geographic distribution of sequenced species. We identify multiple inconsistencies between the range of focal species and the national affiliation of the researchers studying the plants, which we argue are rooted in colonialism--both past and present. Falling sequencing costs paired with widening availability of analytical tools and an increasingly connected scientific community provide key opportunities to improve existing assemblies, fill sampling gaps, and, most importantly, empower a more global plant genomics community.
+
+
+
+
+
+
+
 [Hybrid de novo genome assembly of red gromwell (Lithospermum erythrorhizon) reveals evolutionary insight into shikonin biosynthesis](https://www.nature.com/articles/s41438-020-0301-9)
 
 
