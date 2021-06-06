@@ -1,6 +1,15 @@
 # Excellente resources for genomics
 
 
+[Abiotic stress through time](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17367)
+
+Tansley insight by Kathleen K. Markham  and Kathleen Greenham
+
+
+![img](https://nph.onlinelibrary.wiley.com/cms/asset/4ac61aed-275e-4bc4-8e43-9f5bf72bab53/nph17367-fig-0002-m.png)
+
+
+
 
 Why does wild rice possess superior tolerance to salinity? Solis et a;. studied the effects of salinity in the ancestral rice O. rufipogon and the inbred varieties of cultivated rice under field conditions.
 
