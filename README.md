@@ -1,6 +1,27 @@
 # Excellente resources for genomics
 
 
+
+Why does wild rice possess superior tolerance to salinity? Solis et a;. studied the effects of salinity in the ancestral rice O. rufipogon and the inbred varieties of cultivated rice under field conditions.
+
+
+
+
+[Sodium sequestration confers salinity tolerance in an ancestral wild rice](https://onlinelibrary.wiley.com/doi/abs/10.1111/ppl.13352)
+
+
+
+[Back to the Wild: On a Quest for Donors Toward Salinity Tolerant Rice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098918/)
+
+
+
+![img](https://www.frontiersin.org/files/Articles/524985/fpls-11-00323-HTML/image_m/fpls-11-00323-g003.jpg)
+
+
+
+
+
+
 [How Do Plants Deal with Dry Days?](https://kids.frontiersin.org/articles/10.3389/frym.2017.00058)
 
 
