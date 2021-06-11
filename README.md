@@ -1,5 +1,12 @@
 # Excellente resources for genomics
 
+
+[Advancing crop genomics from lab to field](https://www.nature.com/articles/s41588-021-00866-3?hash=83f37f73-82e3-4669-ad63-50c192ab98b6&utm_medium=social&utm_source=facebook)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00866-3/MediaObjects/41588_2021_866_Fig3_HTML.png?as=webp)
+
+
 [Genome sequence of Gossypium herbaceum and genome updates of Gossypium arboreum and Gossypium hirsutum provide insights into cotton A-genome evolution](https://www.nature.com/articles/s41588-020-0607-4#Sec10)
 
 
