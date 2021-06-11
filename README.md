@@ -1,5 +1,14 @@
 # Excellente resources for genomics
 
+[The Earth BioGenome project: opportunities and challenges for plant genomics and conservation](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14631)
+
+
+![img](https://onlinelibrary.wiley.com/cms/asset/6d456c6f-4dd7-4216-9a65-e408c0f217d1/tpj14631-fig-0002-m.jpg)
+
+
+
+
+
 
 [Advancing crop genomics from lab to field](https://www.nature.com/articles/s41588-021-00866-3?hash=83f37f73-82e3-4669-ad63-50c192ab98b6&utm_medium=social&utm_source=facebook)
 
