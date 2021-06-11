@@ -1,6 +1,19 @@
 # Excellente resources for genomics
 
 
+[Wolfberry genomes and the evolution of Lycium (Solanaceae)](https://www.nature.com/articles/s42003-021-02152-8#Sec17)
+
+
+![img](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-021-02152-8/MediaObjects/42003_2021_2152_Fig3_HTML.png?as=webp)
+
+
+
+
+
+
+
+
+
 [Abiotic stress through time](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17367)
 
 Tansley insight by Kathleen K. Markham  and Kathleen Greenham
