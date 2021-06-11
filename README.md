@@ -1,5 +1,10 @@
 # Excellente resources for genomics
 
+[Genome sequence of Gossypium herbaceum and genome updates of Gossypium arboreum and Gossypium hirsutum provide insights into cotton A-genome evolution](https://www.nature.com/articles/s41588-020-0607-4#Sec10)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-020-0607-4/MediaObjects/41588_2020_607_Fig1_HTML.png?as=webp)
+
 
 [Wolfberry genomes and the evolution of Lycium (Solanaceae)](https://www.nature.com/articles/s42003-021-02152-8#Sec17)
 
