@@ -1,5 +1,23 @@
 # Excellente resources for genomics
 
+
+[The draft chromosome-level genome assembly of tetraploid ground cherry (Prunus fruticosa Pall.) from long reads](https://www.biorxiv.org/content/10.1101/2021.06.01.446499v1)
+
+
+
+
+
+![img](https://www.biorxiv.org/content/biorxiv/early/2021/06/01/2021.06.01.446499/F6.large.jpg?width=800&height=600&carousel=1)
+
+
+
+
+
+
+
+
+
+
 [The Earth BioGenome project: opportunities and challenges for plant genomics and conservation](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14631)
 
 
