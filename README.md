@@ -1,7 +1,22 @@
 # Excellente resources for genomics
 
 
-[The draft chromosome-level genome assembly of tetraploid ground cherry (Prunus fruticosa Pall.) from long reads](https://www.biorxiv.org/content/10.1101/2021.06.01.446499v1)
+## [The nearly complete genome of Ginkgo biloba illuminates gymnosperm evolution](https://www.nature.com/articles/s41477-021-00933-x)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-021-00933-x/MediaObjects/41477_2021_933_Fig1_HTML.png?as=webp)
+
+
+
+
+
+
+
+
+
+
+
+## [The draft chromosome-level genome assembly of tetraploid ground cherry (Prunus fruticosa Pall.) from long reads](https://www.biorxiv.org/content/10.1101/2021.06.01.446499v1)
 
 
 
