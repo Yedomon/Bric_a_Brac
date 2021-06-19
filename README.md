@@ -1,6 +1,32 @@
 # Excellente resources for genomics
 
 
+
+
+
+
+out the 14 june 2021:  Peach genome and population genomics
+
+[Population-scale peach genome analyses unravel selection patterns and biochemical basis underlying fruit flavor](https://www.nature.com/articles/s41467-021-23879-2)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-23879-2/MediaObjects/41467_2021_23879_Fig1_HTML.png?as=webp)
+
+
+si how the found sv and follow the way to make it for sesame
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [The nearly complete genome of Ginkgo biloba illuminates gymnosperm evolution](https://www.nature.com/articles/s41477-021-00933-x)
 
 
