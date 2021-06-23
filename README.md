@@ -13,6 +13,8 @@ Une bonne inspiration pour faire un truc pareil avec le Fusarium oxysporum speci
 ![img](https://www.biorxiv.org/content/biorxiv/early/2021/02/15/2021.02.14.431146/F1.large.jpg?width=800&height=600&carousel=1)
 
 
+[Code available](https://github.com/pbfrandsen/insect_genome_assemblies)
+
 
 
 out the 14 june 2021:  Peach genome and population genomics
