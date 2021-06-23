@@ -1,6 +1,16 @@
 # Excellente resources for genomics
 
 
+Une bonne inspiration pour faire un truc pareil avec le Fusarium oxysporum species
+
+
+
+
+[Long-reads are revolutionizing 20 years of insect genome sequencing](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab138/6307268)
+
+
+
+![img](https://www.biorxiv.org/content/biorxiv/early/2021/02/15/2021.02.14.431146/F1.large.jpg?width=800&height=600&carousel=1)
 
 
 
