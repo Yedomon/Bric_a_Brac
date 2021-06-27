@@ -1,6 +1,15 @@
 # Excellente resources for genomics
 
 
+Quelqu'un qui vend ses services en bioinformatique. Il me faudra faire un truc pareil aussi
+
+
+
+
+https://www.gringene.org/
+
+
+
 An other paper on African crop without African authors
 
 
