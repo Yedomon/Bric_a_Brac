@@ -11,7 +11,11 @@ An other paper on African crop without African authors
 
 
 
+A bon review qui montre le besoin de se resaisir en Afrique sur le plan genome
 
+
+[Lessons from 20 years of plant genome sequencing: an unprecedented 
+resource in need of more diverse representation](https://www.biorxiv.org/content/10.1101/2021.05.31.446451v1.full.pdf)
 
 
 
