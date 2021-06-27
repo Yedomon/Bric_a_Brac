@@ -1,6 +1,25 @@
 # Excellente resources for genomics
 
 
+An other paper on African crop without African authors
+
+
+[Large structural variations in the haplotype-resolved African cassava genome](https://www.biorxiv.org/content/10.1101/2021.06.25.450005v1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Une bonne inspiration pour faire un truc pareil avec le Fusarium oxysporum species
 
 
