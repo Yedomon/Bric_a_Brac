@@ -39,7 +39,7 @@ I can use that for gap filling with our nextdenovo as input like Mascter used ON
 
 
 
-
+![img](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plcell/PAP/10.1093_plcell_koab077/3/m_koab077f4.jpeg?Expires=1627866555&Signature=GybBghtvGZGupzeBKbdk51FCpP-oMDpbN6fz6rUf4q7VfVlG9JMwJL7fX9YU5sg4QYVBE1XHAc5YLmO8R8WWqbIxkNglBryDgXxvjJ3rPgs-Edklu~N3ddlP6WkbwRCgZwXrtEvFAnzlKzWG3VWgXNxAHvv04wY3S4RNUOIliaduuWDUMMnJm9TWepTV9IXRKo3zCiuYURaMejYeVNErSHRdhzTjGDNIdCryslWfI9q48kPw6~jUZbXbJzAZLDa-KIHZVH-4EJ5UKq7ZlVjgDup0bMCxGpT08LP8XH9GBUtA61d19wuphCzv7AxEdXW2aahP~BMU5GiWnEcfahRrXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 
 
