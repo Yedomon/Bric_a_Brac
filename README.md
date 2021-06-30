@@ -1,5 +1,49 @@
 # Excellente resources for genomics
 
+
+
+
+Pacbio [Twitter](https://twitter.com/PacBio/status/1410318485104873475)
+
+> Plant genome assembly can be v. difficult. It took >10 years to assemble the genome of one #barley variety! See how @SchreiberMona , Martin Mascher of @IPKGatersleben & co used HiFi sequencing to generate accurate & complete assemblies in a few days .
+
+
+Plantae [interpretation](https://plantae.org/faster-and-easier-access-to-genetic-information-with-long-read-sequencing/)
+
+Background: The genome encodes the entire genetic information of an organism. It is stored as a DNA nucleotide sequences in the nucleus of each cell of an organism. The DNA is organized into chromosomes, structures large enough to be visible under a microscope. The genome of the crop plant barley consists of about five billion nucleotides. Sequencing and assembling a genome means reading out all its nucleotides and arranging them into a computer-readable text. Genome assembly used to be very difficult. It took over ten years to assemble the genome sequence of one barley variety. Genomes differ between the individuals of one species and we can learn a lot about diversity in our crops by comparing genomes of different varieties. Researchers that want to study many genomes need a fast and reliable method for sequence assembly.
+
+Question: We wanted to know if a new method for DNA sequencing, accurate long-read sequencing, can make genome assembly faster and easier.
+
+Findings: We used the PacBio HiFi sequencing method to generate accurate long-reads of the barley genome and assembled the reads into sequences representing entire chromosomes. We also made genome assemblies from other types of sequence reads generated with alternative methods such as short reads or long-reads with high error rates. When we compared the different assemblies to each other, the HiFi assembly performed best. It represented the largest fraction of genes, also those that are present in multiple, nearly identical copies. The HiFi assembly also captured almost all of non-coding and highly repetitive sequences between genes. Importantly, the HiFi method was very fast so that we were able to generate accurate and complete genome sequences in a few days.
+
+Next steps: We will use HiFi sequencing to assemble genomes of more cultivated varieties and wild relatives of barley. We expect to find genetic variants, for example in diseases resistance genes, that may help enrich the genetic diversity of barley.
+
+Martin Mascher, Thomas Wicker, Jerry Jenkins, Christopher Plott, Thomas Lux, Chu Shin Koh, Jennifer Ens, Heidrun Gundlach, Lori B Boston, Zuzana Tulpová, Samuel Holden, Inmaculada Hernández-Pinzón, Uwe Scholz, Klaus F X Mayer, Manuel Spannagl, Curtis J Pozniak, Andrew G Sharpe, Hana Šimková, Matthew J Moscou, Jane Grimwood, Jeremy Schmutz, Nils Stein (2021) Long-read sequence assembly: a technical evaluation in barley. Plant Cell. [doi](https://doi.org/10.1093/plcell/koab077)
+
+
+
+
+a Benchmarking approach was used to find out the best assembly. With the canu assembly, they set a scaffolding with bionano followed by gap filling with nanopore assembly contigs the perform Hi-C
+
+
+> The CCS_canu contigs were scaffolded with BionanoSolve (https://bionanogenomics.com/support/software-downloads/) version 3.5_12162019 using the “hybridScaffold_DLE1_config.xml” parameter set. Prior to gap filling, the set of scaffolds was filtered using the following criteria: scaffolds not assigned to chromosomes using Hi-C and POPSEQ data as described in the TRITEX pipeline were discarded unless they fulfilled the following three conditions (1) their length was ≥50 kb, (2) they were not reported to be “bubbles” by Canu, and (3) they had 10-folded coverage with CCS reads as report by Canu *OR* carried genes not present in scaffolds assigned to chromosomes. Gap filling was done with TGS-Gapcloser (Xu et al., 2019, https://github.com/BGI-Qingdao/TGS-GapCloser) using ONT_smartdenovo contigs as “reads” for closing gaps. The parameters “–min_match 5000 –min_idy = 0.5 –ne” were used. The script TGS-GapCloser.sh was modified to use the following Minimap2 parameters: “-K 10G -I 10G -f 0.005 -x asm5” for assembly-to-assembly alignment and exclusion of highly repetitive minimizers. Gap sequence in the scaffolds before and after gap filling was determined with seqtk (https://github.com/lh3/seqtk, parameters “cutN -g -n 0”). Gap-filled scaffolds were used as input for pseudomolecule construction using the TRITEX pipeline as described by Monat et al. (2019). Hi-C data of (Mascher et al., 2017) were used for ordering and orienting scaffolds (ENA accession PRJEB14169). POPSEQ markers (Mascher et al., 2013) and GBS loci mapped in the Morex × Barke recombinant inbred lines reported by Mascher et al. (2017) were aligned to preliminary pseudomolecules using Minimap2 (Li, 2018) and the order and orientations of scaffolds in the distal 10 Mb of each chromosome arm were inspected and corrected manually
+
+
+
+
+So I discovered an algorithm that can handle gapfilling [TGS-GapCloser](https://github.com/BGI-Qingdao/TGS-GapCloser) with long reads data. Awesome discoveriing.
+
+I can use that for gap filling with our nextdenovo as input like Mascter used ONT_smartdenovo contigs assembly as reads for gap closing. Besides it is available on conda. So I can use it easily in NABIC. So great! Thank you God for guiding me through this.
+
+
+
+
+
+
+
+
+
+
 Genome evolution and divergence of common and tepary bean.
 
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-22858-x/MediaObjects/41467_2021_22858_Fig1_HTML.png?as=webp)
