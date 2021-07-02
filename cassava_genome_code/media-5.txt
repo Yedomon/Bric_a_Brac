@@ -1,0 +1,164 @@
+##### FALCON
+
+# fc_run.cfg
+
+#### Input
+[General]
+input_fofn=input.fofn
+input_type=raw
+pa_fasta_filter_option=pass
+target=assembly
+skip_checks=false
+LA4Falcon_preload=false
+pa_DBdust_option=
+#### Data Partitioning
+pa_DBsplit_option = -x500 -s350
+ovlp_DBsplit_option = -x500 -s350
+##Repeat masking
+pa_HPCTANmask_option=
+pa_REPmask_code=0,300;0,300;0,300
+####Pre-assembly 
+# adjust to your genome size
+length_cutoff = 5000
+pa_HPCdaligner_option= -v -M15 -B32 -t16
+pa_daligner_option = -v -h50 -k14 -w6 -e.70 -l1000 -s1000
+falcon_sense_option=--output_multi --min_idt 0.70 --min_cov 4 --max_n_read 200 --n_core 8
+####Pread overlapping
+ovlp_HPCdaligner_option=-v -M15 -B32 -t32
+ovlp_daligner_option= -v -h60 -e.96 -l500 -s1000
+####Final Assembly
+length_cutoff_pr = 4000
+overlap_filtering_setting=--max_diff 70 --max_cov 90 --min_cov 4 --bestn 10
+[job.defaults]
+job_type=sge
+pwatcher_type=fs_based
+JOB_QUEUE=default
+#MB=400000
+#NPROC=56
+#njobs=32
+submit = qsub -S /bin/bash -V  \
+ -N ${JOB_NAME}      \
+ -o "${JOB_STDOUT}"  \
+ -e "${JOB_STDERR}"  \
+ -l procs=${NPROC}   \
+ -l mem=${MB}M    \
+ "${JOB_SCRIPT}"
+ 
+#submit = bash -C ${CMD} >| ${STDOUT_FILE} 2>| ${STDERR_FILE}
+# kill = condor_rm ${JOB_NAME}
+[job.step.da]
+NPROC=4
+MB=32768
+njobs=240
+#njobs=28
+[job.step.la]
+NPROC=4
+MB=32768
+njobs=240
+#njobs=28
+[job.step.cns]
+NPROC=4
+MB=65536
+njobs=240
+#njobs=28
+[job.step.pda]
+NPROC=4
+MB=32768
+njobs=240
+#njobs=28
+[job.step.pla]
+NPROC=4
+MB=32768
+njobs=240
+#njobs=28
+[job.step.asm]
+NPROC=24
+#NPROC=112
+MB=196608
+#MB=400000
+njobs=1
+
+
+#### FALCON UNZIP
+
+# fc_unzip.cfg
+
+[General]
+max_n_open_files = 1000
+[Unzip]
+input_fofn=input.fofn
+input_bam_fofn=input_bam.fofn
+#[job.defaults]
+#job_type=local
+#pwatcher_type=blocking
+#JOB_QUEUE=default
+#submit = bash -C ${CMD} >| ${STDOUT_FILE} 2>| ${STDERR_FILE}
+#MB=20000
+#NPROC=4
+#njobs=10
+[job.defaults]
+job_type=sge
+pwatcher_type=fs_based
+JOB_QUEUE=default
+submit = qsub -S /bin/bash -V  \
+ -N ${JOB_NAME}      \
+ -o "${JOB_STDOUT}"  \
+ -e "${JOB_STDERR}"  \
+ -l procs=${NPROC}   \
+ -l mem=${MB}M    \
+ "${JOB_SCRIPT}"
+[job.step.unzip.phasing]
+NPROC=1
+njobs=200
+[job.step.unzip.blasr_aln]
+njobs=200
+NPROC=2
+MB=32000
+[job.step.unzip.quiver]
+njobs=200
+NPROC=2
+[job.step.unzip.track_reads]
+njobs=1
+NPROC=48
+MB=393216
+[job.step.unzip.hasm]
+njobs=1
+NPROC=48
+MB=393216
+
+
+##### FALCON Phase
+
+# fc_phase.cfg
+
+[General]
+#target=minced
+[job.defaults]
+NPROC=2
+njobs=200
+MB=16000
+pwatcher_type=fs_based
+job_type=sge
+JOB_QUEUE=default
+submit = qsub -S /bin/bash -V  \
+ -N ${JOB_NAME}      \
+ -o "${JOB_STDOUT}"  \
+ -e "${JOB_STDERR}"  \
+ -l procs=${NPROC}   \
+ -l mem=${MB}M    \
+ "${JOB_SCRIPT}"
+[Phase]
+cns_p_ctg_fasta = /shares/bbart_share/aboyher/projects/cassava_assem/tme7_200703_falcon/6-purge/primary_renamed.fa
+cns_h_ctg_fasta = /shares/bbart_share/aboyher/projects/cassava_assem/tme7_200703_falcon/6-purge/haplotigs_renamed.fa
+reads_1=/home/bbart/data/original_data_files/novogene/DTG_HiC_473_USPD16086171_HLKYTCCXY_L3_1.fq
+reads_2=/home/bbart/data/original_data_files/novogene/DTG_HiC_473_USPD16086171_HLKYTCCXY_L3_2.fq
+min_aln_len=500
+iterations=10000000
+enzyme=GATC
+output_format=pseudohap
+[job.step.phase.alignment]
+NPROC=40
+#NPROC=112
+MB=196608
+#MB=400000
+njobs=1
