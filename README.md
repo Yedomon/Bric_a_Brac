@@ -2,6 +2,36 @@
 
 
 
+[Large structural variations in the haplotype-resolved African cassava genome](https://www.biorxiv.org/content/10.1101/2021.06.25.450005v1.full)
+
+
+![img](https://www.biorxiv.org/content/biorxiv/early/2021/06/26/2021.06.25.450005/F3.medium.gif)
+
+
+
+[Code available for R graphs]()
+
+
+
+
+
+
+
+
+Today 02 july 2021 on bioachive | [A chromosome-level genome sequence of a model chrysanthemum: evolution and reference for hexaploid cultivated chrysanthemum](https://www.biorxiv.org/content/10.1101/2021.06.28.450068v1.full)
+
+
+
+![img](https://www.biorxiv.org/content/biorxiv/early/2021/06/29/2021.06.28.450068/F3.medium.gif)
+
+
+
+
+
+
+
+
+
 
 Pacbio [Twitter](https://twitter.com/PacBio/status/1410318485104873475)
 
