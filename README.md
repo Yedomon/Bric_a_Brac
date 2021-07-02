@@ -1,6 +1,22 @@
 # Excellente resources for genomics
 
 
+[The reference genome of Miscanthus floridulus illuminates the evolution of Saccharinae](https://www.nature.com/articles/s41477-021-00908-y)
+
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-021-00908-y/MediaObjects/41477_2021_908_Fig1_HTML.png?as=webp)
+
+
+[Code availability](https://github.com/sdysfhs319/Miscanthus_genome)
+
+
+
+
+
+
+
+
 
 [Large structural variations in the haplotype-resolved African cassava genome](https://www.biorxiv.org/content/10.1101/2021.06.25.450005v1.full)
 
