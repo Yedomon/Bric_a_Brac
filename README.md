@@ -2,6 +2,8 @@
 
 
 
+
+
 Today 03rd july 2021 on Kazusa DNA Plant Genome Unit (@KGenomeu) of Kazusa DNA Research Institute twitter account I discovered this paper entitles [Whole-genome sequencing and analysis of two azaleas, Rhododendron ripense and Rhododendron kiyosumense](https://www.biorxiv.org/content/10.1101/2021.06.17.448907v1.full). I like the result presentation style. Simple, soft and clear.
 
 I also disovered Plant GARDEN（ Genome And Resource Database ENtry ） of Japan the link is `https://plantgarden.jp/ja/index`. Theit twitter account is `@PlantGARDEN1`
@@ -13,9 +15,9 @@ Automatic Polishing might introduce errors. Here T2T team shows how they handled
 
 
 
+Good inspiration for the methodology [Chromosome-scale assembly and analysis of biomass crop Miscanthus lutarioriparius genome](https://www.nature.com/articles/s41467-021-22738-4)
 
-
-
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-22738-4/MediaObjects/41467_2021_22738_Fig1_HTML.png?as=webp)
 
 
 
