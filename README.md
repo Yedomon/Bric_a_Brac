@@ -1,6 +1,28 @@
 # Excellente resources for genomics
 
 
+
+Today 03rd july 2021 on Kazusa DNA Plant Genome Unit (@KGenomeu) of Kazusa DNA Research Institute twitter account I discovered this paper entitles [Whole-genome sequencing and analysis of two azaleas, Rhododendron ripense and Rhododendron kiyosumense](https://www.biorxiv.org/content/10.1101/2021.06.17.448907v1.full). I like the result presentation style. Simple, soft and clear.
+
+I also disovered Plant GARDEN（ Genome And Resource Database ENtry ） of Japan the link is `https://plantgarden.jp/ja/index`. Theit twitter account is `@PlantGARDEN1`
+
+
+Automatic Polishing might introduce errors. Here T2T team shows how they handled this on human genome.
+
+[Chasing perfection: validation and polishing strategies for telomere-to-telomere genome assemblies](https://www.biorxiv.org/content/10.1101/2021.07.02.450803v1)
+
+
+
+
+
+
+
+
+
+
+
+
+
 [The reference genome of Miscanthus floridulus illuminates the evolution of Saccharinae](https://www.nature.com/articles/s41477-021-00908-y)
 
 
