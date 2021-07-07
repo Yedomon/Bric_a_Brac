@@ -2,6 +2,13 @@
 
 
 
+[Reference genomes of the two cultivated jute species](https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13652)
+
+
+
+
+
+
 
 
 Today 03rd july 2021 on Kazusa DNA Plant Genome Unit (@KGenomeu) of Kazusa DNA Research Institute twitter account I discovered this paper entitles [Whole-genome sequencing and analysis of two azaleas, Rhododendron ripense and Rhododendron kiyosumense](https://www.biorxiv.org/content/10.1101/2021.06.17.448907v1.full). I like the result presentation style. Simple, soft and clear.
